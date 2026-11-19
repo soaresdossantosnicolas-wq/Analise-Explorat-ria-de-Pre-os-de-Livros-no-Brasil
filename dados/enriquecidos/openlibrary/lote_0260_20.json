@@ -1,0 +1,346 @@
+{
+  "consultado_em": "2026-11-19T22:37:54.821045+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573265132%2CISBN%3A9788573265125%2CISBN%3A9788573265118%2CISBN%3A9788573265156%2CISBN%3A9788573265057%2CISBN%3A9788573265149%2CISBN%3A9788573260809%2CISBN%3A9788573265170%2CISBN%3A9788573265187%2CISBN%3A9788573265200%2CISBN%3A9788573265224%2CISBN%3A9788573265231%2CISBN%3A9788573265217%2CISBN%3A9788573265248%2CISBN%3A9788573265262%2CISBN%3A9788573265194%2CISBN%3A9788573265255%2CISBN%3A9788573265293%2CISBN%3A9788573265286%2CISBN%3A9788573265309&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573260809": {
+      "url": "https://openlibrary.org/books/OL501503M/A_lua_da_verdade",
+      "key": "/books/OL501503M",
+      "title": "A lua da verdade",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304759A/Isaias_Pessotti",
+          "name": "Isaias Pessotti"
+        }
+      ],
+      "number_of_pages": 284,
+      "pagination": "284 p. :",
+      "by_statement": "Isaias Pessotti.",
+      "identifiers": {
+        "goodreads": [
+          "1866591"
+        ],
+        "librarything": [
+          "2450558"
+        ],
+        "isbn_10": [
+          "8573260807"
+        ],
+        "lccn": [
+          "98831784"
+        ],
+        "oclc": [
+          "39360630",
+          "41347932"
+        ],
+        "openlibrary": [
+          "OL501503M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 98/05874 (P)",
+          "PQ9698.26.E795 L8 1997"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1997",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/3759937-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/3759937-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/3759937-L.jpg"
+      }
+    },
+    "ISBN:9788573265170": {
+      "url": "https://openlibrary.org/books/OL53150816M/Quando_a_terra_deixou_de_falar",
+      "key": "/books/OL53150816M",
+      "title": "Quando a terra deixou de falar",
+      "subtitle": "cantos da mitologia marubo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8645521A/Pedro_Cesarino",
+          "name": "Pedro Cesarino"
+        }
+      ],
+      "number_of_pages": 317,
+      "pagination": "317 p.",
+      "by_statement": "organização, tradução e apresentação, Pedro de Niemeyer Cesarino ; a partir dos cantos de Armando Mariano Marubo ... [et al.].",
+      "identifiers": {
+        "isbn_13": [
+          "9788573265170"
+        ],
+        "oclc": [
+          "883630230"
+        ],
+        "openlibrary": [
+          "OL53150816M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2520.1.M26 Q36 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Maruba mythology",
+          "url": "https://openlibrary.org/subjects/maruba_mythology"
+        },
+        {
+          "name": "Maruba Indians",
+          "url": "https://openlibrary.org/subjects/maruba_indians"
+        },
+        {
+          "name": "Songs and music",
+          "url": "https://openlibrary.org/subjects/songs_and_music"
+        },
+        {
+          "name": "Indian mythology",
+          "url": "https://openlibrary.org/subjects/indian_mythology"
+        },
+        {
+          "name": "Indians of South America",
+          "url": "https://openlibrary.org/subjects/indians_of_south_america"
+        }
+      ]
+    },
+    "ISBN:9788573265187": {
+      "url": "https://openlibrary.org/books/OL60652426M/A_desgovernança_mundial_da_sustentabilidade",
+      "key": "/books/OL60652426M",
+      "title": "A desgovernança mundial da sustentabilidade",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5729785A/José_Eli_da_Veiga",
+          "name": "José Eli da Veiga"
+        }
+      ],
+      "number_of_pages": 151,
+      "pagination": "151 pages",
+      "by_statement": "José Eli da Veiga",
+      "identifiers": {
+        "isbn_13": [
+          "9788573265187"
+        ],
+        "oclc": [
+          "957394430"
+        ],
+        "openlibrary": [
+          "OL60652426M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2013"
+    },
+    "ISBN:9788573265217": {
+      "url": "https://openlibrary.org/books/OL31163502M/Lívia_e_o_cemitério_africano",
+      "key": "/books/OL31163502M",
+      "title": "Lívia e o cemitério africano",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304655A/Alberto_Alexandre_Martins",
+          "name": "Alberto Alexandre Martins"
+        }
+      ],
+      "number_of_pages": 152,
+      "pagination": "152 pages",
+      "by_statement": "Alberto Martins",
+      "identifiers": {
+        "isbn_10": [
+          "8573265213"
+        ],
+        "isbn_13": [
+          "9788573265217"
+        ],
+        "lccn": [
+          "2014396120"
+        ],
+        "oclc": [
+          "857390475"
+        ],
+        "openlibrary": [
+          "OL31163502M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.23.A7276 L58 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo SP Brasil"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Erzählung",
+          "url": "https://openlibrary.org/subjects/erzählung"
+        },
+        {
+          "name": "Portugiesisch",
+          "url": "https://openlibrary.org/subjects/portugiesisch"
+        }
+      ],
+      "notes": "\"Gravuras do autor.\""
+    },
+    "ISBN:9788573265194": {
+      "url": "https://openlibrary.org/books/OL31097644M/Arte_e_meio_artístico",
+      "key": "/books/OL31097644M",
+      "title": "Arte e meio artístico",
+      "subtitle": "entre a feijoada e o x-burguer (1961-1981) : artigos e ensaios (1961-1981)",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "number_of_pages": 539,
+      "pagination": "539 pages",
+      "by_statement": "Aracy A. Amaral",
+      "identifiers": {
+        "isbn_13": [
+          "9788573265194"
+        ],
+        "lccn": [
+          "2014341355"
+        ],
+        "openlibrary": [
+          "OL31097644M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "N6655 .A67 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Art, Brazilian",
+          "url": "https://openlibrary.org/subjects/art,_brazilian"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Modern Art",
+          "url": "https://openlibrary.org/subjects/modern_art"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references and index.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13799123-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13799123-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13799123-L.jpg"
+      }
+    },
+    "ISBN:9788573265309": {
+      "url": "https://openlibrary.org/books/OL31163684M/Garimpo",
+      "key": "/books/OL31163684M",
+      "title": "Garimpo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8843382A/Beatriz_Bracher",
+          "name": "Beatriz Bracher"
+        }
+      ],
+      "number_of_pages": 129,
+      "pagination": "129 pages",
+      "by_statement": "Beatriz Bracher",
+      "identifiers": {
+        "isbn_10": [
+          "8573265302"
+        ],
+        "isbn_13": [
+          "9788573265309"
+        ],
+        "lccn": [
+          "2014396206"
+        ],
+        "oclc": [
+          "865505390"
+        ],
+        "openlibrary": [
+          "OL31163684M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.412.R33 G37 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo-SP Brasil"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Erzählung",
+          "url": "https://openlibrary.org/subjects/erzählung"
+        },
+        {
+          "name": "Portugiesisch",
+          "url": "https://openlibrary.org/subjects/portugiesisch"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "consultado_em": "2026-11-19T22:38:22.835042+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573266030%2CISBN%3A9788573266047%2CISBN%3A9788573266054%2CISBN%3A9788573266078%2CISBN%3A9788573266092%2CISBN%3A9788573266061%2CISBN%3A9788573266108%2CISBN%3A9788573266085%2CISBN%3A9788573266115%2CISBN%3A9788573266139%2CISBN%3A9788573266146%2CISBN%3A9788573266153%2CISBN%3A9788573266177%2CISBN%3A9788573266160%2CISBN%3A9788573266191%2CISBN%3A9788573266184%2CISBN%3A9788573266207%2CISBN%3A9788573266214%2CISBN%3A9788573266221%2CISBN%3A9788573266245&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573266030": {
+      "url": "https://openlibrary.org/books/OL62262167M/Treme_ainda",
+      "key": "/books/OL62262167M",
+      "title": "Treme ainda",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5402177A/Fabio_Weintraub",
+          "name": "Fabio Weintraub"
+        }
+      ],
+      "number_of_pages": 96,
+      "pagination": "96 pages",
+      "by_statement": "Fabio Weintraub",
+      "identifiers": {
+        "isbn_10": [
+          "8573266031"
+        ],
+        "isbn_13": [
+          "9788573266030"
+        ],
+        "oclc": [
+          "936546837"
+        ],
+        "openlibrary": [
+          "OL62262167M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.433.E56 T74 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2015",
+      "notes": "Poems."
+    },
+    "ISBN:9788573266047": {
+      "url": "https://openlibrary.org/books/OL44543963M/Caçambas",
+      "key": "/books/OL44543963M",
+      "title": "Caçambas",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5388371A/Ruy_Proença",
+          "name": "Ruy Proença"
+        }
+      ],
+      "number_of_pages": 152,
+      "pagination": "152 p.",
+      "by_statement": "Ruy Proença",
+      "identifiers": {
+        "isbn_10": [
+          "857326604X"
+        ],
+        "isbn_13": [
+          "9788573266047"
+        ],
+        "lccn": [
+          "2015501544"
+        ],
+        "oclc": [
+          "936546905"
+        ],
+        "openlibrary": [
+          "OL44543963M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.26.R642 C33 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed.34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2015"
+    },
+    "ISBN:9788573266078": {
+      "url": "https://openlibrary.org/books/OL44543977M/Anatomia_do_paraíso",
+      "key": "/books/OL44543977M",
+      "title": "Anatomia do paraíso",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4945250A/Beatriz_Bracher",
+          "name": "Beatriz Bracher"
+        }
+      ],
+      "number_of_pages": 328,
+      "pagination": "328 p.",
+      "by_statement": "Beatriz Bracher",
+      "identifiers": {
+        "isbn_10": [
+          "8573266074"
+        ],
+        "isbn_13": [
+          "9788573266078"
+        ],
+        "lccn": [
+          "2015501543"
+        ],
+        "oclc": [
+          "936546902"
+        ],
+        "openlibrary": [
+          "OL44543977M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.412.R33 A63 2015",
+          "PQ9698.412.R33 A83 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed.34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2015",
+      "subjects": [
+        {
+          "name": "Graduate students",
+          "url": "https://openlibrary.org/subjects/graduate_students"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Brazilian fiction",
+          "url": "https://openlibrary.org/subjects/brazilian_fiction"
+        },
+        {
+          "name": "Paradise lost (Milton, John)",
+          "url": "https://openlibrary.org/subjects/paradise_lost_(milton,_john)"
+        }
+      ]
+    },
+    "ISBN:9788573266092": {
+      "url": "https://openlibrary.org/books/OL47562527M/Clássicos_do_Conto_Russo",
+      "key": "/books/OL47562527M",
+      "title": "Clássicos do Conto Russo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL7167492A/Vários_Autores",
+          "name": "Vários Autores"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573266090"
+        ],
+        "isbn_13": [
+          "9788573266092"
+        ],
+        "openlibrary": [
+          "OL47562527M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Apr 19, 2015",
+      "notes": "Source title: Clássicos do Conto Russo (Em Portuguese do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14182575-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14182575-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14182575-L.jpg"
+      }
+    },
+    "ISBN:9788573266115": {
+      "url": "https://openlibrary.org/books/OL61027680M/Paraíso_perdido",
+      "key": "/books/OL61027680M",
+      "title": "Paraíso perdido",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL68333A/John_Milton",
+          "name": "John Milton"
+        }
+      ],
+      "number_of_pages": 896,
+      "identifiers": {
+        "isbn_10": [
+          "8573266112"
+        ],
+        "isbn_13": [
+          "9788573266115"
+        ],
+        "openlibrary": [
+          "OL61027680M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Brazil"
+        }
+      ],
+      "publish_date": "05/11/2015",
+      "subjects": [
+        {
+          "name": "Bible",
+          "url": "https://openlibrary.org/subjects/bible"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Devil",
+          "url": "https://openlibrary.org/subjects/devil"
+        },
+        {
+          "name": "Early works to 1800",
+          "url": "https://openlibrary.org/subjects/early_works_to_1800"
+        },
+        {
+          "name": "English Christian poetry",
+          "url": "https://openlibrary.org/subjects/english_christian_poetry"
+        },
+        {
+          "name": "English Epic poetry",
+          "url": "https://openlibrary.org/subjects/english_epic_poetry"
+        },
+        {
+          "name": "English poetry",
+          "url": "https://openlibrary.org/subjects/english_poetry"
+        },
+        {
+          "name": "Fall of man",
+          "url": "https://openlibrary.org/subjects/fall_of_man"
+        },
+        {
+          "name": "Fall of man in literature",
+          "url": "https://openlibrary.org/subjects/fall_of_man_in_literature"
+        },
+        {
+          "name": "Fall of man.",
+          "url": "https://openlibrary.org/subjects/fall_of_man."
+        },
+        {
+          "name": "First editions",
+          "url": "https://openlibrary.org/subjects/first_editions"
+        },
+        {
+          "name": "German poetry",
+          "url": "https://openlibrary.org/subjects/german_poetry"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "History of Biblical events",
+          "url": "https://openlibrary.org/subjects/history_of_biblical_events"
+        },
+        {
+          "name": "Illustrations",
+          "url": "https://openlibrary.org/subjects/illustrations"
+        },
+        {
+          "name": "Latin poetry",
+          "url": "https://openlibrary.org/subjects/latin_poetry"
+        },
+        {
+          "name": "Poetry",
+          "url": "https://openlibrary.org/subjects/poetry"
+        },
+        {
+          "name": "Portraits",
+          "url": "https://openlibrary.org/subjects/portraits"
+        },
+        {
+          "name": "Temptation",
+          "url": "https://openlibrary.org/subjects/temptation"
+        },
+        {
+          "name": "Translations from English",
+          "url": "https://openlibrary.org/subjects/translations_from_english"
+        },
+        {
+          "name": "Translations into English",
+          "url": "https://openlibrary.org/subjects/translations_into_english"
+        },
+        {
+          "name": "Translations into German",
+          "url": "https://openlibrary.org/subjects/translations_into_german"
+        },
+        {
+          "name": "Translations into Hungarian",
+          "url": "https://openlibrary.org/subjects/translations_into_hungarian"
+        },
+        {
+          "name": "Translations into Latin",
+          "url": "https://openlibrary.org/subjects/translations_into_latin"
+        },
+        {
+          "name": "Translations into Russian",
+          "url": "https://openlibrary.org/subjects/translations_into_russian"
+        },
+        {
+          "name": "Histoire et critique",
+          "url": "https://openlibrary.org/subjects/histoire_et_critique"
+        },
+        {
+          "name": "POESIAS INGLESAS",
+          "url": "https://openlibrary.org/subjects/poesias_inglesas"
+        },
+        {
+          "name": "CRITICA E. INTERPRETACION",
+          "url": "https://openlibrary.org/subjects/critica_e._interpretacion"
+        },
+        {
+          "name": "Poésie épique anglaise",
+          "url": "https://openlibrary.org/subjects/poésie_épique_anglaise"
+        },
+        {
+          "name": "Poésie anglaise",
+          "url": "https://openlibrary.org/subjects/poésie_anglaise"
+        },
+        {
+          "name": "Critique et interprétation",
+          "url": "https://openlibrary.org/subjects/critique_et_interprétation"
+        },
+        {
+          "name": "Biographie",
+          "url": "https://openlibrary.org/subjects/biographie"
+        },
+        {
+          "name": "Sin, Original, in literature",
+          "url": "https://openlibrary.org/subjects/sin,_original,_in_literature"
+        },
+        {
+          "name": "Long Now Manual for Civilization",
+          "url": "https://openlibrary.org/subjects/long_now_manual_for_civilization"
+        },
+        {
+          "name": "Adam (Biblical figure)",
+          "url": "https://openlibrary.org/subjects/adam_(biblical_figure)"
+        },
+        {
+          "name": "Eve (Biblical figure)",
+          "url": "https://openlibrary.org/subjects/eve_(biblical_figure)"
+        },
+        {
+          "name": "Paradise lost",
+          "url": "https://openlibrary.org/subjects/paradise_lost"
+        },
+        {
+          "name": "Poetry as Topic",
+          "url": "https://openlibrary.org/subjects/poetry_as_topic"
+        },
+        {
+          "name": "Paradise lost (Milton, John)",
+          "url": "https://openlibrary.org/subjects/paradise_lost_(milton,_john)"
+        },
+        {
+          "name": "Modern Literature",
+          "url": "https://openlibrary.org/subjects/modern_literature"
+        },
+        {
+          "name": "Poetry (poetic works by one author)",
+          "url": "https://openlibrary.org/subjects/poetry_(poetic_works_by_one_author)"
+        },
+        {
+          "name": "Classical literature",
+          "url": "https://openlibrary.org/subjects/classical_literature"
+        },
+        {
+          "name": "Milton, john, 1608-1674, paradise lost",
+          "url": "https://openlibrary.org/subjects/milton,_john,_1608-1674,_paradise_lost"
+        },
+        {
+          "name": "Bible, commentaries, o. t. pentateuch",
+          "url": "https://openlibrary.org/subjects/bible,_commentaries,_o._t._pentateuch"
+        },
+        {
+          "name": "Bible, history of biblical events, poetry",
+          "url": "https://openlibrary.org/subjects/bible,_history_of_biblical_events,_poetry"
+        },
+        {
+          "name": "Religion",
+          "url": "https://openlibrary.org/subjects/religion"
+        },
+        {
+          "name": "Mathematics, study and teaching",
+          "url": "https://openlibrary.org/subjects/mathematics,_study_and_teaching"
+        },
+        {
+          "name": "Chute de l'homme",
+          "url": "https://openlibrary.org/subjects/chute_de_l'homme"
+        },
+        {
+          "name": "Poésie",
+          "url": "https://openlibrary.org/subjects/poésie"
+        },
+        {
+          "name": "English, Irish, Scottish, Welsh",
+          "url": "https://openlibrary.org/subjects/english,_irish,_scottish,_welsh"
+        },
+        {
+          "name": "Adam",
+          "url": "https://openlibrary.org/subjects/adam"
+        },
+        {
+          "name": "Eve",
+          "url": "https://openlibrary.org/subjects/eve"
+        },
+        {
+          "name": "Fall of man--poetry",
+          "url": "https://openlibrary.org/subjects/fall_of_man--poetry"
+        },
+        {
+          "name": "Pr3560.a2 k37 2005",
+          "url": "https://openlibrary.org/subjects/pr3560.a2_k37_2005"
+        },
+        {
+          "name": "821/.4",
+          "url": "https://openlibrary.org/subjects/821/.4"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        },
+        {
+          "name": "Lit000000",
+          "url": "https://openlibrary.org/subjects/lit000000"
+        },
+        {
+          "name": "Cs.engls.liter",
+          "url": "https://openlibrary.org/subjects/cs.engls.liter"
+        },
+        {
+          "name": "Large type books",
+          "url": "https://openlibrary.org/subjects/large_type_books"
+        },
+        {
+          "name": "English Poets",
+          "url": "https://openlibrary.org/subjects/english_poets"
+        },
+        {
+          "name": "Private press books",
+          "url": "https://openlibrary.org/subjects/private_press_books"
+        },
+        {
+          "name": "Specimens",
+          "url": "https://openlibrary.org/subjects/specimens"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Earth",
+          "url": "https://openlibrary.org/subjects/place:earth"
+        },
+        {
+          "name": "Hell",
+          "url": "https://openlibrary.org/subjects/place:hell"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Adam (Biblical figure)",
+          "url": "https://openlibrary.org/subjects/person:adam_(biblical_figure)"
+        },
+        {
+          "name": "Doré Gustave (1832-1883)",
+          "url": "https://openlibrary.org/subjects/person:doré_gustave_(1832-1883)"
+        },
+        {
+          "name": "Eve (Biblical figure)",
+          "url": "https://openlibrary.org/subjects/person:eve_(biblical_figure)"
+        },
+        {
+          "name": "Jesus Christ",
+          "url": "https://openlibrary.org/subjects/person:jesus_christ"
+        },
+        {
+          "name": "John Milton (1608-1674)",
+          "url": "https://openlibrary.org/subjects/person:john_milton_(1608-1674)"
+        },
+        {
+          "name": "Samson (Biblical judge)",
+          "url": "https://openlibrary.org/subjects/person:samson_(biblical_judge)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "Early modern, 1500-1700",
+          "url": "https://openlibrary.org/subjects/time:early_modern,_1500-1700"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "The world was all before them, where to choose\r\nTheir place of rest, and Providence their guide :\r\nThey, hand in hand, with wandering steps and slow,\r\nThrough Eden took their solitary way.",
+          "comment": ""
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15156034-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15156034-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15156034-L.jpg"
+      }
+    },
+    "ISBN:9788573266139": {
+      "url": "https://openlibrary.org/books/OL47310534M/A_Canção_no_Tempo._85_Anos_de_Músicas_Brasileiras._1901-1957_-_Volume_1",
+      "key": "/books/OL47310534M",
+      "title": "A Canção no Tempo. 85 Anos de Músicas Brasileiras. 1901-1957 - Volume 1",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304897A/Jairo_Severiano",
+          "name": "Jairo Severiano"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573266139"
+        ],
+        "isbn_13": [
+          "9788573266139"
+        ],
+        "openlibrary": [
+          "OL47310534M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Mar 29, 2015",
+      "notes": "Source title: A Canção no Tempo. 85 Anos de Músicas Brasileiras. 1901-1957 - Volume 1 (Em Portuguese do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13775202-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13775202-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13775202-L.jpg"
+      }
+    },
+    "ISBN:9788573266177": {
+      "url": "https://openlibrary.org/books/OL60125766M/O_Tradutor_Cleptomaníaco_e_Outras_Histórias_de_Kornél_Esti",
+      "key": "/books/OL60125766M",
+      "title": "O Tradutor Cleptomaníaco e Outras Histórias de Kornél Esti",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL15814226A/Kosztolányi_Dezsö",
+          "name": "Kosztolányi Dezsö"
+        }
+      ],
+      "number_of_pages": 136,
+      "identifiers": {
+        "isbn_10": [
+          "8573266171"
+        ],
+        "isbn_13": [
+          "9788573266177"
+        ],
+        "openlibrary": [
+          "OL60125766M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Aug 12, 1900",
+      "notes": "Source title: O Tradutor Cleptomaníaco e Outras Histórias de Kornél Esti (Em Portuguese do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15123021-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15123021-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15123021-L.jpg"
+      }
+    },
+    "ISBN:9788573266184": {
+      "url": "https://openlibrary.org/books/OL44458442M/Pluralidade_urbana_em_São_Paulo",
+      "key": "/books/OL44458442M",
+      "title": "Pluralidade urbana em São Paulo",
+      "subtitle": "vulnerabilidade, marginalidade, ativismos",
+      "number_of_pages": 416,
+      "pagination": "416 p.",
+      "by_statement": "Lucio Kowarick, Heitor Frugoli Junior (orgs.).",
+      "identifiers": {
+        "isbn_10": [
+          "857326618X"
+        ],
+        "isbn_13": [
+          "9788573266184"
+        ],
+        "oclc": [
+          "961874207"
+        ],
+        "openlibrary": [
+          "OL44458442M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2651.S24 P58 2016"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed.34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2016",
+      "subjects": [
+        {
+          "name": "Urban Sociology",
+          "url": "https://openlibrary.org/subjects/urban_sociology"
+        },
+        {
+          "name": "Urban anthropology",
+          "url": "https://openlibrary.org/subjects/urban_anthropology"
+        },
+        {
+          "name": "Politics and culture",
+          "url": "https://openlibrary.org/subjects/politics_and_culture"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo",
+          "url": "https://openlibrary.org/subjects/place:são_paulo"
+        }
+      ]
+    },
+    "ISBN:9788573266214": {
+      "url": "https://openlibrary.org/books/OL59186652M/Rei_do_Congo",
+      "key": "/books/OL59186652M",
+      "title": "Rei do Congo",
+      "subtitle": "a mentira histórica que virou folclore",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8676066A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 227,
+      "pagination": "227 pages, 5 unnumbered pages",
+      "by_statement": "José Ramos Tinhorão",
+      "identifiers": {
+        "isbn_10": [
+          "857326621X"
+        ],
+        "isbn_13": [
+          "9788573266214"
+        ],
+        "oclc": [
+          "959866478"
+        ],
+        "openlibrary": [
+          "OL59186652M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "GR133.B6 T56 2016"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2016",
+      "subjects": [
+        {
+          "name": "Folklore",
+          "url": "https://openlibrary.org/subjects/folklore"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Foreign relations",
+          "url": "https://openlibrary.org/subjects/foreign_relations"
+        },
+        {
+          "name": "Diplomatic relations",
+          "url": "https://openlibrary.org/subjects/diplomatic_relations"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "Portugal",
+          "url": "https://openlibrary.org/subjects/place:portugal"
+        },
+        {
+          "name": "Africa",
+          "url": "https://openlibrary.org/subjects/place:africa"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 212-227).",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Introdução",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Geografia, ciência e política no bom negócio das navegações",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Contra o vizinho inimigo, um aliado distante: Preste João",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "O contato passo a passo com o litoral Africano",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Em terra de negros sem influência muçulmana",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ante as diferenças, Portugal impõe o modelo Europeu: o mani vira rei",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A mentira da proposta política de identidade Luso-Congolesa",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Africano sem reino no Congo vai ser rei em Portugal (e no Brasil)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Origem e cultura dos negros de Lisboa dos Séculos XV a XIX.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573266221": {
+      "url": "https://openlibrary.org/books/OL44454326M/A_vida_não_tem_cura",
+      "key": "/books/OL44454326M",
+      "title": "A vida não tem cura",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5630109A/Marcelo_Mirisola",
+          "name": "Marcelo Mirisola"
+        }
+      ],
+      "number_of_pages": 85,
+      "pagination": "85 pages",
+      "by_statement": "Marcelo Mirisola",
+      "identifiers": {
+        "isbn_10": [
+          "8573266228"
+        ],
+        "isbn_13": [
+          "9788573266221"
+        ],
+        "lccn": [
+          "2016306288"
+        ],
+        "oclc": [
+          "956736124"
+        ],
+        "openlibrary": [
+          "OL44454326M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.23.I794 V53 2016"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo - SP Brasil"
+        }
+      ],
+      "publish_date": "2016"
+    }
+  }
+}

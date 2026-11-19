@@ -1,0 +1,73 @@
+{
+  "consultado_em": "2026-11-19T22:39:36.106125+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9786555250886%2CISBN%3A9786555250961%2CISBN%3A9786599012297%2CISBN%3A9786555250978%2CISBN%3A9786555250985%2CISBN%3A9786555251005%2CISBN%3A9786555251012%2CISBN%3A9786555251029%2CISBN%3A9786555251043%2CISBN%3A9786555251050%2CISBN%3A9786555251074%2CISBN%3A9786555251067%2CISBN%3A9786580341047%2CISBN%3A9786555250992%2CISBN%3A9786555251098%2CISBN%3A9786555251111%2CISBN%3A9786555251104%2CISBN%3A9786555251128%2CISBN%3A9786555251135%2CISBN%3A9786555251142&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9786555250961": {
+      "url": "http://openlibrary.org/books/OL43577901M/Rainha_Lira",
+      "key": "/books/OL43577901M",
+      "title": "Rainha Lira",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL204202A/Roberto_Schwarz",
+          "name": "Roberto Schwarz"
+        }
+      ],
+      "number_of_pages": 128,
+      "pagination": "128 pages",
+      "by_statement": "Roberto Schwarz",
+      "identifiers": {
+        "isbn_13": [
+          "9786555250961"
+        ],
+        "openlibrary": [
+          "OL43577901M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2022"
+    },
+    "ISBN:9786555250985": {
+      "url": "http://openlibrary.org/books/OL43577839M/A_República_de_chinelos",
+      "key": "/books/OL43577839M",
+      "title": "A República de chinelos",
+      "subtitle": "Bolsonaro e o desmonte da representação",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL11580067A/Luciana_Villas_Bôas",
+          "name": "Luciana Villas Bôas"
+        }
+      ],
+      "number_of_pages": 112,
+      "pagination": "112 pages",
+      "by_statement": "Luciana Villas Bôas",
+      "identifiers": {
+        "isbn_13": [
+          "9786555250985"
+        ],
+        "openlibrary": [
+          "OL43577839M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2022"
+    }
+  }
+}

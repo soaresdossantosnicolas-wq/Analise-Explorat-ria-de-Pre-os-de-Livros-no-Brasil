@@ -1,0 +1,644 @@
+{
+  "consultado_em": "2026-11-19T22:37:43.434503+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573261493%2CISBN%3A9788573264623%2CISBN%3A9788573264647%2CISBN%3A9788573264654%2CISBN%3A9788573264630%2CISBN%3A9788573264685%2CISBN%3A9788573264715%2CISBN%3A9788573264746%2CISBN%3A9788573264722%2CISBN%3A9788573264753%2CISBN%3A9788573264760%2CISBN%3A9788573264838%2CISBN%3A9788573264777%2CISBN%3A9788573264784%2CISBN%3A9788573264814%2CISBN%3A9788573264845%2CISBN%3A9788573264852%2CISBN%3A9788573264821%2CISBN%3A9788573264791%2CISBN%3A9788573264807&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573261493": {
+      "url": "http://openlibrary.org/books/OL13410292M/Setenta_e_Seis_Anos_de_Minha_Vida",
+      "key": "/books/OL13410292M",
+      "title": "Setenta e Seis Anos de Minha Vida",
+      "identifiers": {
+        "librarything": [
+          "8023295"
+        ],
+        "isbn_10": [
+          "8573261498"
+        ],
+        "isbn_13": [
+          "9788573261493"
+        ],
+        "oclc": [
+          "46741604"
+        ],
+        "openlibrary": [
+          "OL13410292M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "1999"
+    },
+    "ISBN:9788573264623": {
+      "url": "http://openlibrary.org/books/OL25133362M/Cenas_de_um_modernismo_de_província",
+      "key": "/books/OL25133362M",
+      "title": "Cenas de um modernismo de província",
+      "subtitle": "Drummond e outros rapazes de Belo Horizonte",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL7049605A/Ivan_Marques",
+          "name": "Ivan Marques"
+        }
+      ],
+      "number_of_pages": 271,
+      "pagination": "271 p. :",
+      "by_statement": "Ivan Marques",
+      "identifiers": {
+        "isbn_10": [
+          "8573264624"
+        ],
+        "isbn_13": [
+          "9788573264623"
+        ],
+        "lccn": [
+          "2011358164"
+        ],
+        "oclc": [
+          "743343256"
+        ],
+        "openlibrary": [
+          "OL25133362M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9691.M5 C46 2011"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2011",
+      "subjects": [
+        {
+          "name": "Modernism (Literature)",
+          "url": "https://openlibrary.org/subjects/modernism_(literature)"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "Brazilian Authors",
+          "url": "https://openlibrary.org/subjects/brazilian_authors"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "Minas Gerais",
+          "url": "https://openlibrary.org/subjects/place:minas_gerais"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Carlos Drummond de Andrade (1902-1987)",
+          "url": "https://openlibrary.org/subjects/person:carlos_drummond_de_andrade_(1902-1987)"
+        },
+        {
+          "name": "Emílio Moura",
+          "url": "https://openlibrary.org/subjects/person:emílio_moura"
+        },
+        {
+          "name": "Cyro dos Anjos (1906-)",
+          "url": "https://openlibrary.org/subjects/person:cyro_dos_anjos_(1906-)"
+        },
+        {
+          "name": "João Alphonsus (1901-1944)",
+          "url": "https://openlibrary.org/subjects/person:joão_alphonsus_(1901-1944)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 257-270)."
+    },
+    "ISBN:9788573264647": {
+      "url": "http://openlibrary.org/books/OL43799062M/Naufrágios",
+      "key": "/books/OL43799062M",
+      "title": "Naufrágios",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL5976430A/Giselda_Leirner",
+          "name": "Giselda Leirner"
+        }
+      ],
+      "number_of_pages": 135,
+      "pagination": "135 p.",
+      "by_statement": "Giselda Leirner",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264647"
+        ],
+        "oclc": [
+          "811419933"
+        ],
+        "openlibrary": [
+          "OL43799062M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.22.E2655 N38 2011"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2011",
+      "notes": "\"Contos\"--Cover."
+    },
+    "ISBN:9788573264654": {
+      "url": "http://openlibrary.org/books/OL25178390M/As_origens_da_Canção_urbana",
+      "key": "/books/OL25178390M",
+      "title": "As origens da Canção urbana",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 219,
+      "pagination": "219 p. ;",
+      "by_statement": "José Ramos Tinhorão",
+      "identifiers": {
+        "isbn_10": [
+          "8573264659"
+        ],
+        "isbn_13": [
+          "9788573264654"
+        ],
+        "lccn": [
+          "2011356947"
+        ],
+        "oclc": [
+          "741538906"
+        ],
+        "openlibrary": [
+          "OL25178390M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3717 .T56 2011"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Sao Paulo"
+        }
+      ],
+      "publish_date": "2011",
+      "subjects": [
+        {
+          "name": "Portuguese Songs",
+          "url": "https://openlibrary.org/subjects/portuguese_songs"
+        },
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Portugal",
+          "url": "https://openlibrary.org/subjects/place:portugal"
+        }
+      ],
+      "notes": "Includes bibliographical references.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13856999-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13856999-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13856999-L.jpg"
+      }
+    },
+    "ISBN:9788573264630": {
+      "url": "http://openlibrary.org/books/OL25211825M/A_Espanha_de_João_Cabral_e_Murilo_Mendes",
+      "key": "/books/OL25211825M",
+      "title": "A Espanha de João Cabral e Murilo Mendes",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL7082976A/Ricardo_Souza_de_Carvalho",
+          "name": "Ricardo Souza de Carvalho"
+        }
+      ],
+      "number_of_pages": 287,
+      "pagination": "287 p. :",
+      "by_statement": "Ricardo Souza de Carvalho",
+      "identifiers": {
+        "isbn_10": [
+          "8573264632"
+        ],
+        "isbn_13": [
+          "9788573264630"
+        ],
+        "lccn": [
+          "2011357544"
+        ],
+        "oclc": [
+          "742683284",
+          "773866564"
+        ],
+        "openlibrary": [
+          "OL25211825M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.M463 Z615 2011",
+          "PQ9697.M463 Z532 2011"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2011",
+      "subjects": [
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Knowledge",
+          "url": "https://openlibrary.org/subjects/knowledge"
+        },
+        {
+          "name": "Spain",
+          "url": "https://openlibrary.org/subjects/spain"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Spain",
+          "url": "https://openlibrary.org/subjects/place:spain"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "João Cabral de Melo Neto (1920-1999)",
+          "url": "https://openlibrary.org/subjects/person:joão_cabral_de_melo_neto_(1920-1999)"
+        },
+        {
+          "name": "Murilo Mendes (1901-1975)",
+          "url": "https://openlibrary.org/subjects/person:murilo_mendes_(1901-1975)"
+        }
+      ],
+      "notes": "Originally presented as the author's thesis (doctoral)--Literatura Brasileira, Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, 2006.\n\nIncludes bibliographical references (p. 273-285)."
+    },
+    "ISBN:9788573264722": {
+      "url": "http://openlibrary.org/books/OL40220583M/O_Duplo",
+      "key": "/books/OL40220583M",
+      "title": "O Duplo",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573264721"
+        ],
+        "isbn_13": [
+          "9788573264722"
+        ],
+        "openlibrary": [
+          "OL40220583M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Oct 28, 2014"
+    },
+    "ISBN:9788573264777": {
+      "url": "http://openlibrary.org/books/OL25395987M/O_estranho_no_corredor",
+      "key": "/books/OL25395987M",
+      "title": "O estranho no corredor",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL858363A/Francisco_Lafaiete_Lopes",
+          "name": "Francisco Lafaiete Lopes"
+        }
+      ],
+      "number_of_pages": 126,
+      "pagination": "126 p. ;",
+      "by_statement": "Chico Lopes",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264777"
+        ],
+        "lccn": [
+          "2012423688"
+        ],
+        "oclc": [
+          "802184334"
+        ],
+        "openlibrary": [
+          "OL25395987M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2012/43060",
+          "PQ9698.22.O634 E887 2011"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo]"
+        }
+      ],
+      "publish_date": "2011",
+      "subjects": [
+        {
+          "name": "Portuguese literature",
+          "url": "https://openlibrary.org/subjects/portuguese_literature"
+        }
+      ]
+    },
+    "ISBN:9788573264784": {
+      "url": "http://openlibrary.org/books/OL25406864M/Crossroads",
+      "key": "/books/OL25406864M",
+      "title": "Crossroads",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL808653A/Furio_Lonza",
+          "name": "Furio Lonza"
+        }
+      ],
+      "number_of_pages": 287,
+      "pagination": "287 p. ;",
+      "by_statement": "Furio Lonza",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264784"
+        ],
+        "lccn": [
+          "2012423660"
+        ],
+        "oclc": [
+          "803965762"
+        ],
+        "openlibrary": [
+          "OL25406864M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2012/43152",
+          "PQ9698.22.O583 C76 2011x"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo]"
+        }
+      ],
+      "publish_date": "2011"
+    },
+    "ISBN:9788573264814": {
+      "url": "http://openlibrary.org/books/OL25406872M/Triz",
+      "key": "/books/OL25406872M",
+      "title": "Triz",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL7163663A/Pedro_Süssekind",
+          "name": "Pedro Süssekind"
+        }
+      ],
+      "number_of_pages": 135,
+      "pagination": "135 p. ;",
+      "by_statement": "Pedro Süssekind",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264814"
+        ],
+        "lccn": [
+          "2012423670"
+        ],
+        "oclc": [
+          "803496850"
+        ],
+        "openlibrary": [
+          "OL25406872M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2012/43122"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo]"
+        }
+      ],
+      "publish_date": "2011"
+    },
+    "ISBN:9788573264845": {
+      "url": "http://openlibrary.org/books/OL31242666M/São_Paulo",
+      "key": "/books/OL31242666M",
+      "title": "São Paulo",
+      "subtitle": "novos percursos e atores : sociedade, cultura e política",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1611153A/Eduardo_Cesar_Marques",
+          "name": "Eduardo Cesar Marques"
+        }
+      ],
+      "number_of_pages": 398,
+      "pagination": "398 pages",
+      "by_statement": "Lúcio Kowarick, Eduardo Marques, organizadores",
+      "identifiers": {
+        "isbn_10": [
+          "8573264845"
+        ],
+        "isbn_13": [
+          "9788573264845"
+        ],
+        "lccn": [
+          "2013336606"
+        ],
+        "oclc": [
+          "811060885"
+        ],
+        "openlibrary": [
+          "OL31242666M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HN290.S33 S345 2011",
+          "HN290.S33 S345 2011x"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Centro de Estudos da Metrópole"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2011",
+      "subjects": [
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "Poverty",
+          "url": "https://openlibrary.org/subjects/poverty"
+        },
+        {
+          "name": "Equality",
+          "url": "https://openlibrary.org/subjects/equality"
+        },
+        {
+          "name": "Segregation",
+          "url": "https://openlibrary.org/subjects/segregation"
+        },
+        {
+          "name": "Economic conditions",
+          "url": "https://openlibrary.org/subjects/economic_conditions"
+        },
+        {
+          "name": "Politics and government",
+          "url": "https://openlibrary.org/subjects/politics_and_government"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "São Paulo Metropolitan Area (Brazil)",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_metropolitan_area_(brazil)"
+        },
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo Metropolitan Area",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_metropolitan_area"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    },
+    "ISBN:9788573264852": {
+      "url": "http://openlibrary.org/books/OL25406927M/A_vida_obscena_de_Anton_Blau",
+      "key": "/books/OL25406927M",
+      "title": "A vida obscena de Anton Blau",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL7163696A/Maria_Cecília_Gomes_dos_Reis",
+          "name": "Maria Cecília Gomes dos Reis"
+        }
+      ],
+      "number_of_pages": 133,
+      "pagination": "133 p. ;",
+      "by_statement": "Maria Cecília Gomes dos Reis",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264852"
+        ],
+        "lccn": [
+          "2012423756"
+        ],
+        "oclc": [
+          "805391475"
+        ],
+        "openlibrary": [
+          "OL25406927M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2012/43259",
+          "PQ9698.428.E476 V5 2011"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2011"
+    }
+  }
+}

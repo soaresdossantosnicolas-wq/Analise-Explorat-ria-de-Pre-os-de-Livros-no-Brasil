@@ -1,0 +1,458 @@
+{
+  "consultado_em": "2026-11-19T22:37:37.546622+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573264395%2CISBN%3A9788573264401%2CISBN%3A9788573264418%2CISBN%3A9788573264425%2CISBN%3A9788573264449%2CISBN%3A9788573264456%2CISBN%3A9788573264432%2CISBN%3A9788573264463%2CISBN%3A9788573264470%2CISBN%3A9788573264487%2CISBN%3A9788573264494%2CISBN%3A9788573264517%2CISBN%3A9788573264500%2CISBN%3A9788573264524%2CISBN%3A9788573264548%2CISBN%3A9788573264555%2CISBN%3A9788573264562%2CISBN%3A9788573264579%2CISBN%3A9788573264586%2CISBN%3A9788573264616&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573264401": {
+      "url": "https://openlibrary.org/books/OL31177780M/A_música_popular_que_surge_na_Era_da_Revolução",
+      "key": "/books/OL31177780M",
+      "title": "A música popular que surge na Era da Revolução",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8676066A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 170,
+      "pagination": "170 p.",
+      "by_statement": "José Ramos Tinhorão",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264401"
+        ],
+        "lccn": [
+          "2010313146"
+        ],
+        "oclc": [
+          "659307249"
+        ],
+        "openlibrary": [
+          "OL31177780M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML232.3 .T56 2009"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2009",
+      "subjects": [
+        {
+          "name": "Music",
+          "url": "https://openlibrary.org/subjects/music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "18th century",
+          "url": "https://openlibrary.org/subjects/time:18th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 163-170)."
+    },
+    "ISBN:9788573264418": {
+      "url": "https://openlibrary.org/books/OL31260702M/Azul_e_dura",
+      "key": "/books/OL31260702M",
+      "title": "Azul e dura",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8843382A/Beatriz_Bracher",
+          "name": "Beatriz Bracher"
+        }
+      ],
+      "number_of_pages": 167,
+      "pagination": "167 p.",
+      "by_statement": "Beatriz Bracher",
+      "identifiers": {
+        "isbn_10": [
+          "8573264411"
+        ],
+        "isbn_13": [
+          "9788573264418"
+        ],
+        "lccn": [
+          "2014461050"
+        ],
+        "oclc": [
+          "868228905"
+        ],
+        "openlibrary": [
+          "OL31260702M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.412.R33 A98 2010"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2010"
+    },
+    "ISBN:9788573264425": {
+      "url": "https://openlibrary.org/books/OL25281070M/Itinerário_de_uma_falsa_vanguarda",
+      "key": "/books/OL25281070M",
+      "title": "Itinerário de uma falsa vanguarda",
+      "subtitle": "os dissidentes, a Semana de 22 e o Integralismo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1220643A/Antonio_Arnoni_Prado",
+          "name": "Antonio Arnoni Prado"
+        }
+      ],
+      "number_of_pages": 295,
+      "pagination": "295 p. :",
+      "by_statement": "Antonio Arnoni Prado ; prefácio de Sergio Miceli",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264425"
+        ],
+        "lccn": [
+          "2011359360"
+        ],
+        "openlibrary": [
+          "OL25281070M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2537 .P73155 2010"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2010",
+      "subjects": [
+        {
+          "name": "Politics and government",
+          "url": "https://openlibrary.org/subjects/politics_and_government"
+        },
+        {
+          "name": "Intellectual life",
+          "url": "https://openlibrary.org/subjects/intellectual_life"
+        },
+        {
+          "name": "Politics and culture",
+          "url": "https://openlibrary.org/subjects/politics_and_culture"
+        },
+        {
+          "name": "Semana de Arte Moderna (1922 : São Paulo, Brazil)",
+          "url": "https://openlibrary.org/subjects/semana_de_arte_moderna_(1922_:_são_paulo,_brazil)"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        },
+        {
+          "name": "Revolution, 1922",
+          "url": "https://openlibrary.org/subjects/time:revolution,_1922"
+        },
+        {
+          "name": "1922-1930",
+          "url": "https://openlibrary.org/subjects/time:1922-1930"
+        }
+      ],
+      "notes": "Rev. ed. of: 1922-Itinerário de uma falsa vanguarda, 1983.\n\nIncludes bibliographical references (p. 273-286) and index."
+    },
+    "ISBN:9788573264494": {
+      "url": "https://openlibrary.org/books/OL37869760M/Medeia",
+      "key": "/books/OL37869760M",
+      "title": "Medeia",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL21589A/Euripides",
+          "name": "Euripides"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573264497"
+        ],
+        "isbn_13": [
+          "9788573264494"
+        ],
+        "openlibrary": [
+          "OL37869760M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Jun 06, 2009"
+    },
+    "ISBN:9788573264524": {
+      "url": "https://openlibrary.org/books/OL24887716M/O_que_os_economistas_pensam_sobre_sustentabilidade",
+      "key": "/books/OL24887716M",
+      "title": "O que os economistas pensam sobre sustentabilidade",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304808A/Ricardo_Arnt",
+          "name": "Ricardo Arnt"
+        }
+      ],
+      "number_of_pages": 285,
+      "pagination": "285 p. ;",
+      "by_statement": "Ricardo Arnt, org",
+      "identifiers": {
+        "isbn_10": [
+          "8573264527"
+        ],
+        "isbn_13": [
+          "9788573264524"
+        ],
+        "lccn": [
+          "2011357057"
+        ],
+        "oclc": [
+          "704666187"
+        ],
+        "openlibrary": [
+          "OL24887716M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HC79.E5 Q54 2010",
+          "HC79.E5 Q4 2010"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2010",
+      "subjects": [
+        {
+          "name": "Interviews",
+          "url": "https://openlibrary.org/subjects/interviews"
+        },
+        {
+          "name": "Economic development",
+          "url": "https://openlibrary.org/subjects/economic_development"
+        },
+        {
+          "name": "Economists",
+          "url": "https://openlibrary.org/subjects/economists"
+        },
+        {
+          "name": "Sustainable development",
+          "url": "https://openlibrary.org/subjects/sustainable_development"
+        },
+        {
+          "name": "Sustainability",
+          "url": "https://openlibrary.org/subjects/sustainability"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "\"Antonio Delfim Netto, André Lara Resende, Edmar Bacha, Eduardo Giannetti, Luciano Coutinho, Gustavo Franco, José Roberto Mendonça de Barros, José Eli da Veiga, Luiz Gonzaga Belluzzo, Maílson da Nóbrega, Aloizio Mercadante, Sérgio Besserman Vianna, Persio Arida, Luiz Carlos Bresser-Pereira, Ricardo Abramovay; Report.\"\n\nIncludes index."
+    },
+    "ISBN:9788573264548": {
+      "url": "https://openlibrary.org/books/OL25155088M/Meio_intelectual_meio_de_esquerda",
+      "key": "/books/OL25155088M",
+      "title": "Meio intelectual, meio de esquerda",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL6457694A/Antonio_Prata",
+          "name": "Antonio Prata"
+        }
+      ],
+      "number_of_pages": 174,
+      "pagination": "174 p. ;",
+      "by_statement": "Antonio Prata ; [revisão, Fabrício Corsaletti, Sérgio Molina, Cide Piquet]",
+      "identifiers": {
+        "isbn_10": [
+          "8573264543"
+        ],
+        "isbn_13": [
+          "9788573264548"
+        ],
+        "lccn": [
+          "2011522713"
+        ],
+        "oclc": [
+          "719561527"
+        ],
+        "openlibrary": [
+          "OL25155088M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.426.R379 M45 2010"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2010",
+      "subjects": [
+        {
+          "name": "Brazilian essays",
+          "url": "https://openlibrary.org/subjects/brazilian_essays"
+        }
+      ],
+      "notes": "Compilation of articles, most from the periodical O Estado de S. Paulo, between 2004 and 2010.--P. 9.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/meiointelectualm0000prat",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL25155088M/Meio_intelectual_meio_de_esquerda/borrow",
+          "checkedout": false
+        }
+      ]
+    },
+    "ISBN:9788573264555": {
+      "url": "https://openlibrary.org/books/OL24977032M/Labirintos_da_aprendizagem",
+      "key": "/books/OL24977032M",
+      "title": "Labirintos da aprendizagem",
+      "subtitle": "pacto fáustico, romance de formação e outros temas de literatura comparada",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL6974450A/Marcus_Vinicius_Mazzari",
+          "name": "Marcus Vinicius Mazzari"
+        }
+      ],
+      "number_of_pages": 315,
+      "pagination": "315 p. ;",
+      "by_statement": "Marcus Vinicius Mazzari",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264555"
+        ],
+        "lccn": [
+          "2011356437"
+        ],
+        "oclc": [
+          "747332261"
+        ],
+        "openlibrary": [
+          "OL24977032M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2011/43693",
+          "PT236 .M39 2010"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2010",
+      "subjects": [
+        {
+          "name": "German literature",
+          "url": "https://openlibrary.org/subjects/german_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Comparative literature",
+          "url": "https://openlibrary.org/subjects/comparative_literature"
+        },
+        {
+          "name": "Themes, motives",
+          "url": "https://openlibrary.org/subjects/themes,_motives"
+        },
+        {
+          "name": "Bildungsromans",
+          "url": "https://openlibrary.org/subjects/bildungsromans"
+        },
+        {
+          "name": "Devil in literature",
+          "url": "https://openlibrary.org/subjects/devil_in_literature"
+        },
+        {
+          "name": "Literature",
+          "url": "https://openlibrary.org/subjects/literature"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    }
+  }
+}

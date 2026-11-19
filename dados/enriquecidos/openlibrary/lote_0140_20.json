@@ -1,0 +1,860 @@
+{
+  "consultado_em": "2026-11-19T22:37:18.508782+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573265163%2CISBN%3A9788585490270%2CISBN%3A9788585490492%2CISBN%3A9788585490515%2CISBN%3A9788585490652%2CISBN%3A9788573263718%2CISBN%3A9788573263732%2CISBN%3A9788573263763%2CISBN%3A9788573263770%2CISBN%3A9788573263787%2CISBN%3A9788573263794%2CISBN%3A9788573263800%2CISBN%3A9788573263824%2CISBN%3A9788573263831%2CISBN%3A9788573263848%2CISBN%3A9788573263855%2CISBN%3A9788573263862%2CISBN%3A9788573263879%2CISBN%3A9788573263886%2CISBN%3A9788573263893&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788585490270": {
+      "url": "http://openlibrary.org/books/OL22953052M/Imagem-máquina",
+      "key": "/books/OL22953052M",
+      "title": "Imagem-máquina",
+      "subtitle": "a era das tecnologias do virtual",
+      "number_of_pages": 300,
+      "pagination": "300 p. ;",
+      "by_statement": "André Parente (org.) ; introducão de André Parente ; posfáci de Eric Alliez.",
+      "identifiers": {
+        "librarything": [
+          "452350"
+        ],
+        "isbn_10": [
+          "8585490276"
+        ],
+        "openlibrary": [
+          "OL22953052M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro, RJ"
+        }
+      ],
+      "publish_date": "1993",
+      "subjects": [
+        {
+          "name": "Communication",
+          "url": "https://openlibrary.org/subjects/communication"
+        },
+        {
+          "name": "Technology",
+          "url": "https://openlibrary.org/subjects/technology"
+        }
+      ],
+      "notes": "Includes bibliographical references and index.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Edmond Couchot",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Rogério Luz",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Derrick de Kerckhove",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Gianfranco Bettetini",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Julio Plaza",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Philippe Quéau",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Arlindo Machado",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Jean-Louis Weissberg",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Paul Virilio",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Serge Dentin",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Jean Baudrillard",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Laymert Garcia dos Santos",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Stella Senra",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "ANtonio Negri",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Félix Guattari",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Benoit Mandelbrot",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Frank Popper",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Raymond Bellour",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Jean-Paul Fargier",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Nelson Brissac Peixoto",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Katia Maciel",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Jean-François Lyotard.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788585490492": {
+      "url": "http://openlibrary.org/books/OL27075059M/Mil_platôs",
+      "key": "/books/OL27075059M",
+      "title": "Mil platôs",
+      "subtitle": "capitalismo e esquizofrenia",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL449254A/Félix_Guattari",
+          "name": "Félix Guattari"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871496A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871497A/Felix_Guattari",
+          "name": "Felix Guattari"
+        }
+      ],
+      "pagination": "5 v.",
+      "by_statement": "Gilles Deleuze, Félix Guattari",
+      "identifiers": {
+        "isbn_10": [
+          "8585490497",
+          "8585490659",
+          "8573260173",
+          "8573260505",
+          "8573260572"
+        ],
+        "isbn_13": [
+          "9788585490492",
+          "9788585490652",
+          "9788573260175",
+          "9788573260502",
+          "9788573260571"
+        ],
+        "oclc": [
+          "69933558"
+        ],
+        "openlibrary": [
+          "OL27075059M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Postmodernism",
+          "url": "https://openlibrary.org/subjects/postmodernism"
+        },
+        {
+          "name": "Psychoanalysis",
+          "url": "https://openlibrary.org/subjects/psychoanalysis"
+        },
+        {
+          "name": "Radicalism",
+          "url": "https://openlibrary.org/subjects/radicalism"
+        },
+        {
+          "name": "Social psychology",
+          "url": "https://openlibrary.org/subjects/social_psychology"
+        },
+        {
+          "name": "Capitalism",
+          "url": "https://openlibrary.org/subjects/capitalism"
+        },
+        {
+          "name": "Schizophrenia",
+          "url": "https://openlibrary.org/subjects/schizophrenia"
+        },
+        {
+          "name": "Essays",
+          "url": "https://openlibrary.org/subjects/essays"
+        },
+        {
+          "name": "Reference",
+          "url": "https://openlibrary.org/subjects/reference"
+        },
+        {
+          "name": "Filosofia",
+          "url": "https://openlibrary.org/subjects/filosofia"
+        },
+        {
+          "name": "Esquizofrenia",
+          "url": "https://openlibrary.org/subjects/esquizofrenia"
+        },
+        {
+          "name": "Psiquiatria social",
+          "url": "https://openlibrary.org/subjects/psiquiatria_social"
+        },
+        {
+          "name": "Psychology, social",
+          "url": "https://openlibrary.org/subjects/psychology,_social"
+        },
+        {
+          "name": "B77 .d413x 1988",
+          "url": "https://openlibrary.org/subjects/b77_.d413x_1988"
+        },
+        {
+          "name": "Psychiatrie sociale",
+          "url": "https://openlibrary.org/subjects/psychiatrie_sociale"
+        },
+        {
+          "name": "Schizophrénie",
+          "url": "https://openlibrary.org/subjects/schizophrénie"
+        },
+        {
+          "name": "Capitalisme",
+          "url": "https://openlibrary.org/subjects/capitalisme"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/milplatoscapital01dele",
+          "availability": "noview",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8695201-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8695201-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8695201-L.jpg"
+      }
+    },
+    "ISBN:9788585490652": {
+      "url": "http://openlibrary.org/books/OL27075059M/Mil_platôs",
+      "key": "/books/OL27075059M",
+      "title": "Mil platôs",
+      "subtitle": "capitalismo e esquizofrenia",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL449254A/Félix_Guattari",
+          "name": "Félix Guattari"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871496A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871497A/Felix_Guattari",
+          "name": "Felix Guattari"
+        }
+      ],
+      "pagination": "5 v.",
+      "by_statement": "Gilles Deleuze, Félix Guattari",
+      "identifiers": {
+        "isbn_10": [
+          "8585490497",
+          "8585490659",
+          "8573260173",
+          "8573260505",
+          "8573260572"
+        ],
+        "isbn_13": [
+          "9788585490492",
+          "9788585490652",
+          "9788573260175",
+          "9788573260502",
+          "9788573260571"
+        ],
+        "oclc": [
+          "69933558"
+        ],
+        "openlibrary": [
+          "OL27075059M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Postmodernism",
+          "url": "https://openlibrary.org/subjects/postmodernism"
+        },
+        {
+          "name": "Psychoanalysis",
+          "url": "https://openlibrary.org/subjects/psychoanalysis"
+        },
+        {
+          "name": "Radicalism",
+          "url": "https://openlibrary.org/subjects/radicalism"
+        },
+        {
+          "name": "Social psychology",
+          "url": "https://openlibrary.org/subjects/social_psychology"
+        },
+        {
+          "name": "Capitalism",
+          "url": "https://openlibrary.org/subjects/capitalism"
+        },
+        {
+          "name": "Schizophrenia",
+          "url": "https://openlibrary.org/subjects/schizophrenia"
+        },
+        {
+          "name": "Essays",
+          "url": "https://openlibrary.org/subjects/essays"
+        },
+        {
+          "name": "Reference",
+          "url": "https://openlibrary.org/subjects/reference"
+        },
+        {
+          "name": "Filosofia",
+          "url": "https://openlibrary.org/subjects/filosofia"
+        },
+        {
+          "name": "Esquizofrenia",
+          "url": "https://openlibrary.org/subjects/esquizofrenia"
+        },
+        {
+          "name": "Psiquiatria social",
+          "url": "https://openlibrary.org/subjects/psiquiatria_social"
+        },
+        {
+          "name": "Psychology, social",
+          "url": "https://openlibrary.org/subjects/psychology,_social"
+        },
+        {
+          "name": "B77 .d413x 1988",
+          "url": "https://openlibrary.org/subjects/b77_.d413x_1988"
+        },
+        {
+          "name": "Psychiatrie sociale",
+          "url": "https://openlibrary.org/subjects/psychiatrie_sociale"
+        },
+        {
+          "name": "Schizophrénie",
+          "url": "https://openlibrary.org/subjects/schizophrénie"
+        },
+        {
+          "name": "Capitalisme",
+          "url": "https://openlibrary.org/subjects/capitalisme"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/milplatoscapital01dele",
+          "availability": "noview",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8695201-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8695201-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8695201-L.jpg"
+      }
+    },
+    "ISBN:9788573263770": {
+      "url": "http://openlibrary.org/books/OL16197301M/Antonio",
+      "key": "/books/OL16197301M",
+      "title": "Antonio",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4945250A/Beatriz_Bracher",
+          "name": "Beatriz Bracher"
+        }
+      ],
+      "number_of_pages": 184,
+      "pagination": "184 p. ;",
+      "by_statement": "Beatriz Bracher",
+      "identifiers": {
+        "goodreads": [
+          "3110257"
+        ],
+        "librarything": [
+          "3736504"
+        ],
+        "isbn_10": [
+          "8573263776"
+        ],
+        "isbn_13": [
+          "9788573263770"
+        ],
+        "lccn": [
+          "2007312086"
+        ],
+        "oclc": [
+          "159823193"
+        ],
+        "openlibrary": [
+          "OL16197301M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2007/01239 (P)"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2007",
+      "subjects": [
+        {
+          "name": "Fiction, family life, general",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life,_general"
+        },
+        {
+          "name": "Brazil, fiction",
+          "url": "https://openlibrary.org/subjects/brazil,_fiction"
+        },
+        {
+          "name": "Separation of patrimony",
+          "url": "https://openlibrary.org/subjects/separation_of_patrimony"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Family secrets",
+          "url": "https://openlibrary.org/subjects/family_secrets"
+        },
+        {
+          "name": "Contradiction",
+          "url": "https://openlibrary.org/subjects/contradiction"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5317869-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5317869-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5317869-L.jpg"
+      }
+    },
+    "ISBN:9788573263824": {
+      "url": "http://openlibrary.org/books/OL19678478M/Música_nas_veias",
+      "key": "/books/OL19678478M",
+      "title": "Música nas veias",
+      "subtitle": "memórias e ensaios",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL5362646A/Zuza_Homem_de_Mello",
+          "name": "Zuza Homem de Mello"
+        }
+      ],
+      "number_of_pages": 360,
+      "pagination": "360 p. :",
+      "by_statement": "Zuza Homem de Mello.",
+      "identifiers": {
+        "librarything": [
+          "9087697"
+        ],
+        "goodreads": [
+          "6841926"
+        ],
+        "isbn_10": [
+          "8573263822"
+        ],
+        "lccn": [
+          "2008317114"
+        ],
+        "oclc": [
+          "276170273"
+        ],
+        "openlibrary": [
+          "OL19678478M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3506 .M45 2007"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed. 34"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2007",
+      "subjects": [
+        {
+          "name": "Jazz",
+          "url": "https://openlibrary.org/subjects/jazz"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Jazz musicians",
+          "url": "https://openlibrary.org/subjects/jazz_musicians"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Zuza Homem de Mello",
+          "url": "https://openlibrary.org/subjects/person:zuza_homem_de_mello"
+        }
+      ]
+    },
+    "ISBN:9788573263831": {
+      "url": "http://openlibrary.org/books/OL16778896M/Longe_de_Ramiro",
+      "key": "/books/OL16778896M",
+      "title": "Longe de Ramiro",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL5119737A/Chico_Mattoso",
+          "name": "Chico Mattoso"
+        }
+      ],
+      "number_of_pages": 84,
+      "pagination": "84 p. ;",
+      "by_statement": "Chico Mattoso.",
+      "identifiers": {
+        "goodreads": [
+          "3175150"
+        ],
+        "librarything": [
+          "5233033"
+        ],
+        "isbn_13": [
+          "9788573263831"
+        ],
+        "lccn": [
+          "2008322048"
+        ],
+        "oclc": [
+          "222251743"
+        ],
+        "openlibrary": [
+          "OL16778896M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2008/01439 (P)"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2007"
+    },
+    "ISBN:9788573263855": {
+      "url": "http://openlibrary.org/books/OL23829325M/A_utopia_brasileira_e_os_movimentos_negros",
+      "key": "/books/OL23829325M",
+      "title": "A utopia brasileira e os movimentos negros",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4494580A/Antonio_Risério",
+          "name": "Antonio Risério"
+        }
+      ],
+      "number_of_pages": 438,
+      "pagination": "438 p. ;",
+      "by_statement": "Antonio Risério.",
+      "identifiers": {
+        "isbn_10": [
+          "8573263857"
+        ],
+        "isbn_13": [
+          "9788573263855"
+        ],
+        "lccn": [
+          "2008318905"
+        ],
+        "oclc": [
+          "191699840"
+        ],
+        "openlibrary": [
+          "OL23829325M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2659.N4 R574 2007"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2007",
+      "subjects": [
+        {
+          "name": "Politics and government",
+          "url": "https://openlibrary.org/subjects/politics_and_government"
+        },
+        {
+          "name": "Race relations",
+          "url": "https://openlibrary.org/subjects/race_relations"
+        },
+        {
+          "name": "Civilization",
+          "url": "https://openlibrary.org/subjects/civilization"
+        },
+        {
+          "name": "Blacks",
+          "url": "https://openlibrary.org/subjects/blacks"
+        },
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "African influences",
+          "url": "https://openlibrary.org/subjects/african_influences"
+        },
+        {
+          "name": "Black people",
+          "url": "https://openlibrary.org/subjects/black_people"
+        },
+        {
+          "name": "Social movements",
+          "url": "https://openlibrary.org/subjects/social_movements"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 425-438)."
+    },
+    "ISBN:9788573263879": {
+      "url": "http://openlibrary.org/books/OL22797835M/Sangüínea",
+      "key": "/books/OL22797835M",
+      "title": "Sangüínea",
+      "subtitle": "(2005-2007)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL6538878A/Fabiano_Calixto",
+          "name": "Fabiano Calixto"
+        }
+      ],
+      "number_of_pages": 124,
+      "pagination": "124 p. ;",
+      "by_statement": "Fabiano Calixto.",
+      "identifiers": {
+        "goodreads": [
+          "6553099"
+        ],
+        "isbn_13": [
+          "9788573263879"
+        ],
+        "lccn": [
+          "2008342118"
+        ],
+        "openlibrary": [
+          "OL22797835M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2008/01607 (P)"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2007"
+    },
+    "ISBN:9788573263886": {
+      "url": "http://openlibrary.org/books/OL48054265M/Baque",
+      "key": "/books/OL48054265M",
+      "title": "Baque",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL12885348A/Fabio_Weintraub",
+          "name": "Fabio Weintraub"
+        }
+      ],
+      "number_of_pages": 67,
+      "pagination": "67 p.",
+      "by_statement": "Fabio Weintraub",
+      "identifiers": {
+        "isbn_10": [
+          "8573263881"
+        ],
+        "isbn_13": [
+          "9788573263886"
+        ],
+        "oclc": [
+          "230899933"
+        ],
+        "openlibrary": [
+          "OL48054265M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2007",
+      "subjects": [
+        {
+          "name": "Literatura brasileira",
+          "url": "https://openlibrary.org/subjects/literatura_brasileira"
+        },
+        {
+          "name": "Poesia",
+          "url": "https://openlibrary.org/subjects/poesia"
+        }
+      ]
+    }
+  }
+}

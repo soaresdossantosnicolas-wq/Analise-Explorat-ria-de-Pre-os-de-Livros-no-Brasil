@@ -1,0 +1,327 @@
+{
+  "consultado_em": "2026-11-19T22:38:52.555077+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573266894%2CISBN%3A9788573266924%2CISBN%3A9788573266931%2CISBN%3A9788573266948%2CISBN%3A9788573266993%2CISBN%3A9788573267037%2CISBN%3A9788573267013%2CISBN%3A9788573267020%2CISBN%3A9788573267105%2CISBN%3A9788573267112%2CISBN%3A9788573267136%2CISBN%3A9788573267006%2CISBN%3A9788573267143%2CISBN%3A9788573267129%2CISBN%3A9788573267167%2CISBN%3A9788573267150%2CISBN%3A9788573267204%2CISBN%3A9788573267198%2CISBN%3A9788573267211%2CISBN%3A9788573267228&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573266931": {
+      "url": "https://openlibrary.org/books/OL62038699M/Raphael_Rabello",
+      "key": "/books/OL62038699M",
+      "title": "Raphael Rabello",
+      "subtitle": "o violão em erupção",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL16427311A/Lucas_Nobile",
+          "name": "Lucas Nobile"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5362646A/Zuza_Homem_de_Mello",
+          "name": "Zuza Homem de Mello"
+        }
+      ],
+      "number_of_pages": 349,
+      "pagination": "349 pages",
+      "by_statement": "Lucas Nobile ; prefácio de Zuza Homem de Mello",
+      "identifiers": {
+        "isbn_10": [
+          "8573266937"
+        ],
+        "isbn_13": [
+          "9788573266931"
+        ],
+        "lccn": [
+          "2018341980"
+        ],
+        "oclc": [
+          "1047571244"
+        ],
+        "openlibrary": [
+          "OL62038699M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML419.R24 N63 2018"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2018",
+      "subjects": [
+        {
+          "name": "Guitarists",
+          "url": "https://openlibrary.org/subjects/guitarists"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Rafael Rabello (1962-1995)",
+          "url": "https://openlibrary.org/subjects/person:rafael_rabello_(1962-1995)"
+        }
+      ],
+      "notes": "Discography: pages 317-329.\n\nIncludes bibliographical references (pages 343-346) and index."
+    },
+    "ISBN:9788573267013": {
+      "url": "https://openlibrary.org/books/OL38222323M/Água_funda",
+      "key": "/books/OL38222323M",
+      "title": "Água funda",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL516634A/Ruth_Guimarães",
+          "name": "Ruth Guimarães"
+        }
+      ],
+      "identifiers": {
+        "isbn_13": [
+          "9788573267013"
+        ],
+        "openlibrary": [
+          "OL38222323M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2018",
+      "subjects": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/brazil"
+        },
+        {
+          "name": "fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "romance",
+          "url": "https://openlibrary.org/subjects/romance"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Minas Gerais (Brazil)",
+          "url": "https://openlibrary.org/subjects/place:minas_gerais_(brazil)"
+        },
+        {
+          "name": "Vale do Paraíba",
+          "url": "https://openlibrary.org/subjects/place:vale_do_paraíba"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "Estas coisas aconteceram em qualquer tempo e em qualquer parte. O certo é que aconteceram. E, como sempre se dá, ninguém apreendeu nada do seu misterioso sentido.",
+          "comment": ""
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12769847-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12769847-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12769847-L.jpg"
+      }
+    },
+    "ISBN:9788573267020": {
+      "url": "https://openlibrary.org/books/OL62268741M/A_doença",
+      "key": "/books/OL62268741M",
+      "title": "A doença",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1017403A/Domingos_Caldas_Barbosa",
+          "name": "Domingos Caldas Barbosa"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6758464A/Lúcia_Helena_Costigan",
+          "name": "Lúcia Helena Costigan"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16505966A/Fernando_Morato",
+          "name": "Fernando Morato"
+        }
+      ],
+      "number_of_pages": 111,
+      "pagination": "111 pages",
+      "by_statement": "Domingos Caldas Barbosa ; organização, apresentação e notas, Lúcia Helena Costigan e Fernando Morato",
+      "identifiers": {
+        "isbn_10": [
+          "857326702X"
+        ],
+        "isbn_13": [
+          "9788573267020"
+        ],
+        "lccn": [
+          "2018343835"
+        ],
+        "oclc": [
+          "1083176485"
+        ],
+        "openlibrary": [
+          "OL62268741M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2018",
+      "subjects": [
+        {
+          "name": "Literatur",
+          "url": "https://openlibrary.org/subjects/literatur"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brasilien",
+          "url": "https://openlibrary.org/subjects/place:brasilien"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    },
+    "ISBN:9788573267136": {
+      "url": "https://openlibrary.org/books/OL61156809M/Bigornas",
+      "key": "/books/OL61156809M",
+      "title": "Bigornas",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL16129008A/Yasmin_Nigri",
+          "name": "Yasmin Nigri"
+        }
+      ],
+      "number_of_pages": 115,
+      "pagination": "115 pages",
+      "by_statement": "Yasmin Nigri",
+      "identifiers": {
+        "isbn_10": [
+          "8573267135"
+        ],
+        "isbn_13": [
+          "9788573267136"
+        ],
+        "lccn": [
+          "2018346124"
+        ],
+        "oclc": [
+          "1090707220"
+        ],
+        "openlibrary": [
+          "OL61156809M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.424.I37 B54 2018"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2018"
+    },
+    "ISBN:9788573267006": {
+      "url": "https://openlibrary.org/books/OL47307312M/Sete_Contra_Tebas",
+      "key": "/books/OL47307312M",
+      "title": "Sete Contra Tebas",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4680306A/Jonathan_C._Young",
+          "name": "Jonathan C. Young"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573267003"
+        ],
+        "isbn_13": [
+          "9788573267006"
+        ],
+        "openlibrary": [
+          "OL47307312M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Mar 26, 2018",
+      "notes": "Source title: Sete Contra Tebas (Em Portugues do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13771912-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13771912-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13771912-L.jpg"
+      }
+    },
+    "ISBN:9788573267211": {
+      "url": "https://openlibrary.org/books/OL39476721M/Diario_de_um_Homem_Superfluo",
+      "key": "/books/OL39476721M",
+      "title": "Diario de um Homem Superfluo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL10240A/Ivan_Sergeevich_Turgenev",
+          "name": "Ivan Sergeevich Turgenev"
+        }
+      ],
+      "number_of_pages": 96,
+      "weight": "141 grams",
+      "identifiers": {
+        "isbn_10": [
+          "8573267216"
+        ],
+        "isbn_13": [
+          "9788573267211"
+        ],
+        "openlibrary": [
+          "OL39476721M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Aug 29, 2018",
+      "subject_people": [
+        {
+          "name": "Ivan Turguêniev (1818-1883)",
+          "url": "https://openlibrary.org/subjects/person:ivan_turguêniev_(1818-1883)"
+        }
+      ],
+      "notes": "Source title: Diario de um Homem Superfluo (Em Portugues do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12917778-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12917778-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12917778-L.jpg"
+      }
+    }
+  }
+}

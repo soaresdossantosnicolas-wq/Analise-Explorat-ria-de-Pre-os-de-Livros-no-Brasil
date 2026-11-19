@@ -34,6 +34,10 @@ python scripts/extrair.py --senac caminho/senac.pdf --editora34 caminho/editora3
 - Uma linha representa uma edição no catálogo. Campos: ISBN (texto), preço de capa (BRL), páginas, largura/altura/espessura (cm), peso (kg), formato, editora, autor, lançamento e rastreabilidade (página e linha original).
 - Títulos podem estar truncados no PDF. Não são usados como variáveis preditoras; servem somente para agrupar títulos normalizados idênticos na separação.
 
+## Revisão da Editora 34
+
+A etapa de enriquecimento por ISBN e suas limitações estão em [revisão e cobertura](relatorios/ENRIQUECIMENTO_EDITORA34.md). Os dados auditáveis ficam em `dados/enriquecidos/`. Metadados não substituem os preços do catálogo nem entram automaticamente no modelo.
+
 ## Avaliação
 
 Teste de aproximadamente 20%, separado por grupos de títulos normalizados, semente 42. Cinco folds por grupo no treino selecionam o menor MAE entre mediana, Ridge e Random Forest com parâmetros fixos. Todos os ajustes de imputação, escala e codificação acontecem dentro do pipeline em cada fold. O teste só avalia a referência e o modelo escolhido; não seleciona modelos.

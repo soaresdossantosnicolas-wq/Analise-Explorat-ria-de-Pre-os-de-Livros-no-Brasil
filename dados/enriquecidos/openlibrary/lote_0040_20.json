@@ -1,0 +1,865 @@
+{
+  "consultado_em": "2026-11-19T22:36:48.722665+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573261820%2CISBN%3A9788573261844%2CISBN%3A9788573261851%2CISBN%3A9788573261868%2CISBN%3A9788573261882%2CISBN%3A9788573261950%2CISBN%3A9788573261967%2CISBN%3A9788573261974%2CISBN%3A9788573262049%2CISBN%3A9788573262063%2CISBN%3A9788573262070%2CISBN%3A9788573262100%2CISBN%3A9788573262162%2CISBN%3A9788573262209%2CISBN%3A9788573262230%2CISBN%3A9788573262261%2CISBN%3A9788573262285%2CISBN%3A9788573262346%2CISBN%3A9788573262353%2CISBN%3A9788573262421&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573261820": {
+      "url": "https://openlibrary.org/books/OL9163700M/Teoria_do_Romance_A",
+      "key": "/books/OL9163700M",
+      "title": "Teoria do Romance, A",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL2612427A/Lukács_György",
+          "name": "Lukács György"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6473334"
+        ],
+        "librarything": [
+          "98277"
+        ],
+        "isbn_10": [
+          "857326182X"
+        ],
+        "isbn_13": [
+          "9788573261820"
+        ],
+        "oclc": [
+          "55936743"
+        ],
+        "openlibrary": [
+          "OL9163700M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2000",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/teoriadoromance00geor",
+          "availability": "noview",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8726561-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8726561-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8726561-L.jpg"
+      }
+    },
+    "ISBN:9788573261844": {
+      "url": "https://openlibrary.org/books/OL3977551M/Para_uma_crítica_do_presente",
+      "key": "/books/OL3977551M",
+      "title": "Para uma crítica do presente",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1321280A/Irene_de_Arruda_Ribeiro_Cardoso",
+          "name": "Irene de Arruda Ribeiro Cardoso"
+        }
+      ],
+      "number_of_pages": 286,
+      "pagination": "286 p. ;",
+      "by_statement": "Irene Cardoso.",
+      "identifiers": {
+        "goodreads": [
+          "4037665"
+        ],
+        "isbn_10": [
+          "8573261846"
+        ],
+        "lccn": [
+          "2001296499"
+        ],
+        "oclc": [
+          "48003474"
+        ],
+        "openlibrary": [
+          "OL3977551M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "LA558 .S325 2001"
+        ],
+        "dewey_decimal_class": [
+          "378.81"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Curso de Pós-Graduação em Sociologia, Universidade de São Paulo"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2001",
+      "subjects": [
+        {
+          "name": "College students",
+          "url": "https://openlibrary.org/subjects/college_students"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Political activity",
+          "url": "https://openlibrary.org/subjects/political_activity"
+        },
+        {
+          "name": "Student movements",
+          "url": "https://openlibrary.org/subjects/student_movements"
+        },
+        {
+          "name": "Universities and colleges",
+          "url": "https://openlibrary.org/subjects/universities_and_colleges"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references.\nOriginally presented as the author's thesis (livre-docência)--Universidade de São Paulo, 1998.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4348749-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4348749-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4348749-L.jpg"
+      }
+    },
+    "ISBN:9788573261851": {
+      "url": "https://openlibrary.org/books/OL9163701M/Memórias_do_Subsolo",
+      "key": "/books/OL9163701M",
+      "title": "Memórias do Subsolo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "number_of_pages": 152,
+      "identifiers": {
+        "librarything": [
+          "8454"
+        ],
+        "goodreads": [
+          "517435"
+        ],
+        "isbn_10": [
+          "8573261854"
+        ],
+        "isbn_13": [
+          "9788573261851"
+        ],
+        "openlibrary": [
+          "OL9163701M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, Brazil"
+        }
+      ],
+      "publish_date": "2009",
+      "subjects": [
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        },
+        {
+          "name": "Officials and employees",
+          "url": "https://openlibrary.org/subjects/officials_and_employees"
+        },
+        {
+          "name": "Employees",
+          "url": "https://openlibrary.org/subjects/employees"
+        },
+        {
+          "name": "Fiction, historical",
+          "url": "https://openlibrary.org/subjects/fiction,_historical"
+        },
+        {
+          "name": "Russia (federation), fiction",
+          "url": "https://openlibrary.org/subjects/russia_(federation),_fiction"
+        },
+        {
+          "name": "Fiction, historical, general",
+          "url": "https://openlibrary.org/subjects/fiction,_historical,_general"
+        },
+        {
+          "name": "Fiction, political",
+          "url": "https://openlibrary.org/subjects/fiction,_political"
+        },
+        {
+          "name": "Slavic philology",
+          "url": "https://openlibrary.org/subjects/slavic_philology"
+        },
+        {
+          "name": "Fiction, general",
+          "url": "https://openlibrary.org/subjects/fiction,_general"
+        },
+        {
+          "name": "Fiction, psychological",
+          "url": "https://openlibrary.org/subjects/fiction,_psychological"
+        },
+        {
+          "name": "Continental european fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/continental_european_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Translations into English",
+          "url": "https://openlibrary.org/subjects/translations_into_english"
+        },
+        {
+          "name": "Ficción",
+          "url": "https://openlibrary.org/subjects/ficción"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        },
+        {
+          "name": "Historia",
+          "url": "https://openlibrary.org/subjects/historia"
+        },
+        {
+          "name": "Russian fiction",
+          "url": "https://openlibrary.org/subjects/russian_fiction"
+        },
+        {
+          "name": "Funcionarios y empleados",
+          "url": "https://openlibrary.org/subjects/funcionarios_y_empleados"
+        },
+        {
+          "name": "Classic Literature",
+          "url": "https://openlibrary.org/subjects/classic_literature"
+        },
+        {
+          "name": "German",
+          "url": "https://openlibrary.org/subjects/german"
+        },
+        {
+          "name": "Dictionaries",
+          "url": "https://openlibrary.org/subjects/dictionaries"
+        },
+        {
+          "name": "English language",
+          "url": "https://openlibrary.org/subjects/english_language"
+        },
+        {
+          "name": "Spanish",
+          "url": "https://openlibrary.org/subjects/spanish"
+        },
+        {
+          "name": "Korean",
+          "url": "https://openlibrary.org/subjects/korean"
+        },
+        {
+          "name": "French",
+          "url": "https://openlibrary.org/subjects/french"
+        },
+        {
+          "name": "Critics",
+          "url": "https://openlibrary.org/subjects/critics"
+        },
+        {
+          "name": "Roman russe",
+          "url": "https://openlibrary.org/subjects/roman_russe"
+        },
+        {
+          "name": "Traductions françaises",
+          "url": "https://openlibrary.org/subjects/traductions_françaises"
+        },
+        {
+          "name": "Literatura russa",
+          "url": "https://openlibrary.org/subjects/literatura_russa"
+        },
+        {
+          "name": "Pg3326 .z4 1993",
+          "url": "https://openlibrary.org/subjects/pg3326_.z4_1993"
+        },
+        {
+          "name": "891.733",
+          "url": "https://openlibrary.org/subjects/891.733"
+        },
+        {
+          "name": "Histoire",
+          "url": "https://openlibrary.org/subjects/histoire"
+        },
+        {
+          "name": "Romans, nouvelles",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles"
+        },
+        {
+          "name": "Political fiction",
+          "url": "https://openlibrary.org/subjects/political_fiction"
+        },
+        {
+          "name": "Russia -- History -- 1801-1917 -- Fiction",
+          "url": "https://openlibrary.org/subjects/russia_--_history_--_1801-1917_--_fiction"
+        },
+        {
+          "name": "Russia -- Officials and employees -- Fiction",
+          "url": "https://openlibrary.org/subjects/russia_--_officials_and_employees_--_fiction"
+        },
+        {
+          "name": "Russian literature",
+          "url": "https://openlibrary.org/subjects/russian_literature"
+        },
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Russia",
+          "url": "https://openlibrary.org/subjects/place:russia"
+        },
+        {
+          "name": "Rusia",
+          "url": "https://openlibrary.org/subjects/place:rusia"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Fyodor Dostoyevsky (1821-1881)",
+          "url": "https://openlibrary.org/subjects/person:fyodor_dostoyevsky_(1821-1881)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1801-1917",
+          "url": "https://openlibrary.org/subjects/time:1801-1917"
+        }
+      ],
+      "links": [
+        {
+          "title": "Notes From the Underground-Ebookzy",
+          "url": "https://ebookzy.com/notes-from-the-underground/"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15087856-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15087856-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15087856-L.jpg"
+      }
+    },
+    "ISBN:9788573261868": {
+      "url": "https://openlibrary.org/books/OL39816047M/Crocodilo_O",
+      "key": "/books/OL39816047M",
+      "title": "Crocodilo, O",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4680306A/Jonathan_C._Young",
+          "name": "Jonathan C. Young"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573261862"
+        ],
+        "isbn_13": [
+          "9788573261868"
+        ],
+        "openlibrary": [
+          "OL39816047M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Jun 06, 2009"
+    },
+    "ISBN:9788573261882": {
+      "url": "https://openlibrary.org/books/OL21771720M/Cidade_de_muros",
+      "key": "/books/OL21771720M",
+      "title": "Cidade de muros",
+      "subtitle": "crime, segregação e cidadania em São Paulo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1142878A/Teresa_Pires_do_Rio_Caldeira",
+          "name": "Teresa Pires do Rio Caldeira"
+        }
+      ],
+      "number_of_pages": 399,
+      "pagination": "399 p. :",
+      "by_statement": "Teresa Pires do Rio Caldeira ; tradução, Frank de Oliveira e Henrique Monteiro.",
+      "identifiers": {
+        "librarything": [
+          "5238893"
+        ],
+        "isbn_10": [
+          "8531405807",
+          "8573261889"
+        ],
+        "oclc": [
+          "49269106"
+        ],
+        "openlibrary": [
+          "OL21771720M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HV6895.S3 C3517x 2000"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "EDUSP"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Crime",
+          "url": "https://openlibrary.org/subjects/crime"
+        },
+        {
+          "name": "Police",
+          "url": "https://openlibrary.org/subjects/police"
+        },
+        {
+          "name": "Segregation",
+          "url": "https://openlibrary.org/subjects/segregation"
+        },
+        {
+          "name": "Social classes",
+          "url": "https://openlibrary.org/subjects/social_classes"
+        },
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "Urban anthropology",
+          "url": "https://openlibrary.org/subjects/urban_anthropology"
+        },
+        {
+          "name": "Violência",
+          "url": "https://openlibrary.org/subjects/violência"
+        },
+        {
+          "name": "Cidadania",
+          "url": "https://openlibrary.org/subjects/cidadania"
+        },
+        {
+          "name": "Crime, latin america",
+          "url": "https://openlibrary.org/subjects/crime,_latin_america"
+        },
+        {
+          "name": "Social classes, latin america",
+          "url": "https://openlibrary.org/subjects/social_classes,_latin_america"
+        },
+        {
+          "name": "Sao paulo (brazil)",
+          "url": "https://openlibrary.org/subjects/sao_paulo_(brazil)"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo",
+          "url": "https://openlibrary.org/subjects/place:são_paulo"
+        },
+        {
+          "name": "São Paulo (Brazil)",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_(brazil)"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 385-399).",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/cidadedemuroscri0000cald",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL21771720M/Cidade_de_muros/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/11296102-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/11296102-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/11296102-L.jpg"
+      }
+    },
+    "ISBN:9788573262049": {
+      "url": "https://openlibrary.org/books/OL3608534M/Pobreza_e_cidadania",
+      "key": "/books/OL3608534M",
+      "title": "Pobreza e cidadania",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1492364A/Vera_da_Silva_Telles",
+          "name": "Vera da Silva Telles"
+        }
+      ],
+      "number_of_pages": 167,
+      "pagination": "167 p. ;",
+      "by_statement": "Vera da Silva Telles.",
+      "identifiers": {
+        "goodreads": [
+          "5616742"
+        ],
+        "isbn_10": [
+          "8573262044"
+        ],
+        "lccn": [
+          "2002354115"
+        ],
+        "oclc": [
+          "50065015"
+        ],
+        "openlibrary": [
+          "OL3608534M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HC190.P6 T45 2001"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Curso de Pós-Graduação em Sociologia, Universidade de São Paulo"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2001",
+      "subjects": [
+        {
+          "name": "Poverty",
+          "url": "https://openlibrary.org/subjects/poverty"
+        },
+        {
+          "name": "Social policy",
+          "url": "https://openlibrary.org/subjects/social_policy"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13303292-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13303292-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13303292-L.jpg"
+      }
+    },
+    "ISBN:9788573262070": {
+      "url": "https://openlibrary.org/books/OL13410303M/Aves_As",
+      "key": "/books/OL13410303M",
+      "title": "Aves, As",
+      "identifiers": {
+        "isbn_10": [
+          "8573262079"
+        ],
+        "isbn_13": [
+          "9788573262070"
+        ],
+        "openlibrary": [
+          "OL13410303M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2001"
+    },
+    "ISBN:9788573262162": {
+      "url": "https://openlibrary.org/books/OL3721576M/La_divina_increnca",
+      "key": "/books/OL3721576M",
+      "title": "La divina increnca",
+      "subtitle": "reproduçao integral da primeira edição de 1915",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL645303A/Juó_Bananére",
+          "name": "Juó Bananére"
+        }
+      ],
+      "number_of_pages": 43,
+      "pagination": "xxi, 43 p. :",
+      "by_statement": "Juó Bananére ; acrescida de textos introdutórios de Otto Maria Carpeaux e Antônio de Alcântara Machado.",
+      "identifiers": {
+        "isbn_10": [
+          "8573262168"
+        ],
+        "lccn": [
+          "2003338738"
+        ],
+        "oclc": [
+          "49003015"
+        ],
+        "openlibrary": [
+          "OL3721576M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.M157 D5 2001"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP"
+        }
+      ],
+      "publish_date": "2001"
+    },
+    "ISBN:9788573262261": {
+      "url": "https://openlibrary.org/books/OL3613379M/Cais",
+      "key": "/books/OL3613379M",
+      "title": "Cais",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304655A/Alberto_Alexandre_Martins",
+          "name": "Alberto Alexandre Martins"
+        }
+      ],
+      "number_of_pages": 123,
+      "pagination": "123 p. :",
+      "by_statement": "Alberto Martins ; gravuras do autor.",
+      "identifiers": {
+        "goodreads": [
+          "6734641"
+        ],
+        "isbn_10": [
+          "8573262265"
+        ],
+        "lccn": [
+          "2002370163"
+        ],
+        "oclc": [
+          "50395537"
+        ],
+        "openlibrary": [
+          "OL3613379M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.23.A7276 C35 2002"
+        ],
+        "dewey_decimal_class": [
+          "869.1/42"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2002",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4297592-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4297592-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4297592-L.jpg"
+      }
+    },
+    "ISBN:9788573262285": {
+      "url": "https://openlibrary.org/books/OL9163706M/Lisístrata_ou_a_Greve_do_Sexo",
+      "key": "/books/OL9163706M",
+      "title": "Lisístrata ou a Greve do Sexo",
+      "identifiers": {
+        "librarything": [
+          "71247"
+        ],
+        "isbn_10": [
+          "8573262281"
+        ],
+        "isbn_13": [
+          "9788573262285"
+        ],
+        "oclc": [
+          "664783678"
+        ],
+        "openlibrary": [
+          "OL9163706M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2002"
+    },
+    "ISBN:9788573262346": {
+      "url": "https://openlibrary.org/books/OL9163707M/Reflexões_Sobre_a_Criança_o_Brinquedo_e_a_Educação",
+      "key": "/books/OL9163707M",
+      "title": "Reflexões Sobre a Criança, o Brinquedo e a Educação",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL25218A/Walter_Benjamin",
+          "name": "Walter Benjamin"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6936008"
+        ],
+        "librarything": [
+          "36042"
+        ],
+        "isbn_10": [
+          "8573262346"
+        ],
+        "isbn_13": [
+          "9788573262346"
+        ],
+        "openlibrary": [
+          "OL9163707M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2002"
+    },
+    "ISBN:9788573262353": {
+      "url": "https://openlibrary.org/books/OL13410306M/Destino_Ímpar",
+      "key": "/books/OL13410306M",
+      "title": "Destino Ímpar",
+      "subtitle": "Sobre a Formação de Florestan Fernandes",
+      "number_of_pages": 191,
+      "identifiers": {
+        "isbn_10": [
+          "8573262354"
+        ],
+        "isbn_13": [
+          "9788573262353"
+        ],
+        "lccn": [
+          "2005344141"
+        ],
+        "oclc": [
+          "51329207"
+        ],
+        "openlibrary": [
+          "OL13410306M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HM22.B82 F4735 2002",
+          "HM22.B82 F475 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Sociologists",
+          "url": "https://openlibrary.org/subjects/sociologists"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "Sociology",
+          "url": "https://openlibrary.org/subjects/sociology"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Florestan Fernandes",
+          "url": "https://openlibrary.org/subjects/person:florestan_fernandes"
+        }
+      ]
+    },
+    "ISBN:9788573262421": {
+      "url": "https://openlibrary.org/books/OL13410307M/Na_Marca_do_Pênalti",
+      "key": "/books/OL13410307M",
+      "title": "Na Marca do Pênalti",
+      "identifiers": {
+        "isbn_10": [
+          "8573262427"
+        ],
+        "isbn_13": [
+          "9788573262421"
+        ],
+        "openlibrary": [
+          "OL13410307M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2002"
+    }
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "consultado_em": "2026-11-19T22:37:06.242616+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573263152%2CISBN%3A9788573263169%2CISBN%3A9788573263176%2CISBN%3A9798573263205%2CISBN%3A9788573263213%2CISBN%3A9788573263237%2CISBN%3A9788573263244%2CISBN%3A9788573263251%2CISBN%3A9788573263275%2CISBN%3A9788573263282%2CISBN%3A9788573263299%2CISBN%3A9788573263336%2CISBN%3A9788573263350%2CISBN%3A9788573263367%2CISBN%3A9788573263374%2CISBN%3A9788573263381%2CISBN%3A9788573263398%2CISBN%3A9788573263404%2CISBN%3A9788573263428%2CISBN%3A9788573263435&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573263169": {
+      "url": "https://openlibrary.org/books/OL13410334M/Pintura_Textos_Essencias",
+      "key": "/books/OL13410334M",
+      "title": "Pintura: Textos Essencias",
+      "subtitle": "a Figura Humana - Vol. 6",
+      "identifiers": {
+        "isbn_10": [
+          "8573263164"
+        ],
+        "isbn_13": [
+          "9788573263169"
+        ],
+        "openlibrary": [
+          "OL13410334M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2005"
+    },
+    "ISBN:9788573263213": {
+      "url": "https://openlibrary.org/books/OL13410336M/Partilha_do_Sensível_A",
+      "key": "/books/OL13410336M",
+      "title": "Partilha do Sensível, A",
+      "identifiers": {
+        "isbn_10": [
+          "8573263210"
+        ],
+        "isbn_13": [
+          "9788573263213"
+        ],
+        "openlibrary": [
+          "OL13410336M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2005"
+    },
+    "ISBN:9788573263237": {
+      "url": "https://openlibrary.org/books/OL9163728M/Lazarilho_de_Tormes",
+      "key": "/books/OL9163728M",
+      "title": "Lazarilho de Tormes",
+      "identifiers": {
+        "librarything": [
+          "1024745"
+        ],
+        "isbn_10": [
+          "8573263237"
+        ],
+        "isbn_13": [
+          "9788573263237"
+        ],
+        "openlibrary": [
+          "OL9163728M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2005"
+    },
+    "ISBN:9788573263244": {
+      "url": "https://openlibrary.org/books/OL13410338M/Pintura_Textos_Essencias",
+      "key": "/books/OL13410338M",
+      "title": "Pintura: Textos Essencias",
+      "subtitle": "o Paralelo das Artes - Vol. 7",
+      "identifiers": {
+        "librarything": [
+          "5379133"
+        ],
+        "isbn_10": [
+          "8573263245"
+        ],
+        "isbn_13": [
+          "9788573263244"
+        ],
+        "openlibrary": [
+          "OL13410338M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2005"
+    },
+    "ISBN:9788573263251": {
+      "url": "https://openlibrary.org/books/OL13410339M/Pintura_Textos_Essencias",
+      "key": "/books/OL13410339M",
+      "title": "Pintura: Textos Essencias",
+      "subtitle": "Descrição e Interpretação - Vol. 8",
+      "identifiers": {
+        "librarything": [
+          "5414584"
+        ],
+        "isbn_10": [
+          "8573263253"
+        ],
+        "isbn_13": [
+          "9788573263251"
+        ],
+        "openlibrary": [
+          "OL13410339M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2005"
+    },
+    "ISBN:9788573263275": {
+      "url": "https://openlibrary.org/books/OL24031217M/Os_sons_que_vêm_da_rua",
+      "key": "/books/OL24031217M",
+      "title": "Os sons que vêm da rua",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 237,
+      "pagination": "237, [3] p. ;",
+      "by_statement": "José Ramos Tinhorão.",
+      "identifiers": {
+        "isbn_10": [
+          "857326327X"
+        ],
+        "lccn": [
+          "2006337949"
+        ],
+        "openlibrary": [
+          "OL24031217M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3575.B7 T49 2005"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2005",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Title of 1st ed.: Música popular.\n\nIncludes bibliographical references (p. 227-[239]).",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13232410-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13232410-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13232410-L.jpg"
+      }
+    },
+    "ISBN:9788573263282": {
+      "url": "https://openlibrary.org/books/OL13410340M/História_dos_Ossos_A",
+      "key": "/books/OL13410340M",
+      "title": "História dos Ossos, A",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304655A/Alberto_Alexandre_Martins",
+          "name": "Alberto Alexandre Martins"
+        }
+      ],
+      "number_of_pages": 68,
+      "identifiers": {
+        "goodreads": [
+          "6734632"
+        ],
+        "librarything": [
+          "3516144"
+        ],
+        "isbn_10": [
+          "8573263288"
+        ],
+        "isbn_13": [
+          "9788573263282"
+        ],
+        "lccn": [
+          "2006451074"
+        ],
+        "oclc": [
+          "64278564"
+        ],
+        "openlibrary": [
+          "OL13410340M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2006/02917 (P)",
+          "PQ9698.23.A7276 H57 2005"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2005",
+      "subjects": [
+        {
+          "name": "Literatura brasileira",
+          "url": "https://openlibrary.org/subjects/literatura_brasileira"
+        },
+        {
+          "name": "Romance",
+          "url": "https://openlibrary.org/subjects/romance"
+        }
+      ]
+    },
+    "ISBN:9788573263299": {
+      "url": "https://openlibrary.org/books/OL18495557M/A_idéia_e_o_figurado",
+      "key": "/books/OL18495557M",
+      "title": "A idéia e o figurado",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1106474A/Gilda_de_Mello_e._Souza",
+          "name": "Gilda de Mello e. Souza"
+        }
+      ],
+      "number_of_pages": 189,
+      "pagination": "189 p. :",
+      "by_statement": "Gilda de Mello e Souza.",
+      "identifiers": {
+        "isbn_10": [
+          "8523500405",
+          "8573263296"
+        ],
+        "lccn": [
+          "2006452134"
+        ],
+        "oclc": [
+          "71307693"
+        ],
+        "openlibrary": [
+          "OL18495557M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.A72 Z8965 2005"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Livraria Duas Cidades"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2005",
+      "subjects": [
+        {
+          "name": "Aesthetics",
+          "url": "https://openlibrary.org/subjects/aesthetics"
+        },
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Modern Arts",
+          "url": "https://openlibrary.org/subjects/modern_arts"
+        },
+        {
+          "name": "Literatura brasileira (século 19;ensaios;crítica e interpretação)",
+          "url": "https://openlibrary.org/subjects/literatura_brasileira_(século_19;ensaios;crítica_e_interpretação)"
+        },
+        {
+          "name": "Estética (arte) (século 19)",
+          "url": "https://openlibrary.org/subjects/estética_(arte)_(século_19)"
+        },
+        {
+          "name": "Modernismo (literatura) (século 19)",
+          "url": "https://openlibrary.org/subjects/modernismo_(literatura)_(século_19)"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Mário de Andrade (1893-1945)",
+          "url": "https://openlibrary.org/subjects/person:mário_de_andrade_(1893-1945)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references and index.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5422449-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5422449-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5422449-L.jpg"
+      }
+    },
+    "ISBN:9788573263350": {
+      "url": "https://openlibrary.org/books/OL48582070M/Noites_Brancas",
+      "key": "/books/OL48582070M",
+      "title": "Noites Brancas",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "number_of_pages": 87,
+      "identifiers": {
+        "isbn_13": [
+          "9788573263350"
+        ],
+        "openlibrary": [
+          "OL48582070M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Brasil"
+        }
+      ],
+      "publish_date": "2009",
+      "subjects": [
+        {
+          "name": "Translations into English",
+          "url": "https://openlibrary.org/subjects/translations_into_english"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        },
+        {
+          "name": "Russian Short stories",
+          "url": "https://openlibrary.org/subjects/russian_short_stories"
+        },
+        {
+          "name": "Utopias",
+          "url": "https://openlibrary.org/subjects/utopias"
+        },
+        {
+          "name": "Utopies",
+          "url": "https://openlibrary.org/subjects/utopies"
+        },
+        {
+          "name": "Romans, nouvelles",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles"
+        },
+        {
+          "name": "Slavic philology",
+          "url": "https://openlibrary.org/subjects/slavic_philology"
+        },
+        {
+          "name": "Fiction, general",
+          "url": "https://openlibrary.org/subjects/fiction,_general"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Russia",
+          "url": "https://openlibrary.org/subjects/place:russia"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Fyodor Dostoyevsky (1821-1881)",
+          "url": "https://openlibrary.org/subjects/person:fyodor_dostoyevsky_(1821-1881)"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "Era uma noite maravilhosa, uma noite tal como só é possível quando somos jovens, caro leitor.",
+          "comment": "",
+          "first_sentence": true
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14364690-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14364690-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14364690-L.jpg"
+      }
+    },
+    "ISBN:9788573263398": {
+      "url": "https://openlibrary.org/books/OL16788917M/O_local_da_diferença",
+      "key": "/books/OL16788917M",
+      "title": "O local da diferença",
+      "subtitle": "ensaios sobre memória, arte, literatura e tradução",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5122373A/Márcio_Seligmann-Silva",
+          "name": "Márcio Seligmann-Silva"
+        }
+      ],
+      "number_of_pages": 357,
+      "pagination": "357 p. ;",
+      "by_statement": "Márcio Seligmann-Silva.",
+      "identifiers": {
+        "goodreads": [
+          "6414414"
+        ],
+        "librarything": [
+          "2774191"
+        ],
+        "isbn_10": [
+          "8573263393"
+        ],
+        "lccn": [
+          "2006450442"
+        ],
+        "oclc": [
+          "86068780"
+        ],
+        "openlibrary": [
+          "OL16788917M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PN518 .S39 2005"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2005",
+      "subjects": [
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Literature, Modern",
+          "url": "https://openlibrary.org/subjects/literature,_modern"
+        },
+        {
+          "name": "Modern Literature",
+          "url": "https://openlibrary.org/subjects/modern_literature"
+        },
+        {
+          "name": "Teoria literária",
+          "url": "https://openlibrary.org/subjects/teoria_literária"
+        },
+        {
+          "name": "Memória cultural",
+          "url": "https://openlibrary.org/subjects/memória_cultural"
+        },
+        {
+          "name": "Artes",
+          "url": "https://openlibrary.org/subjects/artes"
+        },
+        {
+          "name": "Cultura",
+          "url": "https://openlibrary.org/subjects/cultura"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 337-355)."
+    }
+  }
+}

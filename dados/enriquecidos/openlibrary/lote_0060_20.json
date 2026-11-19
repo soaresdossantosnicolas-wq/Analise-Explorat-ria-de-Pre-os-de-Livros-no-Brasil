@@ -1,0 +1,974 @@
+{
+  "consultado_em": "2026-11-19T22:36:54.658665+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573262513%2CISBN%3A9788573262520%2CISBN%3A9788573262537%2CISBN%3A9788573262568%2CISBN%3A9788573262599%2CISBN%3A9788573262605%2CISBN%3A9788573262612%2CISBN%3A9788573262629%2CISBN%3A9788573262650%2CISBN%3A9788573262667%2CISBN%3A9788573262681%2CISBN%3A9788573262698%2CISBN%3A9788573262711%2CISBN%3A9788573262728%2CISBN%3A9788573262735%2CISBN%3A9788573262742%2CISBN%3A9788585490133%2CISBN%3A9788585490157%2CISBN%3A9788585490164%2CISBN%3A9788573262766&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573262513": {
+      "url": "https://openlibrary.org/books/OL13410309M/Arquitetura_Nova",
+      "key": "/books/OL13410309M",
+      "title": "Arquitetura Nova",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL6458867A/Pedro_Fiori_Arantes",
+          "name": "Pedro Fiori Arantes"
+        }
+      ],
+      "number_of_pages": 254,
+      "identifiers": {
+        "librarything": [
+          "6131431"
+        ],
+        "isbn_10": [
+          "8573262516"
+        ],
+        "isbn_13": [
+          "9788573262513"
+        ],
+        "lccn": [
+          "2005344580"
+        ],
+        "oclc": [
+          "52785865"
+        ],
+        "openlibrary": [
+          "OL13410309M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "NA855 .A68 2002",
+          "NA855.5.M63 A73 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Architecture",
+          "url": "https://openlibrary.org/subjects/architecture"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Modern movement (Architecture)",
+          "url": "https://openlibrary.org/subjects/modern_movement_(architecture)"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Sérgio Ferro (1938-)",
+          "url": "https://openlibrary.org/subjects/person:sérgio_ferro_(1938-)"
+        },
+        {
+          "name": "Rodrigo Lefèvre (1938-1984)",
+          "url": "https://openlibrary.org/subjects/person:rodrigo_lefèvre_(1938-1984)"
+        },
+        {
+          "name": "Flávio Império (1935-1985)",
+          "url": "https://openlibrary.org/subjects/person:flávio_império_(1935-1985)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5281641-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5281641-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5281641-L.jpg"
+      }
+    },
+    "ISBN:9788573262520": {
+      "url": "https://openlibrary.org/books/OL9163709M/Niétotchka_Niezvânova",
+      "key": "/books/OL9163709M",
+      "title": "Niétotchka Niezvânova",
+      "identifiers": {
+        "librarything": [
+          "6415988"
+        ],
+        "goodreads": [
+          "517414"
+        ],
+        "isbn_10": [
+          "8573262524"
+        ],
+        "isbn_13": [
+          "9788573262520"
+        ],
+        "oclc": [
+          "55929222"
+        ],
+        "openlibrary": [
+          "OL9163709M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2002"
+    },
+    "ISBN:9788573262537": {
+      "url": "https://openlibrary.org/books/OL13410310M/Adoniran",
+      "key": "/books/OL13410310M",
+      "title": "Adoniran",
+      "subtitle": "Dá Licença de Contar...",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5942194A/Ayrton_Mugnaini_Jr.",
+          "name": "Ayrton Mugnaini Jr."
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "4324801"
+        ],
+        "isbn_10": [
+          "8573262532"
+        ],
+        "isbn_13": [
+          "9788573262537"
+        ],
+        "lccn": [
+          "2005344136"
+        ],
+        "oclc": [
+          "52492920"
+        ],
+        "openlibrary": [
+          "OL13410310M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML410.B2435 M84 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Composers",
+          "url": "https://openlibrary.org/subjects/composers"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Adoniran Barbosa (1910-1982)",
+          "url": "https://openlibrary.org/subjects/person:adoniran_barbosa_(1910-1982)"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5281647-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5281647-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5281647-L.jpg"
+      }
+    },
+    "ISBN:9788573262568": {
+      "url": "https://openlibrary.org/books/OL20228273M/Um_imenso_Portugal",
+      "key": "/books/OL20228273M",
+      "title": "Um imenso Portugal",
+      "subtitle": "história e historiografia",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93137A/Evaldo_Cabral_de_Mello",
+          "name": "Evaldo Cabral de Mello"
+        }
+      ],
+      "number_of_pages": 363,
+      "pagination": "363 p. ;",
+      "by_statement": "Evaldo Cabral de Mello.",
+      "identifiers": {
+        "librarything": [
+          "268441"
+        ],
+        "isbn_10": [
+          "8573262567"
+        ],
+        "lccn": [
+          "2005344412"
+        ],
+        "oclc": [
+          "52376682"
+        ],
+        "openlibrary": [
+          "OL20228273M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2520.4 .M45 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP Brazil"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Historiography",
+          "url": "https://openlibrary.org/subjects/historiography"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references and index."
+    },
+    "ISBN:9788573262605": {
+      "url": "https://openlibrary.org/books/OL3447623M/Ronaldo",
+      "key": "/books/OL3447623M",
+      "title": "Ronaldo",
+      "subtitle": "glória e drama no futebol globalizado",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL94337A/Jorge_Caldeira",
+          "name": "Jorge Caldeira"
+        }
+      ],
+      "number_of_pages": 318,
+      "pagination": "318 p. :",
+      "by_statement": "Jorge Caldeira.",
+      "identifiers": {
+        "isbn_10": [
+          "8573262605"
+        ],
+        "lccn": [
+          "2005343400"
+        ],
+        "oclc": [
+          "52823302"
+        ],
+        "openlibrary": [
+          "OL3447623M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "GV942.7.R626 C34 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Lance! Editorial"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro, RJ, Brasil"
+        },
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Soccer",
+          "url": "https://openlibrary.org/subjects/soccer"
+        },
+        {
+          "name": "Soccer players",
+          "url": "https://openlibrary.org/subjects/soccer_players"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Ronaldo (1976-)",
+          "url": "https://openlibrary.org/subjects/person:ronaldo_(1976-)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 317-318).",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4921212-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4921212-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4921212-L.jpg"
+      }
+    },
+    "ISBN:9788573262612": {
+      "url": "https://openlibrary.org/books/OL9163713M/Engenhoso_Fidalgo_D._Quixote_de_La_Mancha_O_-_Vol._1",
+      "key": "/books/OL9163713M",
+      "title": "Engenhoso Fidalgo D. Quixote de La Mancha, O - Vol. 1",
+      "identifiers": {
+        "goodreads": [
+          "5425255"
+        ],
+        "librarything": [
+          "7001194"
+        ],
+        "isbn_10": [
+          "8573262613"
+        ],
+        "isbn_13": [
+          "9788573262612"
+        ],
+        "openlibrary": [
+          "OL9163713M"
+        ]
+      }
+    },
+    "ISBN:9788573262629": {
+      "url": "https://openlibrary.org/books/OL20227359M/José_Antônio_Pimenta_Bueno_Marquês_de_São_Vicente",
+      "key": "/books/OL20227359M",
+      "title": "José Antônio Pimenta Bueno, Marquês de São Vicente",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1769079A/São_Vicente_José_Antônio_Pimenta_Bueno_Marquês_de",
+          "name": "São Vicente, José Antônio Pimenta Bueno Marquês de"
+        }
+      ],
+      "number_of_pages": 682,
+      "pagination": "682 p. :",
+      "by_statement": "organização e introdução, Eduardo Kugelmas.",
+      "identifiers": {
+        "isbn_10": [
+          "8573262621"
+        ],
+        "oclc": [
+          "52435138"
+        ],
+        "openlibrary": [
+          "OL20227359M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "KHD2919 .S27 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Constitutional history",
+          "url": "https://openlibrary.org/subjects/constitutional_history"
+        },
+        {
+          "name": "Constitutional law",
+          "url": "https://openlibrary.org/subjects/constitutional_law"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "José Antônio Pimenta Bueno São Vicente Marquês de (1803-1878)",
+          "url": "https://openlibrary.org/subjects/person:josé_antônio_pimenta_bueno_são_vicente_marquês_de_(1803-1878)"
+        }
+      ],
+      "notes": "Chiefly the author's Direito público brasileiro e análise da Constituição do Império (p. [55]-571), originally published in 1857, with an appendix of 19th century laws of Brazil (p. [573]-682).\n\n\"Bibliografia do marquês de São Vicente\": p. 50-51.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5523459-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5523459-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5523459-L.jpg"
+      }
+    },
+    "ISBN:9788573262667": {
+      "url": "https://openlibrary.org/books/OL3447819M/Tarsila_sua_obra_e_seu_tempo",
+      "key": "/books/OL3447819M",
+      "title": "Tarsila, sua obra e seu tempo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "number_of_pages": 509,
+      "pagination": "509 p., xvi p. of plates :",
+      "by_statement": "Aracy A. Amaral.",
+      "identifiers": {
+        "goodreads": [
+          "3330507"
+        ],
+        "isbn_10": [
+          "8573262664"
+        ],
+        "lccn": [
+          "2005343774"
+        ],
+        "oclc": [
+          "52800350"
+        ],
+        "openlibrary": [
+          "OL3447819M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ND359.T37 A9 2003",
+          "ND359.T37 A8 2003"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        },
+        {
+          "name": "Edusp"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2003",
+      "subjects": [
+        {
+          "name": "Painters",
+          "url": "https://openlibrary.org/subjects/painters"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Tarsila",
+          "url": "https://openlibrary.org/subjects/person:tarsila"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 475-498) and index.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4265920-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4265920-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4265920-L.jpg"
+      }
+    },
+    "ISBN:9788573262681": {
+      "url": "https://openlibrary.org/books/OL13410312M/Reinvente_Seu_Bairro",
+      "key": "/books/OL13410312M",
+      "title": "Reinvente Seu Bairro",
+      "identifiers": {
+        "librarything": [
+          "5433909"
+        ],
+        "isbn_10": [
+          "8573262680"
+        ],
+        "isbn_13": [
+          "9788573262681"
+        ],
+        "lccn": [
+          "2006338151"
+        ],
+        "openlibrary": [
+          "OL13410312M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HT169.B62 S263 2003"
+        ]
+      },
+      "subjects": [
+        {
+          "name": "City planning",
+          "url": "https://openlibrary.org/subjects/city_planning"
+        },
+        {
+          "name": "Citizen participation",
+          "url": "https://openlibrary.org/subjects/citizen_participation"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo",
+          "url": "https://openlibrary.org/subjects/place:são_paulo"
+        }
+      ]
+    },
+    "ISBN:9788573262698": {
+      "url": "https://openlibrary.org/books/OL13410313M/Que_Droga_é_Essa",
+      "key": "/books/OL13410313M",
+      "title": "Que Droga é Essa?",
+      "identifiers": {
+        "isbn_10": [
+          "8573262699"
+        ],
+        "isbn_13": [
+          "9788573262698"
+        ],
+        "oclc": [
+          "664783692"
+        ],
+        "openlibrary": [
+          "OL13410313M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2003"
+    },
+    "ISBN:9788573262711": {
+      "url": "https://openlibrary.org/books/OL9163715M/Duas_Narrativas_Fantásticas",
+      "key": "/books/OL9163715M",
+      "title": "Duas Narrativas Fantásticas",
+      "identifiers": {
+        "librarything": [
+          "28372"
+        ],
+        "isbn_10": [
+          "8573262710"
+        ],
+        "isbn_13": [
+          "9788573262711"
+        ],
+        "openlibrary": [
+          "OL9163715M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2003"
+    },
+    "ISBN:9788573262728": {
+      "url": "https://openlibrary.org/books/OL17888614M/A_era_dos_festivais",
+      "key": "/books/OL17888614M",
+      "title": "A era dos festivais",
+      "subtitle": "uma parábola",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5362646A/Zuza_Homem_de_Mello",
+          "name": "Zuza Homem de Mello"
+        }
+      ],
+      "number_of_pages": 523,
+      "pagination": "523 p. :",
+      "by_statement": "Zuza Homem de Mello.",
+      "identifiers": {
+        "goodreads": [
+          "3030588"
+        ],
+        "librarything": [
+          "4865793"
+        ],
+        "isbn_10": [
+          "8573262729"
+        ],
+        "lccn": [
+          "2005344716"
+        ],
+        "oclc": [
+          "53320131"
+        ],
+        "openlibrary": [
+          "OL17888614M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3487.B7 M46 2003",
+          "ML3487.B5 M45 2003"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2003",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Music festivals",
+          "url": "https://openlibrary.org/subjects/music_festivals"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "\"Discografia da era dos festivais\": p. 492-502.\n\nIncludes bibliographical references (p. 503-505) and index."
+    },
+    "ISBN:9788573262735": {
+      "url": "https://openlibrary.org/books/OL9163717M/O_Desaparecido_ou_Amérika",
+      "key": "/books/OL9163717M",
+      "title": "O Desaparecido ou Amérika",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL33146A/Franz_Kafka",
+          "name": "Franz Kafka"
+        }
+      ],
+      "number_of_pages": 304,
+      "weight": "480 grams",
+      "identifiers": {
+        "goodreads": [
+          "89333"
+        ],
+        "librarything": [
+          "28771"
+        ],
+        "isbn_10": [
+          "8573262737"
+        ],
+        "isbn_13": [
+          "9788573262735"
+        ],
+        "openlibrary": [
+          "OL9163717M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2003",
+      "subjects": [
+        {
+          "name": "literatura alemã",
+          "url": "https://openlibrary.org/subjects/literatura_alemã"
+        },
+        {
+          "name": "ficção alemã",
+          "url": "https://openlibrary.org/subjects/ficção_alemã"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15249968-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15249968-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15249968-L.jpg"
+      }
+    },
+    "ISBN:9788573262742": {
+      "url": "https://openlibrary.org/books/OL3722317M/A_fronda_dos_mazombos",
+      "key": "/books/OL3722317M",
+      "title": "A fronda dos mazombos",
+      "subtitle": "nobres contra mascates, Pernambuco, 1666-1715",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93137A/Evaldo_Cabral_de_Mello",
+          "name": "Evaldo Cabral de Mello"
+        }
+      ],
+      "number_of_pages": 495,
+      "pagination": "495 p. ;",
+      "by_statement": "Evaldo Cabral de Mello.",
+      "identifiers": {
+        "goodreads": [
+          "5142799"
+        ],
+        "librarything": [
+          "263834"
+        ],
+        "isbn_10": [
+          "8573262745"
+        ],
+        "lccn": [
+          "2003339613"
+        ],
+        "openlibrary": [
+          "OL3722317M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2601 .M425 2003"
+        ],
+        "dewey_decimal_class": [
+          "981/.032"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2003",
+      "subjects": [
+        {
+          "name": "War of the Mascates, Brazil, 1710-1714",
+          "url": "https://openlibrary.org/subjects/war_of_the_mascates,_brazil,_1710-1714"
+        },
+        {
+          "name": "Anti-imperialist movements",
+          "url": "https://openlibrary.org/subjects/anti-imperialist_movements"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        }
+      ],
+      "notes": "Includes bibliographical references and index.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13463798-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13463798-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13463798-L.jpg"
+      }
+    },
+    "ISBN:9788585490133": {
+      "url": "https://openlibrary.org/books/OL45881173M/Diário_De_Susie_O",
+      "key": "/books/OL45881173M",
+      "title": "Diário De Susie, O",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL12268306A/Ann_Macfarlane_Aidan_E_Mcpherson",
+          "name": "Ann Macfarlane Aidan E Mcpherson"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8585490136"
+        ],
+        "isbn_13": [
+          "9788585490133"
+        ],
+        "openlibrary": [
+          "OL45881173M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2009-06-06"
+    },
+    "ISBN:9788585490157": {
+      "url": "https://openlibrary.org/books/OL27018587M/As_Tecnologias_da_inteligencia_o_futuro_do_pensamento_na_era_da_informatica",
+      "key": "/books/OL27018587M",
+      "title": "As Tecnologias da inteligencia o futuro do pensamento na era da informatica",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL2854540A/Pierre_Levy",
+          "name": "Pierre Levy"
+        }
+      ],
+      "number_of_pages": 203,
+      "pagination": "203 p.",
+      "by_statement": "Pierre Levy ; tradução de carlos irineu da costa",
+      "identifiers": {
+        "isbn_10": [
+          "8585490152"
+        ],
+        "isbn_13": [
+          "9788585490157"
+        ],
+        "oclc": [
+          "683727166"
+        ],
+        "openlibrary": [
+          "OL27018587M"
+        ]
+      },
+      "classifications": {
+        "dewey_decimal_class": [
+          "301.243"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed. 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro"
+        }
+      ],
+      "publish_date": "1993",
+      "subjects": [
+        {
+          "name": "Informatica,",
+          "url": "https://openlibrary.org/subjects/informatica,"
+        },
+        {
+          "name": "Aspectos Sociais",
+          "url": "https://openlibrary.org/subjects/aspectos_sociais"
+        },
+        {
+          "name": "Tecnologia,",
+          "url": "https://openlibrary.org/subjects/tecnologia,"
+        }
+      ],
+      "notes": "Titulo original: les technologies de l'inteligence: l'avenir de la pensee a l'ere informatique.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8619956-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8619956-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8619956-L.jpg"
+      }
+    },
+    "ISBN:9788573262766": {
+      "url": "https://openlibrary.org/books/OL13410315M/Tupi_e_o_Alaúde_O",
+      "key": "/books/OL13410315M",
+      "title": "Tupi e o Alaúde, O",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1106474A/Gilda_de_Mello_e._Souza",
+          "name": "Gilda de Mello e. Souza"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "5715930"
+        ],
+        "isbn_10": [
+          "8573262761"
+        ],
+        "isbn_13": [
+          "9788573262766"
+        ],
+        "lccn": [
+          "2005344334"
+        ],
+        "openlibrary": [
+          "OL13410315M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.A72 M38437 2003"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        },
+        {
+          "name": "EDITORA 34"
+        }
+      ],
+      "publish_date": "2003",
+      "subject_people": [
+        {
+          "name": "Mário de Andrade (1893-1945)",
+          "url": "https://openlibrary.org/subjects/person:mário_de_andrade_(1893-1945)"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5489345-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5489345-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5489345-L.jpg"
+      }
+    }
+  }
+}
