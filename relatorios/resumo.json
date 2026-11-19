@@ -1,0 +1,32 @@
+{
+  "registros_originais": 924,
+  "registros_modelagem": 923,
+  "treino": 738,
+  "grupos": 923,
+  "modelo_selecionado": "Ridge",
+  "ausencias_modelagem": {
+    "paginas": 1,
+    "largura_cm": 0,
+    "altura_cm": 0,
+    "espessura_cm": 1,
+    "peso_kg": 4,
+    "idade_anos": 0,
+    "formato": 0,
+    "editora": 0
+  },
+  "metricas_teste": [
+    {
+      "modelo": "Mediana",
+      "mae": 36.22432432432432,
+      "rmse": 64.9947295160528,
+      "r2": -0.08309723742181396
+    },
+    {
+      "modelo": "Ridge",
+      "mae": 22.600058660082983,
+      "rmse": 37.462842458251124,
+      "r2": 0.6401573647196448
+    }
+  ],
+  "n_teste": 185
+}
