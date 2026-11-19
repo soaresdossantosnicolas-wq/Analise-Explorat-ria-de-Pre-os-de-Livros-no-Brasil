@@ -1,0 +1,1422 @@
+{
+  "consulta": "romance",
+  "coletado_em": "2026-11-19T00:11:23.244945+00:00",
+  "resposta": {
+    "kind": "books#volumes",
+    "totalItems": 552,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "dIsiEAAAQBAJ",
+        "etag": "ajhHz8Z82vM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/dIsiEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Love is Rage",
+          "subtitle": "a second chance mafia romance",
+          "authors": [
+            "Shanna Bell"
+          ],
+          "publisher": "Bell Press",
+          "publishedDate": "2020-03-15",
+          "description": "Sixteen years ago, Elena had to betray Viking in order to save him. Now, he’s hungry for revenge against the woman who was once his obsession. As he takes her captive and seeks to break her, a dark desire reignites… Could you give love a second chance after a betrayal? Elena. Viking is the love of my life. I both saved and betrayed him. Now, I'm at his mercy. One look in his eyes and I know he wants to break me. Fight or flight? Viking. Elena was the love of my life, my obsession, and my ruin. Sixteen years ago, she betrayed me by marrying my enemy. Now, I discover her betrayal didn't end there; she stole my kid. I’m gonna take away her future, just like she took mine. Note: - This book contains some traumas. If this offends you, please skip this one in the series. - It can be read as a stand-alone. No cliffhanger. For fans of Monica James, Natasha Knight, Julia Sykes, CD Reiss, Aleatha Romig, Skye Warren, Anna Zaires, Renee Rose, Carrie Ann Ryan, Penelope Ward, Lauren Blakely, Meghan March, Vanessa Vale, Katee Robert. Topics: adult romance, alpha male, romantic suspense, romance series, bad boy romance, emotional read, contemporary romance, inspirational romance, mafia romance, romance audiobook, second chance at love, sexually romantic books, contemporary romance books, revenge romance, steamy romance books, hidden pregnancy romance.",
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 297,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.5.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dIsiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dIsiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=dIsiEAAAQBAJ&printsec=frontcover&dq=romance&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=dIsiEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dIsiEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 11.99,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 11.99,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=dIsiEAAAQBAJ&rdid=book-dIsiEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 11990000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 11990000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Love_is_Rage-sample-epub.acsm?id=dIsiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Love_is_Rage-sample-pdf.acsm?id=dIsiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=dIsiEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Now, I discover her betrayal didn&#39;t end there; she stole my kid. I’m gonna take away her future, just like she took mine. Note: - This book contains some traumas. If this offends you, please skip this one in the series."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "NeZIEAAAQBAJ",
+        "etag": "u482f682yqo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NeZIEAAAQBAJ",
+        "volumeInfo": {
+          "title": "The Mischievous Miss Charlotte",
+          "subtitle": "A Sweet Regency Romance",
+          "authors": [
+            "Maggie Dallen"
+          ],
+          "publisher": "Maggie Dallen",
+          "publishedDate": "2022-01-10",
+          "description": "She's falling for the one man she's sworn to hate... Miss Charlotte despises the man she's supposed to marry. Of course, she hasn't actually met the Earl's son, but from the letters they've exchanged, he's exactly the sort of overbearing brute she can't stand. Not at all like that handsome, witty, romantic stranger she met at the bookshop. She agrees to meet this intriguing stranger in the garden at midnight, not realizing that the man she's agreed to meet...is the same man she's vowed to hate. A sweet, clean & wholesome regency romance. Filled with dukes, earls, marquesses, and swoonworthy kisses, be sure to check out the romantic adventures of the students at the School of Charm. Appropriate for all ages, these full-length, standalone regency romance novels are sure to make you smile.",
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 158,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NeZIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NeZIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=NeZIEAAAQBAJ&printsec=frontcover&dq=romance&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=NeZIEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NeZIEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 31,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 31,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=NeZIEAAAQBAJ&rdid=book-NeZIEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 31000000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 31000000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=NeZIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "She&#39;s falling for the one man she&#39;s sworn to hate."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ccNfM6YPPdUC",
+        "etag": "3B2Ydzka+ws",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ccNfM6YPPdUC",
+        "volumeInfo": {
+          "title": "Library of Congress Subject Headings",
+          "authors": [
+            "Library of Congress"
+          ],
+          "publishedDate": "2004",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "WISC:89082992264"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 1384,
+          "printType": "BOOK",
+          "categories": [
+            "Subject headings, Library of Congress"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.6.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ccNfM6YPPdUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ccNfM6YPPdUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=ccNfM6YPPdUC&pg=PA5882&dq=romance&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=ccNfM6YPPdUC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ccNfM6YPPdUC"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=ccNfM6YPPdUC&rdid=book-ccNfM6YPPdUC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/Library_of_Congress_Subject_Headings.epub?id=ccNfM6YPPdUC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ccNfM6YPPdUC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Romance</b> literature NT <b>Romance</b> drama ( Comedy ) <b>Romance</b> drama ( Comedy ) ( May Subd Geog ) BT <b>Romance</b> drama <b>Romance</b> epic literature USE Epic literature , <b>Romance Romance</b> family ( Not Subd Geog ) UF De <b>Romance</b> family <b>Romance</b> fiction ( May&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "WRD0FpLu4D0C",
+        "etag": "RkqJqn8trIA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/WRD0FpLu4D0C",
+        "volumeInfo": {
+          "title": "The Structure and Ideology of Romance Fiction",
+          "authors": [
+            "Michael Andrew Young"
+          ],
+          "publishedDate": "1988",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "MINN:31951002469455J"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 302,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WRD0FpLu4D0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WRD0FpLu4D0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=WRD0FpLu4D0C&q=romance&dq=romance&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=WRD0FpLu4D0C&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Structure_and_Ideology_of_Romance_Fi.html?hl=&id=WRD0FpLu4D0C"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=WRD0FpLu4D0C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>romance</b> sphere in a group of Vikings , a racial identity the text sees as close to that of the English . Even when they locate <b>romance</b> action partly or wholly in the history of other times , places and societies , Kingsley&#39;s <b>romance</b>&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "onmRAAAAIAAJ",
+        "etag": "y4uFLzhQ3Nk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/onmRAAAAIAAJ",
+        "volumeInfo": {
+          "title": "Romance of Great Businesses",
+          "authors": [
+            "William Henry Beable"
+          ],
+          "publishedDate": "1926",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "STANFORD:36105015255453"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 454,
+          "printType": "BOOK",
+          "categories": [
+            "Business"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "4.6.9.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=onmRAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=onmRAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=onmRAAAAIAAJ&q=romance&dq=romance&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=onmRAAAAIAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Romance_of_Great_Businesses.html?hl=&id=onmRAAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=onmRAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>romances</b> , as this book shows , even in prosaic business , in the conceptions of ideas and ideals and in bringing ... <b>Romance</b> of Industry &quot; might well be the theme of another book , and possibly will be . 66 While I am indebted to&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "6pE6AQAAMAAJ",
+        "etag": "8wxpI6j8V+w",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/6pE6AQAAMAAJ",
+        "volumeInfo": {
+          "title": "The House of the Wolf",
+          "subtitle": "A Romance",
+          "authors": [
+            "Stanley John Weyman"
+          ],
+          "publisher": "ReadHowYouWant.com",
+          "publishedDate": "1890",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "CORNELL:31924013569516"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 284,
+          "printType": "BOOK",
+          "categories": [
+            "Saint Bartholomew's Day, Massacre of, France, 1572"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.7.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6pE6AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6pE6AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=6pE6AQAAMAAJ&printsec=frontcover&dq=romance&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=6pE6AQAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6pE6AQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=6pE6AQAAMAAJ&rdid=book-6pE6AQAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/The_House_of_the_Wolf.epub?id=6pE6AQAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=6pE6AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "dcSbDwAAQBAJ",
+        "etag": "miIAsrhuTOw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/dcSbDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Parameter Hierarchies and Universal Grammar",
+          "authors": [
+            "Ian G. Roberts"
+          ],
+          "publishedDate": "2019",
+          "description": "In this book, Ian Roberts argues that the essential insight of the principles-and-parameters approach to variation can be maintained - albeit in a somewhat different guise - in the context of the minimalist programme. The book represents a significant new contribution to the formal study of cross-linguistic morphosyntactic variation.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780198804635"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0198804636"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 730,
+          "printType": "BOOK",
+          "categories": [
+            "Language Arts & Disciplines"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dcSbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dcSbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=dcSbDwAAQBAJ&pg=PA690&dq=romance&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=dcSbDwAAQBAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Parameter_Hierarchies_and_Universal_Gram.html?hl=&id=dcSbDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Parameter_Hierarchies_and_Universal_Gram-sample-pdf.acsm?id=dcSbDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=dcSbDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Romance</b> 23-5772-4 , 77-80 , 86 , 99 , 134 , 165 , 170 , 195-8 , 251-2 , 306 , 308 , 339-43,347-59 , 372 , 392-3 ... <b>Romance</b> , Early 24 <b>Romance</b> , Gallo- 25 , 40 n . 6 <b>Romance</b> , Ibero- 31 , 39 , 41 , 287 , 353 <b>Romance</b> , Italo- 37-42&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "5JaXzQEACAAJ",
+        "etag": "0UnhLCCZ+tk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5JaXzQEACAAJ",
+        "volumeInfo": {
+          "title": "The Romance of Tristan and Iseult",
+          "publishedDate": "2020-06-23",
+          "description": "2020 Reprint of the 1914 Edition. Tristan and Iseult, alternatively known as Tristan and Isolde, is a chivalric romance retold in numerous variations since the 12th century. The story is a tragedy about the adulterous love between the Cornish knight Tristan (Tristram) and the Irish princess Iseult (Isolde); while the details differ from one author to another, the overall plot structure remains much the same. The narrative predates and most likely influenced the Arthurian romance of Lancelot and Guinevere and has had a substantial impact on Western art and literature. \"A powerful rendition, an incomparable tale.\" -- The New York Times \"Definitely a book to preserve and cherish.\" -- Chicago Sun \"Throughout it retains the beauty and sense of fatality that have made it one of legendary literature's most fascinating tales.\" -- Time",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1684224748"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781684224746"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 96,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=5JaXzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=5JaXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=5JaXzQEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=5JaXzQEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Romance_of_Tristan_and_Iseult.html?hl=&id=5JaXzQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=5JaXzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "2020 Reprint of the 1914 Edition. Tristan and Iseult, alternatively known as Tristan and Isolde, is a chivalric romance retold in numerous variations since the 12th century."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "n9rC_94orvwC",
+        "etag": "Z9Ab6pf8cDA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/n9rC_94orvwC",
+        "volumeInfo": {
+          "title": "Romances of Chivalry",
+          "subtitle": "Told and Illustrated in Fac-simile",
+          "authors": [
+            "John Ashton"
+          ],
+          "publishedDate": "1887",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UGA:32108028434440"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 388,
+          "printType": "BOOK",
+          "categories": [
+            "Romances, English"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.4.4.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=n9rC_94orvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=n9rC_94orvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=n9rC_94orvwC&pg=PA207&dq=romance&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=n9rC_94orvwC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=n9rC_94orvwC"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=n9rC_94orvwC&rdid=book-n9rC_94orvwC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/Romances_of_Chivalry.epub?id=n9rC_94orvwC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=n9rC_94orvwC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Romance</b> is somewhat general . According to Sir Francis Palgrave , the oldest form in which it appears , is in the &quot; Chronicle of Tongres &quot; by the Maitre de Guise . It is incorporated in the German <b>Romance</b> of &quot; Lohengrin , &quot; and there is&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "UdEuAAAAIAAJ",
+        "etag": "pVJ2VUqZX70",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UdEuAAAAIAAJ",
+        "volumeInfo": {
+          "title": "An Edition of a Sixteenth-century Romance of Chivalry",
+          "subtitle": "Diego Ortúñez de Calahorra's Espejo de Príncipes Y Cavalleros [El Caballero Del Febo]",
+          "authors": [
+            "Diego Ortúñez de Calahorra",
+            "Daniel Eisenberg"
+          ],
+          "publishedDate": "1971",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:B3759032"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 928,
+          "printType": "BOOK",
+          "categories": [
+            "Chivalry in literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "6.13.14.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UdEuAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UdEuAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=UdEuAAAAIAAJ&q=romance&dq=romance&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=UdEuAAAAIAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/An_Edition_of_a_Sixteenth_century_Romanc.html?hl=&id=UdEuAAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=UdEuAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>romances</b> of chivalry &quot; and also &quot; chivalric novel &quot; only with some regret . Presumably all those reading this thesis are aware of the difference in meaning between the English &quot; <b>romance</b> &quot; and the Spanish <b>romance</b> , but considerable&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "IZlZAAAAMAAJ",
+        "etag": "PhOsFDXwZ6s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/IZlZAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Tristan and Isolt",
+          "subtitle": "A Study of the Sources of the Romance",
+          "authors": [
+            "Gertrude Schoepperle Loomis"
+          ],
+          "publishedDate": "1960",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015012268812"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 296,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IZlZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IZlZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=IZlZAAAAMAAJ&q=romance&dq=romance&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=IZlZAAAAMAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Tristan_and_Isolt.html?hl=&id=IZlZAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=IZlZAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "O04yAQAAMAAJ",
+        "etag": "6sauAlakOoI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/O04yAQAAMAAJ",
+        "volumeInfo": {
+          "title": "English Prose Fiction in the Free Public Library, Newark",
+          "subtitle": "1900",
+          "authors": [
+            "Newark Public Library"
+          ],
+          "publishedDate": "1900",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "STANFORD:36105047063081"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 136,
+          "printType": "BOOK",
+          "categories": [
+            "English fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.7.8.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=O04yAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=O04yAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=O04yAQAAMAAJ&pg=PP101&dq=romance&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=O04yAQAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=O04yAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=O04yAQAAMAAJ&rdid=book-O04yAQAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/English_Prose_Fiction_in_the_Free_Public.epub?id=O04yAQAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com.br/books/download/English_Prose_Fiction_in_the_Free_Public.pdf?id=O04yAQAAMAAJ&hl=&output=pdf&sig=ACfU3U20aqogkTTI0xMQhHotrYkdF7N3NA&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=O04yAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Romance</b> at the Antipodes . DOUGLAS .... <b>Romance</b> in transit . LYNDE . D748 199 ed . R6212 <b>Romance</b> of a back street . ROBINSON .... R5618 d .... : R6213 <b>Romance</b> of a Jesuit mission . SANFORD . Sað earnest . K6215 <b>Romance</b> of a mummy&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "IxveoAEACAAJ",
+        "etag": "WL0u9aYKpIA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/IxveoAEACAAJ",
+        "volumeInfo": {
+          "title": "A Romance of Two Worlds",
+          "authors": [
+            "Marie Corelli"
+          ],
+          "publisher": "CreateSpace",
+          "publishedDate": "2014-02",
+          "description": "We live in an age of universal inquiry, ergo of universal scepticism. The prophecies of the poet, the dreams of the philosopher and scientist, are being daily realized—things formerly considered mere fairy-tales have become facts—yet, in spite of the marvels of learning and science that are hourly accomplished among us, the attitude of mankind is one of disbelief. \"There is no God!\" cries one theorist; \"or if there be one, I can obtain no proof of His existence!\" \"There is no Creator!\" exclaims another. \"The Universe is simply a rushing together of atoms.\" \"There can be no immortality,\" asserts a third. \"We are but dust, and to dust we shall return.\" \"What is called by idealists the SOUL,\" argues another, \"is simply the vital principle composed of heat and air, which escapes from the body at death, and mingles again with its native element. A candle when lit emits flame; blow out the light, the flame vanishes—where? Would it not be madness to assert the flame immortal? Yet the soul, or vital principle of human existence, is no more than the flame of a candle.\"",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1496099702"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781496099709"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 152,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IxveoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IxveoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=IxveoAEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=IxveoAEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Romance_of_Two_Worlds.html?hl=&id=IxveoAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=IxveoAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "We live in an age of universal inquiry, ergo of universal scepticism."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "lgy60AEACAAJ",
+        "etag": "KGaZgodL+n0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lgy60AEACAAJ",
+        "volumeInfo": {
+          "title": "A Romance of Billy-Goat Hill",
+          "authors": [
+            "Alice Caldwell Hegan Rice"
+          ],
+          "publisher": "Legare Street Press",
+          "publishedDate": "2023-07-18",
+          "description": "Set in rural Kentucky, this charming novel follows the misadventures of a group of children as they navigate the joys and challenges of friendship, first love, and growing up. With its vivid characters and evocative setting, A Romance of Billy-Goat Hill is a delightful read for all ages. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1019777397"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781019777398"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lgy60AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lgy60AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=lgy60AEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=lgy60AEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Romance_of_Billy_Goat_Hill.html?hl=&id=lgy60AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=lgy60AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "OPgOAQAAMAAJ",
+        "etag": "Txe+TV3h578",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/OPgOAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Corporate Romance",
+          "subtitle": "How to Avoid It, Live Through It, Or Make it Work for You",
+          "authors": [
+            "Leslie Aldridge Westoff"
+          ],
+          "publisher": "Crown",
+          "publishedDate": "1985",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:49015001130641"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 270,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.4.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OPgOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OPgOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=OPgOAQAAMAAJ&q=romance&dq=romance&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=OPgOAQAAMAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Corporate_Romance.html?hl=&id=OPgOAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=OPgOAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>romance</b> increase and coping strategies can become extreme . Professor Quinn came to the conclusion that the nega ... <b>romance</b> , it sounds as though anything resembling ro- mance in the corporation should be banned . But the reason&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "CqAgAAAAMAAJ",
+        "etag": "SdJqHHmJtqc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/CqAgAAAAMAAJ",
+        "volumeInfo": {
+          "title": "The New Timon",
+          "subtitle": "A Romance of London",
+          "authors": [
+            "Edward Bulwer Lytton Baron Lytton"
+          ],
+          "publishedDate": "1846",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "NYPL:33433074847207"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 220,
+          "printType": "BOOK",
+          "categories": [
+            "Romance-language literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.7.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CqAgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CqAgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=CqAgAAAAMAAJ&printsec=frontcover&dq=romance&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=CqAgAAAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CqAgAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=CqAgAAAAMAAJ&rdid=book-CqAgAAAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/The_New_Timon.epub?id=CqAgAAAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com.br/books/download/The_New_Timon.pdf?id=CqAgAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0FEplpffAB0q-FB6Ltpl5vUyLK5Q&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=CqAgAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "kvtCAQAAMAAJ",
+        "etag": "plBRLeFjJaE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/kvtCAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Peoria Public Library List of English Fiction, French Fiction, and Juveniles",
+          "subtitle": "Arranged Alphabetically by Author and Title",
+          "authors": [
+            "Peoria Public Library (Peoria, Ill.)"
+          ],
+          "publishedDate": "1894",
+          "description": "A catalog of juvenile and fiction books held by the Peoria Public Library, in one alphabetical listing.",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UIUC:30112087487036"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 210,
+          "printType": "BOOK",
+          "categories": [
+            "Children's literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.8.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=kvtCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=kvtCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=kvtCAQAAMAAJ&pg=PA54&dq=romance&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=kvtCAQAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kvtCAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=kvtCAQAAMAAJ&rdid=book-kvtCAQAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/Peoria_Public_Library_List_of_English_Fi.epub?id=kvtCAQAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=kvtCAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Romance</b> of Dollard . Catherwood <b>Romance</b> of Jenny Harlowe . Russell <b>Romance</b> of the forest . Radcliffe <b>Romance</b> of the Pyrenees . Cuthbertson <b>Romance</b> of the republic . Child <b>Romance</b> of two worlds . Corelli <b>Romances</b> of the East . Gobineau&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wBDTwDy9Y-4C",
+        "etag": "RLb60jtqIAs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wBDTwDy9Y-4C",
+        "volumeInfo": {
+          "title": "The Spanish Pastoral Romances",
+          "authors": [
+            "Hugo Albert Rennert"
+          ],
+          "publishedDate": "1892",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BSB:BSB11677642"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 56,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.3.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wBDTwDy9Y-4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wBDTwDy9Y-4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=wBDTwDy9Y-4C&pg=PA6&dq=romance&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=wBDTwDy9Y-4C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wBDTwDy9Y-4C"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=wBDTwDy9Y-4C&rdid=book-wBDTwDy9Y-4C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/The_Spanish_Pastoral_Romances.epub?id=wBDTwDy9Y-4C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wBDTwDy9Y-4C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Romance</b> of Chivalry was also long supposed to be of Portuguese origin : &quot; Es notable que , como los <b>romances</b> de caballeria , el <b>Romance</b> pastoral fué introducido en España por un portugu . s . &quot; MS . note by Gayangos in Montemayor&#39;s&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "lA8ptAEACAAJ",
+        "etag": "dTkrER03E9M",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lA8ptAEACAAJ",
+        "volumeInfo": {
+          "title": "Romance",
+          "authors": [
+            "Joseph Conrad",
+            "Ford Madox Ford"
+          ],
+          "publishedDate": "2011",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1620123584"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781620123584"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 426,
+          "printType": "BOOK",
+          "categories": [
+            "Heroes"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=lA8ptAEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=lA8ptAEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Romance.html?hl=&id=lA8ptAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=lA8ptAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Hu5lxgEACAAJ",
+        "etag": "cdh64q1vVgA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Hu5lxgEACAAJ",
+        "volumeInfo": {
+          "title": "Love at Last",
+          "subtitle": "Three Historical Romance Novellas of Love in Days Gone by",
+          "authors": [
+            "Kristi Ann Hunter",
+            "Elizabeth Camden",
+            "Amanda Dykes"
+          ],
+          "publisher": "Thorndike Press Large Print",
+          "publishedDate": "2019",
+          "description": "Hunter's \"A Search for Refuge\" tells of Nash Banfield, hiding from society in a market town, and Lady Margaretta Fortescue, on the run from a mysterious threat and needing refuge. Camden's \"Summer of Dreams\" follows the daughter of an army general, determined never to marry a man in uniform, and a West Point cadet just as determined to change her mind. Dykes's \"Up from the Sea\" follows the romance between the daughter of a Southern lumber baron who is out of her element in Maine and the local lobsterman and lumberjack far below her station.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1432869876"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781432869878"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Hu5lxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Hu5lxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=Hu5lxgEACAAJ&dq=romance&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=Hu5lxgEACAAJ&dq=romance&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Love_at_Last.html?hl=&id=Hu5lxgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Hu5lxgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "&quot;Published in 2019 by arrangement with Bethany House Publishers, a division of Baker Publishing Group.&quot;--Title page verso."
+        }
+      }
+    ]
+  }
+}

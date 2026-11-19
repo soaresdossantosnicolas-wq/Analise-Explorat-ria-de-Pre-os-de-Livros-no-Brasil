@@ -1,0 +1,1391 @@
+{
+  "consulta": "ciência",
+  "coletado_em": "2026-11-19T00:11:23.244945+00:00",
+  "resposta": {
+    "kind": "books#volumes",
+    "totalItems": 551,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "fI9bAAAACAAJ",
+        "etag": "vHFSfDuX2OA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/fI9bAAAACAAJ",
+        "volumeInfo": {
+          "title": "Ciencia, educaçao em ciencia e ensino das ciencias",
+          "authors": [
+            "A. Francisco Cachapuz",
+            "João José Félix Marnoto Praia",
+            "Manuela P. Jorge"
+          ],
+          "publishedDate": "2002",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "9727830838"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9789727830831"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 353,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=fI9bAAAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=fI9bAAAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ciencia_educa%C3%A7ao_em_ciencia_e_ensino_da.html?hl=&id=fI9bAAAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=fI9bAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "PQcBogEACAAJ",
+        "etag": "7OKufp6o5JU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/PQcBogEACAAJ",
+        "volumeInfo": {
+          "title": "Aprendendo a aprender",
+          "authors": [
+            "IBECC. Clube de Ciência e Cultura"
+          ],
+          "publishedDate": "1990",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:893768990"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=PQcBogEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=PQcBogEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Aprendendo_a_aprender.html?hl=&id=PQcBogEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=PQcBogEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "xfnTxgEACAAJ",
+        "etag": "JyZVQhLJOO8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/xfnTxgEACAAJ",
+        "volumeInfo": {
+          "title": "Pré-história brasileira. XIX reunião anual da Sociedade Brasileira pelo Progresso da Ciência",
+          "authors": [
+            "Brazil. Sociedade Brasileira pelo Progresso da Ciência"
+          ],
+          "publishedDate": "1968",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:1106078681"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 186,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=xfnTxgEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=xfnTxgEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Pr%C3%A9_hist%C3%B3ria_brasileira_XIX_reuni%C3%A3o_a.html?hl=&id=xfnTxgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=xfnTxgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "l12CxgEACAAJ",
+        "etag": "bzV81n+YUI0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/l12CxgEACAAJ",
+        "volumeInfo": {
+          "title": "A Bíblia na Visão da Ciência",
+          "authors": [
+            "Rosane Sicareli Barbosa Paixao"
+          ],
+          "publisher": "Independently Published",
+          "publishedDate": "2019-06-19",
+          "description": "Esta obra é resultado de pesquisas realizadas pelo autor em fontes bíblicas e manuais científicos que versam sobre as manifestações divinas no universo material. O objetivo é averiguar a empiricidade dessas narrativas bem como buscar investigar até que ponto tais acontecimentos comprovam a veracidade da existência divina e de que maneira essas manifestações interferem nas relações humanas em si. A principal obra utilizada para realizar essas indagações é a Bíblia, considerada \"O Livro Sagrado\" pelas principais religiões ocidentais. A versão escolhida como fonte de pesquisa é a tradução da Bíblia para a Língua Portuguesa, realizada no Século XVIII, pelo Padre Antonio Pereira de Figueiredo, baseada na Vulgata . A principal causa dessa escolha se baseia no fato de que essa tradução é literal e não interpretativa, o que lhe dá alta credibilidade em relação aos originais publicados. Outro ponto que favoreceu a sua escolha foi o fato de que a mesma foi realizada e publicada pela primeira vez no século XVIII. Assim, o objetivo deste estudo é de averiguar, apenas e tão somente, as relações entre as principais profecias e parábolas com os fatos científicos, observados posteriormente na existência da humanidade, não se prendendo para isso, nas análises dos capítulos ou dos autores dos livros sagrados, que são apresentados na Bíblia.Outro instrumento utilizado como base de análise para a viabilização deste trabalho é a Ciência exata. A ciência exata vista no campo da física, da química, da astronomia, e da astrofísica é considerada como a principal responsável pelo atual estágio evolutivo da humanidade. Há que se considerar ainda, progressos relevantes das ciências humanas, principalmente nas áreas da Psicologia, da Parapsicologia, da Economia, dentre outras, que também deram suporte relevante a esse desenvolvimento. Diante desse cenário, pode-se dizer que, o desafio maior deste trabalho consiste em buscar harmonizar as aparentes \"profundas divergências\" que existem entre as interpretações dos relatos bíblicos e a filosofia da Ciência, principalmente no que diz respeito à existência ou não, de um ser criador de todo o Universo.Da sua parte, o maior desafio da Ciência consiste em desvendar os mistérios que intrigam o meio científico a respeito da criação do Universo e de tudo o que existe. Mistérios esses que podem ser resumidos nas seguintes indagações: \"Quem somos? De onde viemos? Para onde vamos?\".Entrementes, de acordo com a versão desta obra, só a utilização de instrumentais científicos e religiosos, trabalhados de forma isolada e que se traduzem na ciência material e crenças, estas últimas, pura e simplesmente fundamentadas na fé cega, sem nenhuma base de conhecimento ulterior, não são suficientes para se entender e interpretar, de maneira mais criteriosa: os fatos, os milagres e as profecias que são referenciadas no Livro Sagrado e na própria Ciência. Assim, necessário se faz que novos tipos de critérios sejam utilizados, para se promover avanços nos estudos dos problemas que envolvem a humanidade.Nesse contexto, com o intuito de suprimir essas lacunas e facilitar sua análise e interpretação, este livro foi subdividido em duas partes. No Tomo I são trabalhados alguns dos princípios e fundamentos da Astrofísica, da Física Quântica e da Mecânica Quântica. Deve-se frisar ainda que, a Física Quântica, a Mecânica Quântica e a astrofísica são ramos da física que foram incorporadas no campo de investigação científica no período recente, e que se caracterizam pela introdução de novas premissas e conceitos de análise, que permitem investigar com maior propriedade e eficiência, temas considerados até pouco tempo como produtos da imaginação humana, e portanto, fantasiosos tais como: a existência de dimensões, do multiverso, a questão da tridimensionalidade, a existência de outros quadrantes universais, etc. Temas e",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1074827694"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781074827694"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 298,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=l12CxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=l12CxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=l12CxgEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=l12CxgEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_B%C3%ADblia_na_Vis%C3%A3o_da_Ci%C3%AAncia.html?hl=&id=l12CxgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=l12CxgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Esta obra é resultado de pesquisas realizadas pelo autor em fontes bíblicas e manuais científicos que versam sobre as manifestações divinas no universo material."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "7XGtDwAAQBAJ",
+        "etag": "7+9u6z4Q0P8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/7XGtDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Ciência, Cinema e Educação",
+          "subtitle": "Reflexões Sobre o Filme na Escola",
+          "authors": [
+            "JOSÉ NUNES DOS SANTOS"
+          ],
+          "publisher": "Paco e Littera",
+          "publishedDate": "2019-09-05",
+          "description": "Ciência, Cinema e Educação: Reflexões sobre o Filme na Escola trata de uma sugestão alternativa para o uso da Sétima Arte no espaço escolar, tendo como objeto de sua preocupação o ensino de Ciências. É uma obra que traz, em sua reflexão dialógica entre o ato educativo e o cinema, o reconhecimento de que há uma função social formativa que por meio de suas múltiplas linguagens, pode ser utilizado como mediador para a aprendizagem de leis científicas; assim como para o debate do contexto histórico de construção da Ciência e de suas ligações com o meio social; permite também criar condições para a contextualização e a problematização em sala de aula.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788546217373"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8546217378"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 120,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=7XGtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=7XGtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=7XGtDwAAQBAJ&printsec=frontcover&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=7XGtDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7XGtDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 19.9,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 19.9,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=7XGtDwAAQBAJ&rdid=book-7XGtDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 19900000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 19900000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Ci%C3%AAncia_Cinema_e_Educa%C3%A7%C3%A3o-sample-epub.acsm?id=7XGtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=7XGtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Ciência, Cinema e Educação: Reflexões sobre o Filme na Escola trata de uma sugestão alternativa para o uso da Sétima Arte no espaço escolar, tendo como objeto de sua preocupação o ensino de Ciências. É uma obra que traz, em sua ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "3fY-DwAAQBAJ",
+        "etag": "+nGWT9TutDo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3fY-DwAAQBAJ",
+        "volumeInfo": {
+          "title": "Estudios de Ciencia, Tecnología y Sociedad en América Latina. Balances y perspectivas",
+          "publisher": "Instituto Tecnológico Metropolitano",
+          "publishedDate": "2013-12-02",
+          "description": "El Simposio 59, es la recopilación de textos presentados por investigadores y académicos de Argentina, Brasil, Chile, Colombia, España y México, en la tercera versión del encuentro internacional «Ciencia, tecnologías y culturas. Diálogo entre las disciplinas del conocimiento. Mirando al futuro de América Latina y el Caribe», realizado en la Universidad de Santiago de Chile, en enero de 2013. Allí, se abocó a la reflexión filosófica, teórico conceptual, así como también el análisis socio político de experiencias científico-tecnológicas particulares del continente americano. Las temáticas abordaron aspectos como la epistemología, historia política de la ciencia, perspectivas críticas sobre la práctica científica y tecnológica, análisis de discursos y prácticas CTS, sociología y política de la ciencia y la tecnología, educación y apropiación social de la ciencia y tecnología.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789588743387"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9588743389"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 191,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3fY-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3fY-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "previewLink": "http://books.google.com.br/books?id=3fY-DwAAQBAJ&pg=PA141&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=3fY-DwAAQBAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Estudios_de_Ciencia_Tecnolog%C3%ADa_y_Socied.html?hl=&id=3fY-DwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Estudios_de_Ciencia_Tecnolog%C3%ADa_y_Socied-sample-pdf.acsm?id=3fY-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=3fY-DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Ciência</b> e História da <b>Ciência</b> Os Estudos Sociais da <b>Ciência</b> , um campo do conhecimento que se caracteriza pela união de diversas abordagens e metodologias das <b>ciências</b> sociais , ainda foi pouco desenvolvido no Brasil , se comparado ao&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "3hdsBgAAQBAJ",
+        "etag": "Qjs/zbt+vJo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3hdsBgAAQBAJ",
+        "volumeInfo": {
+          "title": "Ciencia, tecnología y universidad en Iberoamérica",
+          "authors": [
+            "Mario Albornoz",
+            "José Antonio López Cerezo"
+          ],
+          "publisher": "EUDEBA",
+          "publishedDate": "2016-06-01",
+          "description": "Los trabajos que componen esta obra abordan diversos aspectos que resultan cruciales para entender la ciencia y la tecnología y su articulación con el ámbito académico en los países iberoamericanos. Estos países enfrentan el desafío de constituirse como sociedades del conocimiento y, a la vez, de hacer de todos sus habitantes ciudadanos con plenos derechos.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789502318936"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9502318935"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 318,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "3.5.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3hdsBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3hdsBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "previewLink": "http://books.google.com.br/books?id=3hdsBgAAQBAJ&pg=PT115&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=3hdsBgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3hdsBgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 23.32,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 23.32,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=3hdsBgAAQBAJ&rdid=book-3hdsBgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 23320000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 23320000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Ciencia_tecnolog%C3%ADa_y_universidad_en_Ibe-sample-epub.acsm?id=3hdsBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Ciencia_tecnolog%C3%ADa_y_universidad_en_Ibe-sample-pdf.acsm?id=3hdsBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=3hdsBgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ciência</b> e tecnologia e iv) visão sobre a <b>ciência</b> e a tecnologia do país. Em uma concepção ampla de percepção pública da <b>ciência</b>, ao abordar a conceituação sobre cultura científica, emergem ao menos três possibilidades de sentido para o&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "oH9XAAAAMAAJ",
+        "etag": "X0JFI+6sIOU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/oH9XAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Ciência E Cultura",
+          "publishedDate": "1998",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059172141630284"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 486,
+          "printType": "BOOK",
+          "categories": [
+            "Brazil"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.5.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=oH9XAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=oH9XAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=oH9XAAAAMAAJ&q=ci%C3%AAncia&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=oH9XAAAAMAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ci%C3%AAncia_E_Cultura.html?hl=&id=oH9XAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=oH9XAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Ciência</b> e , por causa disso , usam critérios rígidos de avaliação de mérito para proteger seu trabalho da avalanche pós - moderna do desconstrucionismo . Que a <b>Ciência</b> é conservadora foi apontado por nós em inúmeras ocasiões . Ao ser&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "BH9P54bQdFwC",
+        "etag": "tcZQVPnyROs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/BH9P54bQdFwC",
+        "volumeInfo": {
+          "title": "A ciência da informação criadora do conhecimento Vol. I",
+          "authors": [
+            "Maria Manuel Borges",
+            "Elias Sanz Casado"
+          ],
+          "publisher": "Imprensa da Universidade de Coimbra / Coimbra University Press",
+          "publishedDate": "2009-01-01",
+          "description": "Com esta publicação pretende-se recolher e difundir parte do conhecimento gerado em Ciência da Informação na região ibérica e que foi apresentado no IV Encontro Ibérico EDIBCIC2009. As contribuições apresentadas agruparam-se em torno de quatro grandes temas de interesse científico e nos quais trabalham investigado­res, docentes e profissionais deste campo. No primeiro, denominado “Estatuto Epistemológico da Ciência da Informação”, foram incluídos contributos que plas­mam os novos conhecimentos e conceitos desta disciplina. O segundo tema, “A Ciência da Informação no contexto Ibérico sob o signo de Bolonha”, inclui comuni­cações sobre diferentes experiências deste processo em universidades portuguesas e espanholas. O terceiro tema, “Diálogo entre Formação e Sociedade” incidiu sobre o papel da formação no desenvolvimento social. O quarto tema, “Perspetivas de Investigação”, foi aquele que registou o maior número de contribuições para os autores. A secção de posters registou contributos vinculados às áreas temáticas referidas. Todos os trabalhos foram arbitrados e cremos que os contributos apresentados são não apenas de grande interesse e atualidade, como capazes de potenciar o avanço do conhecimento científico desta disciplina.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789892600147"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9892600142"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 531,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=BH9P54bQdFwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BH9P54bQdFwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt",
+          "previewLink": "http://books.google.com.br/books?id=BH9P54bQdFwC&pg=PA125&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=BH9P54bQdFwC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BH9P54bQdFwC"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 28.99,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 28.99,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=BH9P54bQdFwC&rdid=book-BH9P54bQdFwC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 28990000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 28990000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/A_ci%C3%AAncia_da_informa%C3%A7%C3%A3o_criadora_do_c-sample-pdf.acsm?id=BH9P54bQdFwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=BH9P54bQdFwC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>Ciência</b> da Computação - Engenharia elétrica . Engenharia eletrônica . Telecomunicações - Administração de empresas . Administração Pública . Contabilidade - Economia - CI - Comunicação . 1 0,74 1 0,74 <b>Ciência</b> da computação&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "smJlzwEACAAJ",
+        "etag": "XUPerprrcig",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/smJlzwEACAAJ",
+        "volumeInfo": {
+          "title": "Lições de ciência política e direito constitucional",
+          "subtitle": "teoria geral do estado e formas de governo",
+          "authors": [
+            "José de Matos Correia"
+          ],
+          "publishedDate": "2020",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "9896402302"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9789896402303"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=smJlzwEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=smJlzwEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Li%C3%A7%C3%B5es_de_ci%C3%AAncia_pol%C3%ADtica_e_direito.html?hl=&id=smJlzwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=smJlzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "PT59oAEACAAJ",
+        "etag": "apLmw3pL8kw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/PT59oAEACAAJ",
+        "volumeInfo": {
+          "title": "Política e ciência política",
+          "authors": [
+            "Afonso Arinos de Melo Franco"
+          ],
+          "publishedDate": "1979",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:879870839"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 83,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=PT59oAEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=PT59oAEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Pol%C3%ADtica_e_ci%C3%AAncia_pol%C3%ADtica.html?hl=&id=PT59oAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=PT59oAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "OnJ5EAAAQBAJ",
+        "etag": "D84Q5o6VHY8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/OnJ5EAAAQBAJ",
+        "volumeInfo": {
+          "title": "Direito e Ciência - D & C",
+          "authors": [
+            "Ivan da Costa Marques",
+            "Margarida Lacombe Camargo",
+            "Daniele Martins dos Santos"
+          ],
+          "publisher": "Expert Editora",
+          "description": "O livro “Direito e Ciência — D&C”, fruto de trabalhos apresentados no IX Simpósio Nacional de Ciência, Tecnologia e Sociedade da ESOCITE.BR, vem preencher uma lacuna nos estudos de ciência, tecnologia e sociedade (Estudos CTS) no Brasil. É sabido que a coletividade CTS, e desde o princípio de sua construção, tem dado mais atenção à relação entre ciência e política, focando principalmente em processos de institucionalização da atividade científica entre nós. Claro que essas imbricações, como nos apresentam os autores do livro, não podem ser formalmente purificadas, separando o mundo do direito, do mundo da política ou do mundo da ciência. O que vemos na obra é exatamente como as fronteiras são tênues e movediças e como as performances nos limites de cada uma dessas esferas interferem nas outras, coproduzindo uma ordem precária, contingente. Os temas empíricos que são apresentados em cada capítulo – biodiversidade, conhecimento tradicional, contaminação de água, STF, ANVISA, entre outros – traduzem bem essa trama complexa entre direito e ciência: cientistas são produtores de fatos científicos, mas também de direito, da mesma forma como juristas produzem fatos de direito e de ciência. A importância da obra vai além, explora exatamente os limites de regulação da “verdade científica” num contexto societal marcado pela disputa em torno de sua validade. Fabrício Neves Presidente da ESOCITE.BR (Associação Brasileira dos Estudos Sociais das Ciências e das Tecnologias) Professor da Universidade de Brasília",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9786589904625"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "6589904626"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 162,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.1.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OnJ5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OnJ5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=OnJ5EAAAQBAJ&printsec=frontcover&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=OnJ5EAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OnJ5EAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 0,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 0,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=OnJ5EAAAQBAJ&rdid=book-OnJ5EAAAQBAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Direito_e_Ci%C3%AAncia_D_C-sample-pdf.acsm?id=OnJ5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=OnJ5EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "O livro “Direito e Ciência — D&amp;C”, fruto de trabalhos apresentados no IX Simpósio Nacional de Ciência, Tecnologia e Sociedade da ESOCITE.BR, vem preencher uma lacuna nos estudos de ciência, tecnologia e sociedade (Estudos CTS) no ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "GoYIjwEACAAJ",
+        "etag": "fGeYhwNUsOo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GoYIjwEACAAJ",
+        "volumeInfo": {
+          "title": "História e desenvolvimento da ciência em Portugal : I Colóquio, até ao século XX : Lisboa, 15 a 19 de abril de 1985",
+          "authors": [
+            "Academia das Ciencias de Lisboa"
+          ],
+          "publishedDate": "1986",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:920326430"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 2066,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=GoYIjwEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=GoYIjwEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_e_desenvolvimento_da_ci%C3%AAncia.html?hl=&id=GoYIjwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=GoYIjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "AhquMwAACAAJ",
+        "etag": "KA4J3Q9hfBU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/AhquMwAACAAJ",
+        "volumeInfo": {
+          "title": "Panorama da ciência e tecnologia, pesquisa e desenvolvimento no setor mineral",
+          "authors": [
+            "Nilce Alves Santos"
+          ],
+          "publishedDate": "2003",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:163106880"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 82,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=AhquMwAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=AhquMwAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Panorama_da_ci%C3%AAncia_e_tecnologia_pesqui.html?hl=&id=AhquMwAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=AhquMwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "M2fQEAAAQBAJ",
+        "etag": "HKEjd+tKon0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/M2fQEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Ciência no feminino",
+          "subtitle": "Subsídios históricos e práticas para o ensino de ciências",
+          "authors": [
+            "Natany Assai",
+            "Emanuelle Alcantara",
+            "Bruna Fary",
+            "Pedro Raposa"
+          ],
+          "publisher": "Editora CRV",
+          "publishedDate": "2023-08-10",
+          "description": "Quando você pensa em uma mulher cientista, quais os nomes que vêm em sua mente? Possivelmente seu imaginário remete à Marie Curie, a qual foi, sim, uma mulher cientista extraordinária, e não há mal algum em ter pensado nela diretamente (caso tenha pensado). No entanto, ela não é a única cientista brilhante que fez história. Existiu Tapputti, Isabella Cortese, Marie Meurdrac e muitas outras cientistas até então \"invisíveis\" na História da Ciência. Este livro busca desnudar a existência de tantas outras presenças femininas importantes.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9786525150598"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "6525150590"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 239,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=M2fQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=M2fQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=M2fQEAAAQBAJ&printsec=frontcover&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=M2fQEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=M2fQEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 28,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 28,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=M2fQEAAAQBAJ&rdid=book-M2fQEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 28000000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 28000000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Ci%C3%AAncia_no_feminino-sample-epub.acsm?id=M2fQEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Ci%C3%AAncia_no_feminino-sample-pdf.acsm?id=M2fQEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=M2fQEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Quando você pensa em uma mulher cientista, quais os nomes que vêm em sua mente?"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "nuhcAAAAMAAJ",
+        "etag": "mu/XNZrAUB8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nuhcAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Anais do Simpósio sobre História e Filosofia da Ciência",
+          "publishedDate": "1979",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173023522644"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 190,
+          "printType": "BOOK",
+          "categories": [
+            "Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nuhcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nuhcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=nuhcAAAAMAAJ&q=ci%C3%AAncia&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=nuhcAAAAMAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Anais_do_Simp%C3%B3sio_sobre_Hist%C3%B3ria_e_Fil.html?hl=&id=nuhcAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=nuhcAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ciência</b> em estado avançado de desenvolvimento , i.é. , depois dessa <b>ciência</b> ter- se desenvolvido num corpo de teorias estabelecidas na base de comprovação experimental , depois de se ter alcançado um &quot; interplay &quot; ativo entre teoria&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "5HS0AwAACAAJ",
+        "etag": "4OpRzKjUjoY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5HS0AwAACAAJ",
+        "volumeInfo": {
+          "title": "Introdução à ciência da computação",
+          "authors": [
+            "Angelo de Moura Guimarães",
+            "Newton Alberto de Castilho Lages"
+          ],
+          "publishedDate": "1984",
+          "description": "O texto procura desmitificar a idéia do computador como máquina complexa, mostrando que os conceitos básicos de sua estrutura e funcionamento são acessíveis a qualquer leitor.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "852160372X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788521603726"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 165,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=5HS0AwAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=5HS0AwAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Introdu%C3%A7%C3%A3o_%C3%A0_ci%C3%AAncia_da_computa%C3%A7%C3%A3o.html?hl=&id=5HS0AwAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=5HS0AwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "O texto procura desmitificar a idéia do computador como máquina complexa, mostrando que os conceitos básicos de sua estrutura e funcionamento são acessíveis a qualquer leitor."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "P1ANAAAAYAAJ",
+        "etag": "s83adSEoAGs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/P1ANAAAAYAAJ",
+        "volumeInfo": {
+          "title": "Ciências do mar",
+          "subtitle": "política nacional de ciência e tecnologia do mar : Brasil",
+          "publishedDate": "2001",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173009878347"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 30,
+          "printType": "BOOK",
+          "categories": [
+            "Coastal zone management"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.3.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=P1ANAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=P1ANAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=P1ANAAAAYAAJ&q=ci%C3%AAncia&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=P1ANAAAAYAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ci%C3%AAncias_do_mar.html?hl=&id=P1ANAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=P1ANAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "CnYFaAEACAAJ",
+        "etag": "JXfu6KwEUkA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/CnYFaAEACAAJ",
+        "volumeInfo": {
+          "title": "Ciência e imprensa",
+          "subtitle": "convergências possíveis",
+          "authors": [
+            "Mônica Costa"
+          ],
+          "publisher": "Fapern",
+          "publishedDate": "2010-01-01",
+          "description": "\"Os textos integrantes deste volume sao oriundos (transcritos ou produzidos) do Curso de Jornalismo Cientifico, realizado pela Fundacao de Apoio a Pesquisa do Rio Grande do Norte (FAPERN) em maio e junho de 2008\"--Cover p. 4.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8563220071"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788563220073"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 290,
+          "printType": "BOOK",
+          "categories": [
+            "Journalism, Scientific"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=CnYFaAEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=CnYFaAEACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ci%C3%AAncia_e_imprensa.html?hl=&id=CnYFaAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=CnYFaAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "&quot;Os textos integrantes deste volume sao oriundos (transcritos ou produzidos) do Curso de Jornalismo Cientifico, realizado pela Fundacao de Apoio a Pesquisa do Rio Grande do Norte (FAPERN) em maio e junho de 2008&quot;--Cover p. 4."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wPW9PgAACAAJ",
+        "etag": "PdOR8SJgt4g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wPW9PgAACAAJ",
+        "volumeInfo": {
+          "title": "Em busca da realidade divina: a ciência como fonte de inspiração",
+          "authors": [
+            "Lothar Schafer",
+            "Joaquim Fernandes",
+            "Fernando Dias Antunes",
+            "Fernando Fernandes"
+          ],
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "9728605277"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9789728605278"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=wPW9PgAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=wPW9PgAACAAJ&dq=ci%C3%AAncia&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Em_busca_da_realidade_divina_a_ci%C3%AAncia.html?hl=&id=wPW9PgAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wPW9PgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1495 @@
+{
+  "consulta": "história",
+  "coletado_em": "2026-11-19T00:11:23.244945+00:00",
+  "resposta": {
+    "kind": "books#volumes",
+    "totalItems": 549,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "RFmbzwEACAAJ",
+        "etag": "DyWxb2SnicA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/RFmbzwEACAAJ",
+        "volumeInfo": {
+          "title": "Pequena história da República",
+          "authors": [
+            "Graciliano Ramos"
+          ],
+          "publishedDate": "2020",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8501114790"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788501114792"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=RFmbzwEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=RFmbzwEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Pequena_hist%C3%B3ria_da_Rep%C3%BAblica.html?hl=&id=RFmbzwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=RFmbzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "lYUNAAAAYAAJ",
+        "etag": "Tjicjc5a3hg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lYUNAAAAYAAJ",
+        "volumeInfo": {
+          "title": "Ecos da folia",
+          "subtitle": "uma história social do carnaval carioca entre 1880 e 1920",
+          "authors": [
+            "Maria Clementina Pereira Cunha"
+          ],
+          "publisher": "Companhia Das Letras",
+          "publishedDate": "2001",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173015287742"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 444,
+          "printType": "BOOK",
+          "categories": [
+            "Carnival"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.9.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lYUNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lYUNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=lYUNAAAAYAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=lYUNAAAAYAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ecos_da_folia.html?hl=&id=lYUNAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=lYUNAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "iaaTAQAACAAJ",
+        "etag": "PS2l1KxJjuM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iaaTAQAACAAJ",
+        "volumeInfo": {
+          "title": "Teoria da história",
+          "authors": [
+            "Jörn Rüsen"
+          ],
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:722714151"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=iaaTAQAACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=iaaTAQAACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Teoria_da_hist%C3%B3ria.html?hl=&id=iaaTAQAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=iaaTAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "VcdnAwAAQBAJ",
+        "etag": "pvfIOzSunRM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VcdnAwAAQBAJ",
+        "volumeInfo": {
+          "title": "1964",
+          "subtitle": "História do regime militar brasileiro",
+          "authors": [
+            "Marcos Napolitano"
+          ],
+          "publisher": "Editora Contexto",
+          "publishedDate": "2015-08-03",
+          "description": "Exatos cinquenta anos atrás, o Brasil mergulhou em uma ditadura que iria perdurar por mais de duas décadas. É chegado o momento de fazer um balanço histórico do regime militar. Marcos Napolitano, conhecido historiador da USP, discute neste livro sólido e bem escrito as principais questões desses \"anos de chumbo\". A ditadura durou muito graças ao apoio da sociedade civil, anestesiada pelo \"milagre\" econômico? Foi Geisel, com a ajuda de Golbery, o pai da abertura, ou foi a sociedade quem derrubou os militares do poder? Como era o dia a dia das pessoas durante o regime militar? Como a cultura aflorou naquele momento? O que aconteceu com a oposição e como ela se reergueu? Qual a reação da sociedade (e do governo) à tortura e ao \"desaparecimento\" de presos políticos? Obra de historiador, livro obrigatório para quem quer compreender o Brasil, uma síntese brilhante.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788572448277"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8572448276"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 455,
+          "printType": "BOOK",
+          "categories": [
+            "History"
+          ],
+          "averageRating": 1,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.7.8.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VcdnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VcdnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=VcdnAwAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=VcdnAwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VcdnAwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 59.9,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 59.9,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=VcdnAwAAQBAJ&rdid=book-VcdnAwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 59900000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 59900000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/1964-sample-epub.acsm?id=VcdnAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/1964-sample-pdf.acsm?id=VcdnAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=VcdnAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Marcos Napolitano, conhecido historiador da USP, discute neste livro sólido e bem escrito as principais questões desses &quot;anos de chumbo&quot;. A ditadura durou muito graças ao apoio da sociedade civil, anestesiada pelo &quot;milagre&quot; econômico?"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "yH2bBAAAQBAJ",
+        "etag": "46U/xWNxn1Y",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yH2bBAAAQBAJ",
+        "volumeInfo": {
+          "title": "Retrato da Escola",
+          "subtitle": "História da Educação",
+          "authors": [
+            "Wilson Ricardo Antoniassi De Almeida"
+          ],
+          "publisher": "Paco Editorial",
+          "publishedDate": "2013-07-03",
+          "description": "Esta obra é fruto de um trabalho cuidadoso de resgate de momentos especiais vividos em um espaço de educação, perpetuados pela fotografia. De momentos vividos e lembrados por muitos, que ali aprenderam a experimentar e sentir um pouco da vida. Fotografias que retratam épocas nas quais a escola era a grande protagonista, lugar onde se escrevia a história de uma cidade. Os depoimentos presentes revelam situações de um passado que não volta, mas instiga pensar num futuro possível, pois “permite reunir fragmentos de sentidos e afetos”. O autor torna possível, ainda, através da sua obra, o exercício da revelação. Junta pedaços que sinalizam caminhos que emergem das imagens cuidadosamente analisadas.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788581482996"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8581482996"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 15,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yH2bBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yH2bBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=yH2bBAAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=yH2bBAAAQBAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Retrato_da_Escola.html?hl=&id=yH2bBAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=yH2bBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "De momentos vividos e lembrados por muitos, que ali aprenderam a experimentar e sentir um pouco da vida. Fotografias que retratam épocas nas quais a escola era a grande protagonista, lugar onde se escrevia a história de uma cidade."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "kCFKEAAAQBAJ",
+        "etag": "D0grXguZNLM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/kCFKEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Alcântaras: Iii Séculos De História",
+          "authors": [
+            "Bertoni Vasconcelos Diogo"
+          ],
+          "publisher": "Clube de Autores",
+          "publishedDate": "2016-02-16",
+          "description": "Neste livro o jovem Bertoni Vasconcelos Diogo tem o prazer de disponibilizar seu trabalho para toda comunidade alcantarense, mostrando todo o seu talento e intimidade com a pesquisa. Seu trabalho é fruto de dois anos de intensas pesquisas consultando centenários e empoeirados documentos paroquiais, na procura por fragmentos textuais. Este maravilhoso trabalho é o resultado de sua dedicação pesquisando sobre as origens do povo alcantarense. Nas palavras do autor: “este trabalho é sua contribuição para futuros pesquisadores”. O seu trabalho é sem sombra de duvidas uma leitura indispensável para entender as origens do povoamento do sítio São José.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788592070809"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8592070805"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 436,
+          "printType": "BOOK",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=kCFKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=kCFKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=kCFKEAAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=kCFKEAAAQBAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Alc%C3%A2ntaras_Iii_S%C3%A9culos_De_Hist%C3%B3ria.html?hl=&id=kCFKEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Alc%C3%A2ntaras_Iii_S%C3%A9culos_De_Hist%C3%B3ria-sample-pdf.acsm?id=kCFKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=kCFKEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Neste livro o jovem Bertoni Vasconcelos Diogo tem o prazer de disponibilizar seu trabalho para toda comunidade alcantarense, mostrando todo o seu talento e intimidade com a pesquisa."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "MKJoAAAAMAAJ",
+        "etag": "dtHkGmN5zDk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MKJoAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Pequena história da república",
+          "authors": [
+            "Cruz Costa"
+          ],
+          "publishedDate": "1968",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173023611744"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 220,
+          "printType": "BOOK",
+          "categories": [
+            "Brazil"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.13.6.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MKJoAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MKJoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=MKJoAAAAMAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=MKJoAAAAMAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Pequena_hist%C3%B3ria_da_rep%C3%BAblica.html?hl=&id=MKJoAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=MKJoAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "u2r7gmsWWKQC",
+        "etag": "FCRpSEGABA8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/u2r7gmsWWKQC",
+        "volumeInfo": {
+          "title": "Brasil",
+          "subtitle": "uma história popular",
+          "publisher": "Editora Record",
+          "publishedDate": "2003",
+          "description": "Aborda a história do Brasil, na qual o povo é o protagonista. Traça um grande painel das ações populares a partir de temas gerais, tais como a luta pela terra, o trabalho e os meios de produção no Brasil. Traz uma importante reflexão sobre o verdadeiro sentido de nossa independência política, demonstrando o quanto ainda somos colonizados economicamente. Contribui para o conhecimento de história, tal como uma radiografia, mostrando aspectos internos que o verniz da \"História Oficial\" mostra na sua superficialidade.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8501062405"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788501062406"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 220,
+          "printType": "BOOK",
+          "categories": [
+            "Brazil"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.9.8.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=u2r7gmsWWKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=u2r7gmsWWKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=u2r7gmsWWKQC&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=u2r7gmsWWKQC&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Brasil.html?hl=&id=u2r7gmsWWKQC"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Brasil-sample-pdf.acsm?id=u2r7gmsWWKQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=u2r7gmsWWKQC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Aborda a história do Brasil, na qual o povo é o protagonista. Traça um grande painel das ações populares a partir de temas gerais, tais como a luta pela terra, o trabalho e os meios de produção no Brasil."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "NCotAAAAIAAJ",
+        "etag": "nKkBspF4hcM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NCotAAAAIAAJ",
+        "volumeInfo": {
+          "title": "História da literatura sul-mato-grossense",
+          "authors": [
+            "José Couto Vieira Pontes"
+          ],
+          "publishedDate": "1981",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:B3792397"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 216,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.9.3.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NCotAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NCotAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=NCotAAAAIAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=NCotAAAAIAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_sul_mato_grossen.html?hl=&id=NCotAAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=NCotAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ev5vEAAAQBAJ",
+        "etag": "5yCGaif36aw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ev5vEAAAQBAJ",
+        "volumeInfo": {
+          "title": "História Concisa do Brasil",
+          "authors": [
+            "Boris Fausto"
+          ],
+          "publisher": "EDUSP",
+          "publishedDate": "2022-05-13",
+          "description": "Os pressupostos básicos deste livro são a convicção de que é possível levar ao conhecimento de um público amplo uma história escrita em linguagem acessível, sem perda da qualidade analítica, e que buscar conhecer e interpretar o passado é condição indispensável para o cidadão situar-se no presente e avaliar as possibilidades e limites do futuro. A obra não é um simples resumo da História do Brasil, publicada na Coleção Didática da Edusp, embora mantenha a estrutura básica daquela. Boris Fausto consegue aqui tornar compreensíveis as linhas principais da história brasileira, cumprindo a tarefa de forma sintética e apresentando dados estatísticos recentes. Esta nova edição atualizada e ampliada conta com o acréscimo de um capítulo final de autoria do sociólogo Sérgio Fausto, abrangendo um balanço dos anos recentes, que vai até o final de 2010, e trazendo perspectivas de futuro.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788531417689"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8531417686"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 439,
+          "printType": "BOOK",
+          "categories": [
+            "History"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ev5vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ev5vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=ev5vEAAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=ev5vEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ev5vEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 32,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 32,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=ev5vEAAAQBAJ&rdid=book-ev5vEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 32000000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 32000000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Concisa_do_Brasil-sample-epub.acsm?id=ev5vEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Concisa_do_Brasil-sample-pdf.acsm?id=ev5vEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ev5vEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Boris Fausto consegue aqui tornar compreensíveis as linhas principais da história brasileira, cumprindo a tarefa de forma sintética e apresentando dados estatísticos recentes."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "F3A1AQAAIAAJ",
+        "etag": "y9o2cBiVfsQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/F3A1AQAAIAAJ",
+        "volumeInfo": {
+          "title": "Revista de história",
+          "authors": [
+            "Eurípedes Simões de Paula"
+          ],
+          "publishedDate": "1970",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:$B677294"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 576,
+          "printType": "BOOK",
+          "categories": [
+            "Brazil"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=F3A1AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=F3A1AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=F3A1AQAAIAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=F3A1AQAAIAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Revista_de_hist%C3%B3ria.html?hl=&id=F3A1AQAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=F3A1AQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "SqAr0gEACAAJ",
+        "etag": "xRbXn49EYcA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/SqAr0gEACAAJ",
+        "volumeInfo": {
+          "title": "Contribuição à história administrativa do Brasil",
+          "subtitle": "na República, até o ano de 1945. Historia administrativa do Brasil",
+          "authors": [
+            "Almir do Andrade"
+          ],
+          "publishedDate": "1950",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:1598093205"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=SqAr0gEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=SqAr0gEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Contribui%C3%A7%C3%A3o_%C3%A0_hist%C3%B3ria_administrati.html?hl=&id=SqAr0gEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=SqAr0gEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "khrG0QEACAAJ",
+        "etag": "wAa2EI8UNcE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/khrG0QEACAAJ",
+        "volumeInfo": {
+          "title": "Moral da História",
+          "subtitle": "Uma viagem abaixo da superfície das marcas",
+          "authors": [
+            "Jaime Curcio Troiano",
+            "Gabriel Russo Troiano"
+          ],
+          "publisher": "Independently Published",
+          "publishedDate": "2025-11-26",
+          "description": "Moral da História é uma coletânea de artigos e reflexões criados por Gabriel e Jaime Troiano que orbita em torno de um tema central: o universo das marcas, mas visto por um ângulo especial. Como uma viagem de múltiplos destinos, os autores convidam o leitor a explorar o mundo corporativo de maneira simultaneamente leve e profunda, recorrendo a referências históricas, culturais e artísticas, que ampliam o olhar para além e sob a superfície Apesar das aparentes assimetrias - as mesmas que poderiam separar um poeta de um engenheiro, ou um redator de um dirigente de consultoria - todos os textos revelam indícios de uma convicção compartilhada: a essência da profissão que ambos exercem. Trata-se da capacidade das marcas de estabelecer conexões genuínas com seus consumidores, por meio de esforços iluminados de branding que só se tornam plenamente compreensíveis quando observados à luz de uma vasta tapeçaria de acontecimentos, da Grécia Antiga a grupos étnicos contemporâneos na África. Ler este livro é embarcar - de navio, avião ou trem - rumo a universos mentais diversos, atravessando pilares que enriquecem a experiência muito humana de trabalhar com marcas. Essa viagem tem um supremo compromisso: contribuir para fortalecer o papel das marcas no desenvolvimento de negócios e nos projetos de felicidade das pessoas que são seus consumidores.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9798276276434"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=khrG0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=khrG0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=khrG0QEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=khrG0QEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Moral_da_Hist%C3%B3ria.html?hl=&id=khrG0QEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=khrG0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Moral da História é uma coletânea de artigos e reflexões criados por Gabriel e Jaime Troiano que orbita em torno de um tema central: o universo das marcas, mas visto por um ângulo especial."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "pNRSDwAAQBAJ",
+        "etag": "OAoUUhE8lG4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/pNRSDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Luz, câmera e história",
+          "subtitle": "Práticas de ensino com o cinema",
+          "authors": [
+            "Rodrigo de Almeida Ferreira"
+          ],
+          "publisher": "Autêntica",
+          "publishedDate": "2018-04-01",
+          "description": "Luz, câmera e história entrecruza cinema, ensino e história no exercício da educação do olhar – uma abertura de janelas para ver, sentir, ler, interpretar e analisar representações cinematográficas dos sujeitos e grupos sociais no processo histórico. A complexa relação entre o cinema e a história no campo educativo é percorrida, aqui, considerando-se propostas teórico-metodológicas que potencializam o uso do filme na educação. Assim, são apresentadas reflexões sobre cinema-história e ações educacionais – pensadas para atividades nas escolas, nas universidades, em ações de extensão, em oficinas –, tendo em vista diferentes conteúdos e as necessidades dos alunos envolvidos em cada projeto. Com o objetivo de estimular a reflexão sobre os sentidos produzidos pela linguagem fílmica nos caminhos do ensino e da aprendizagem de história, Luz, câmera e história estabelece diálogos com professores e estudantes, e está aberto aos interessados no debate sobre as narrativas cinematográficas da história.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788551302989"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8551302981"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 243,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pNRSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pNRSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=pNRSDwAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=pNRSDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pNRSDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 45.9,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 45.9,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=pNRSDwAAQBAJ&rdid=book-pNRSDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 45900000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 45900000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Luz_c%C3%A2mera_e_hist%C3%B3ria-sample-epub.acsm?id=pNRSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Luz_c%C3%A2mera_e_hist%C3%B3ria-sample-pdf.acsm?id=pNRSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=pNRSDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Luz, câmera e história entrecruza cinema, ensino e história no exercício da educação do olhar – uma abertura de janelas para ver, sentir, ler, interpretar e analisar representações cinematográficas dos sujeitos e grupos sociais ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "HnASEQAAQBAJ",
+        "etag": "0BV4fL2TYnk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HnASEQAAQBAJ",
+        "volumeInfo": {
+          "title": "Imperador de Roma",
+          "subtitle": "Uma história da Roma antiga",
+          "authors": [
+            "Mary Beard"
+          ],
+          "publisher": "Crítica",
+          "publishedDate": "2024-07-22",
+          "description": "Entenda os governantes de hoje a partir dos governantes do passado Que poder os imperadores realmente tinham? O palácio romano estava realmente tão manchado de sangue? Após contar a história milenar da Roma Antiga em seu best-seller SPQR, Mary Beard traz agora um vasto panorama de trinta imperadores que governaram o Império Romano por 250 anos. Não se trata, contudo, de uma listagem cronológica de autoridades: Imperador de Roma é sobre o que significava ser soberano. Seus poderes, sua rotina e suas polêmicas são objetos de três décadas de estudo e pesquisa da autora, que explora as grandes tensões do poder imperial e desmente inúmeras suposições que, por muito tempo, foram interpretadas como verdade. Para além das loucuras de Calígula e da filosofia de Marco Aurélio, Mary Beard narra o cotidiano de um dos grandes momentos da história, proporcionando uma imersão no vasto Império Romano.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788542227383"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8542227387"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 547,
+          "printType": "BOOK",
+          "categories": [
+            "History"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HnASEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HnASEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=HnASEQAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=HnASEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HnASEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 54.47,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 54.47,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=HnASEQAAQBAJ&rdid=book-HnASEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 54470000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 54470000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Imperador_de_Roma-sample-epub.acsm?id=HnASEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Imperador_de_Roma-sample-pdf.acsm?id=HnASEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HnASEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Não se trata, contudo, de uma listagem cronológica de autoridades: Imperador de Roma é sobre o que significava ser soberano."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "t65dAAAAMAAJ",
+        "etag": "1GlmAvApidk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/t65dAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Anais do XXIII Colóquio do Comitê Brasileiro de História da Arte",
+          "authors": [
+            "Comitê Brasileiro de História da Arte. Colóquio"
+          ],
+          "publishedDate": "2004",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173016567041"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 476,
+          "printType": "BOOK",
+          "categories": [
+            "Art, Brazilian"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.8.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=t65dAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=t65dAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=t65dAAAAMAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=t65dAAAAMAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Anais_do_XXIII_Col%C3%B3quio_do_Comit%C3%AA_Bras.html?hl=&id=t65dAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=t65dAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "JQ48AAAAIAAJ",
+        "etag": "S7mjndaJB70",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/JQ48AAAAIAAJ",
+        "volumeInfo": {
+          "title": "O gaúcho na história e na lingüistica",
+          "subtitle": "a formac̜ão étnica e social do Rio Grande do Sul e a origem do têrmo \"gaúcho,\" subsídos histórico-filológicos",
+          "authors": [
+            "Propício da Silveira Machado"
+          ],
+          "publishedDate": "1966",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:B3496092"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 140,
+          "printType": "BOOK",
+          "categories": [
+            "Gaucho (The Portuguese word)"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.10.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=JQ48AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=JQ48AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=JQ48AAAAIAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=JQ48AAAAIAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/O_ga%C3%BAcho_na_hist%C3%B3ria_e_na_ling%C3%BCistica.html?hl=&id=JQ48AAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=JQ48AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "KwyvDwAAQBAJ",
+        "etag": "HOPjn8FdqVk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KwyvDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Dedique-se de coração",
+          "subtitle": "A história de como a Starbucks se tornou uma grande empresa de xícara em xícara",
+          "authors": [
+            "Howard Schultz"
+          ],
+          "publisher": "Buzz Editora",
+          "publishedDate": "2019-09-12",
+          "description": "A história da Starbucks não é apenas um registro de crescimento e sucesso. Ela conta também como uma empresa pode ser construída de maneira diferente. Em Dedique-se de coração percebemos que uma empresa pode, sim, funcionar com o coração, nutrir a alma e ainda dar lucros. Neste livro, vemos que é possível, a longo prazo, oferecer valor aos seus acionistas sem sacrificar a crença central de que se deve tratar os funcionários com respeito e dignidade, tanto porque a Starbucks tem uma equipe de líderes que acreditam que isso é o certo quanto porque essa é a melhor forma de se fazer negócios. É difícil imaginar qualquer café que seja mais agradável do que esta narrativa. — PUBLISHERS WEEKLY — Para empreendedores, gerentes e admiradores da Starbucks: Dedique-se de coração é a história definitiva de como uma empresa de ponta construiu sua reputação no varejo mundialmente, conduzindo tudo com o coração. — BUSINESS TIMES — Ao nos presentear com a história detalhada de como a Starbucks compreendeu a mente de seus clientes, Schultz nos revela um autêntico truísmo norte-americano: se você for capaz de entender a imaginação de sua clientela, será um vencedor. — USA TODAY —",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9786580435241"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "6580435240"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 504,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.7.6.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KwyvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KwyvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=KwyvDwAAQBAJ&printsec=frontcover&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=KwyvDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KwyvDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 14.97,
+            "currencyCode": "BRL"
+          },
+          "retailPrice": {
+            "amount": 14.97,
+            "currencyCode": "BRL"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=KwyvDwAAQBAJ&rdid=book-KwyvDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 14970000,
+                "currencyCode": "BRL"
+              },
+              "retailPrice": {
+                "amountInMicros": 14970000,
+                "currencyCode": "BRL"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Dedique_se_de_cora%C3%A7%C3%A3o-sample-epub.acsm?id=KwyvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.br/books/download/Dedique_se_de_cora%C3%A7%C3%A3o-sample-pdf.acsm?id=KwyvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=KwyvDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Neste livro, vemos que é possível, a longo prazo, oferecer valor aos seus acionistas sem sacrificar a crença central de que se deve tratar os funcionários com respeito e dignidade, tanto porque a Starbucks tem uma equipe de líderes que ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bY06AQAAIAAJ",
+        "etag": "B0Gcd1SdAjs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bY06AQAAIAAJ",
+        "volumeInfo": {
+          "title": "História de Portugal",
+          "authors": [
+            "Fortunato de Almeida"
+          ],
+          "publishedDate": "1922",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:$B545753"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 552,
+          "printType": "BOOK",
+          "categories": [
+            "Portugal"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.6.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bY06AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bY06AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.br/books?id=bY06AQAAIAAJ&q=hist%C3%B3ria&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=bY06AQAAIAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_de_Portugal.html?hl=&id=bY06AQAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bY06AQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>história</b> portuguesa , t . V , pág . 60 ; RUI DE PINA , Chronica de El- -Rei D. Sancho I , cap . XV ; D. ANTÓNIO CAETANO DE SOUSA , <b>História</b> Genealógica da Casa Real Portuguesa , 1. I , cap.V - XI , t . I , pág . 79 e seg .; Fr. A&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FW2azwEACAAJ",
+        "etag": "XrmGaAFXg/I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FW2azwEACAAJ",
+        "volumeInfo": {
+          "title": "Ceará de norte a sul",
+          "subtitle": "estudos de história e culturas",
+          "authors": [
+            "José Ítalo Bezerra Viana",
+            "Joaquim dos Santos"
+          ],
+          "publishedDate": "2021",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "6525107571"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9786525107578"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Ceará (Brazil : State)"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=FW2azwEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=FW2azwEACAAJ&dq=hist%C3%B3ria&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Cear%C3%A1_de_norte_a_sul.html?hl=&id=FW2azwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FW2azwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "O livro Ceará de Norte a Sul: estudos de história e culturas é uma coletânea de artigos que reúne novos capítulos para a História do Ceará ou outros olhares para questões antigas."
+        }
+      }
+    ]
+  }
+}

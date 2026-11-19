@@ -1,0 +1,1263 @@
+{
+  "consulta": "literatura brasileira",
+  "coletado_em": "2026-11-19T00:11:23.244945+00:00",
+  "resposta": {
+    "kind": "books#volumes",
+    "totalItems": 571,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "HIS5PAAACAAJ",
+        "etag": "gpJwX7j7Kes",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HIS5PAAACAAJ",
+        "volumeInfo": {
+          "title": "História da literatura brasileira",
+          "authors": [
+            "Nelson Werneck Sodré"
+          ],
+          "publishedDate": "1995",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "852860344X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788528603446"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 677,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=HIS5PAAACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=HIS5PAAACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_brasileira.html?hl=&id=HIS5PAAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HIS5PAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "_JsVvgEACAAJ",
+        "etag": "d/YQQdUse2I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_JsVvgEACAAJ",
+        "volumeInfo": {
+          "title": "Aspectos da literatura brasileira",
+          "authors": [
+            "Paulo Roberto Correia de Oliveira"
+          ],
+          "publishedDate": "2018",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8561817534"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788561817534"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 347,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=_JsVvgEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=_JsVvgEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Aspectos_da_literatura_brasileira.html?hl=&id=_JsVvgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=_JsVvgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "_VQR0QEACAAJ",
+        "etag": "1dFNvrEUIlQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_VQR0QEACAAJ",
+        "volumeInfo": {
+          "title": "A Literatura brasileira",
+          "authors": [
+            "José Aderaldo Castello"
+          ],
+          "publishedDate": "1971",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:494699076"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=_VQR0QEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=_VQR0QEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Literatura_brasileira.html?hl=&id=_VQR0QEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=_VQR0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "voT6zwEACAAJ",
+        "etag": "De9Mi85fXcs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/voT6zwEACAAJ",
+        "volumeInfo": {
+          "title": "Formação da literatura brasileira",
+          "subtitle": "Momentos decisivos",
+          "authors": [
+            "Antonio Candido"
+          ],
+          "publishedDate": "2023-03-24",
+          "description": "De poucas obras se pode dizer que transformaram por completo o campo a que pertencem. Esse é sem dúvida o caso de Formação da literatura brasileira, publicado em 1959 e desde então incontornável para qualquer estudioso de literatura brasileira. Candido realizou nesta obra um tour de force que poucas vezes a atividade intelectual brasileira igualou.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "6556924016"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9786556924014"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=voT6zwEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=voT6zwEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Forma%C3%A7%C3%A3o_da_literatura_brasileira.html?hl=&id=voT6zwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=voT6zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "qQ5XAAAAYAAJ",
+        "etag": "yOTHE35QRPU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/qQ5XAAAAYAAJ",
+        "volumeInfo": {
+          "title": "Língua portuguesa e literatura brasileira",
+          "authors": [
+            "Antenor Antonio Gonçalves Filho"
+          ],
+          "publishedDate": "1991",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UVA:X002079678"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 152,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.6.3.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=qQ5XAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=qQ5XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=qQ5XAAAAYAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=qQ5XAAAAYAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADngua_portuguesa_e_literatura_brasilei.html?hl=&id=qQ5XAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=qQ5XAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "1jotAAAAYAAJ",
+        "etag": "Bv6abHK0uE8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1jotAAAAYAAJ",
+        "volumeInfo": {
+          "title": "Tornar-se outro",
+          "subtitle": "o topos canibal na literatura brasileira",
+          "authors": [
+            "Maria Cândida Ferreira de Almeida"
+          ],
+          "publishedDate": "2002",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173009755777"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 310,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1jotAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1jotAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=1jotAAAAYAAJ&q=literatura+brasileira&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=1jotAAAAYAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Tornar_se_outro.html?hl=&id=1jotAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=1jotAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "HjwtAAAAYAAJ",
+        "etag": "wsYbLs41858",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HjwtAAAAYAAJ",
+        "volumeInfo": {
+          "title": "A literatura brasileira",
+          "subtitle": "origens e unidade (1500-1960)",
+          "authors": [
+            "José Aderaldo Castello"
+          ],
+          "publisher": "EdUSP",
+          "publishedDate": "1999",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UTEXAS:059173004134433"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 588,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.4.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HjwtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HjwtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=HjwtAAAAYAAJ&q=literatura+brasileira&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=HjwtAAAAYAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_literatura_brasileira.html?hl=&id=HjwtAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HjwtAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "6KdwAQAACAAJ",
+        "etag": "dFZenEECsl8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/6KdwAQAACAAJ",
+        "volumeInfo": {
+          "title": "Aspectos Da Literatura Brasileira",
+          "authors": [
+            "Mário de Andrade"
+          ],
+          "publishedDate": "1943",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:405910"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 262,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian poetry"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=6KdwAQAACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=6KdwAQAACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Aspectos_Da_Literatura_Brasileira.html?hl=&id=6KdwAQAACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=6KdwAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "xO8-0QEACAAJ",
+        "etag": "qwZq6IzCrX0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/xO8-0QEACAAJ",
+        "volumeInfo": {
+          "title": "Breve história da literatura brasileira",
+          "authors": [
+            "Erico Verissimo"
+          ],
+          "publishedDate": "1995",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:1508721442"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=xO8-0QEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=xO8-0QEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Breve_hist%C3%B3ria_da_literatura_brasileira.html?hl=&id=xO8-0QEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=xO8-0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ZobjoQEACAAJ",
+        "etag": "3fPmMZ2asCo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ZobjoQEACAAJ",
+        "volumeInfo": {
+          "title": "Literatura Brasileira contemporanea",
+          "subtitle": "geografias",
+          "authors": [
+            "Universidade Regional Integrada"
+          ],
+          "publishedDate": "2013",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8577961095"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788577961092"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 246,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=ZobjoQEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=ZobjoQEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Literatura_Brasileira_contemporanea.html?hl=&id=ZobjoQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ZobjoQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "QGnj0AEACAAJ",
+        "etag": "ylcwmq+l3Y0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/QGnj0AEACAAJ",
+        "volumeInfo": {
+          "title": "Literatura brasileira contemporânea",
+          "authors": [
+            "Flávio Pereira Camargo",
+            "Larissa Warzocha F. Cruvinel",
+            "Renata Rocha Ribeiro"
+          ],
+          "publisher": "Editora Appris",
+          "publishedDate": "2017-01-01",
+          "description": "Eleger e estudar a literatura brasileira produzida nas últimas décadas do século XX e do início do século XXI pode permitir ao terreno da crítica literária um alargamento de perspectivas em relação à produção e à recepção de novos autores e de novas obras literárias. Um olhar mais atento para essas obras permite ao leitor e ao crítico uma compreensão mais apurada, tanto da cultura contemporânea, de um modo geral, quanto de suas influências na produção literária da atualidade. De modo a propiciar ao leitor trilhar algumas das tendências dessa produção literária, esta coletânea reúne estudos acadêmicos sobre algumas linhas de força da Literatura Brasileira Contemporânea. A literatura publicada nas últimas décadas no Brasil apresenta uma profusão de tendências estéticas que precisam ser mais bem compreendidas pela crítica. Por mais que essa tarefa seja desafiadora, voltar o olhar para o próprio tempo impõe também algumas dificuldades. A mais premente delas é, talvez, a impossibilidade de um distanciamento temporal e de um repertório crítico que auxiliem uma leitura mais apurada do texto literário. Há, assim, que se ressaltar o caráter quase que desbravador da mirada crítica sobre essa seara, em especial a produzida no contexto brasileiro, tão numerosa quanto múltipla, para lembrar Beatriz Resende (2008).",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8547304800"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788547304805"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=QGnj0AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=QGnj0AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Literatura_brasileira_contempor%C3%A2nea.html?hl=&id=QGnj0AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=QGnj0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "De modo a propiciar ao leitor trilhar algumas das tendências dessa produção literária, esta coletânea reúne estudos acadêmicos sobre algumas linhas de força da Literatura Brasileira Contemporânea."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vq3uAAAAMAAJ",
+        "etag": "5o/leKAmySs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vq3uAAAAMAAJ",
+        "volumeInfo": {
+          "title": "História da literatura brasileira",
+          "authors": [
+            "Luciana Stegagno Picchio"
+          ],
+          "publishedDate": "2004",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "IND:30000093008245"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 752,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.7.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vq3uAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vq3uAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=vq3uAAAAMAAJ&q=literatura+brasileira&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=vq3uAAAAMAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_brasileira.html?hl=&id=vq3uAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vq3uAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "o0O30AEACAAJ",
+        "etag": "yvOnhFh1cZA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/o0O30AEACAAJ",
+        "volumeInfo": {
+          "title": "Escritores são humanos",
+          "subtitle": "histórias cotidianas da Literatura Brasileira",
+          "authors": [
+            "Carlos Costa"
+          ],
+          "publishedDate": "2023",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "6554391584"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9786554391580"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Authors, Brazilian"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=o0O30AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=o0O30AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Escritores_s%C3%A3o_humanos.html?hl=&id=o0O30AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=o0O30AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Cotidiano dos autores do cânone literário brasileiro."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "btWN0AEACAAJ",
+        "etag": "MRjXs/uBYp8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/btWN0AEACAAJ",
+        "volumeInfo": {
+          "title": "História da literatura brasileira",
+          "subtitle": "da carta de Caminha aos contemporâneos",
+          "authors": [
+            "Carlos Nejar"
+          ],
+          "publishedDate": "2022",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:1416396271"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=btWN0AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=btWN0AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_brasileira.html?hl=&id=btWN0AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=btWN0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bHRlkQEACAAJ",
+        "etag": "JzRsn163KUE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bHRlkQEACAAJ",
+        "volumeInfo": {
+          "title": "O professor e o escrivão",
+          "subtitle": "estudos sobre literatura brasileira e leitura",
+          "authors": [
+            "Carlos Erivany Fantinati"
+          ],
+          "publishedDate": "2012",
+          "description": "A obra de Lima Barreto e a visão do escritor acerca da mulher e do negro; o amor, da perspectiva do personagem Riobaldo, de Guimarães Rosa; o livro 'Cadeiras proibidas', de Ignácio de Loyola Brandão, segundo um conceito literário surgido na Antiguidade; a letra da música 'Feijão maravilha', de Gonzaguinha, à luz do processo dialético da aprendizagem. Estes são alguns dos temas de que Carlos Erivany Fantinati se ocupa nesta obra. A obra procura tratar, em sete grandes blocos, inter-relacionados pela reflexão acadêmica sobre o texto literário, de escritores específicos, a exemplo dos já citados, e de assuntos como a linguagem didática, o gênero sátira no Brasil e a linguagem que modela mitos nacionais - herdeira, na visão do autor, da tradição forjada pelo barroco no país. O último bloco reúne resenhas, escritas por Fantinati, de sete obras sobre literatura, entre as quais estão 'Getúlio Vargas na literatura de cordel' (Orígenes Lessa) e 'O romance brasileiro de 30' (Adonias Filho).",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8539303604"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788539303601"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 408,
+          "printType": "BOOK",
+          "categories": [
+            "Books and reading"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=bHRlkQEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=bHRlkQEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/O_professor_e_o_escriv%C3%A3o.html?hl=&id=bHRlkQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bHRlkQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wCXQ0AEACAAJ",
+        "etag": "EQ1M4he0AkE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wCXQ0AEACAAJ",
+        "volumeInfo": {
+          "title": "História da literatura Brasileira",
+          "publishedDate": "1999",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:686078235"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=wCXQ0AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=wCXQ0AEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_Brasileira.html?hl=&id=wCXQ0AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wCXQ0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "TIEVAQAAMAAJ",
+        "etag": "eaXTYIxX3JM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/TIEVAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Presença da literatura brasileira",
+          "subtitle": "história e antologia",
+          "authors": [
+            "Antônio Cândido",
+            "José Aderaldo Castello"
+          ],
+          "publishedDate": "2001",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "WISC:89093677979"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 452,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.4.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TIEVAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TIEVAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=TIEVAQAAMAAJ&q=literatura+brasileira&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=TIEVAQAAMAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Presen%C3%A7a_da_literatura_brasileira.html?hl=&id=TIEVAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=TIEVAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "5BE4zgEACAAJ",
+        "etag": "6erTRV/DiPA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5BE4zgEACAAJ",
+        "volumeInfo": {
+          "title": "Marcas da ordem patriarcal na literatura brasileira",
+          "authors": [
+            "Marcos Hidemi de Lima"
+          ],
+          "publishedDate": "2019",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "8530200527"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9788530200527"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=5BE4zgEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=5BE4zgEACAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Marcas_da_ordem_patriarcal_na_literatura.html?hl=&id=5BE4zgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=5BE4zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "nhNEAAAAYAAJ",
+        "etag": "GOB1BOKdOyc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nhNEAAAAYAAJ",
+        "volumeInfo": {
+          "title": "História da literatura brasileira",
+          "authors": [
+            "Sílvio Romero"
+          ],
+          "publishedDate": "1943",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UVA:X000949203"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 352,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nhNEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nhNEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=nhNEAAAAYAAJ&q=literatura+brasileira&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "http://books.google.com.br/books?id=nhNEAAAAYAAJ&dq=literatura+brasileira&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_brasileira.html?hl=&id=nhNEAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=nhNEAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "siu_mLRTnv0C",
+        "etag": "ulhrYiLMuoo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/siu_mLRTnv0C",
+        "volumeInfo": {
+          "title": "Nova história da literatura brasileira",
+          "authors": [
+            "Liberato Bittencourt"
+          ],
+          "publishedDate": "1949",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OSU:32435028587699"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 360,
+          "printType": "BOOK",
+          "categories": [
+            "Brazilian literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.2.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=siu_mLRTnv0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=siu_mLRTnv0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "pt-BR",
+          "previewLink": "http://books.google.com.br/books?id=siu_mLRTnv0C&printsec=frontcover&dq=literatura+brasileira&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=siu_mLRTnv0C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=siu_mLRTnv0C"
+        },
+        "saleInfo": {
+          "country": "BR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=siu_mLRTnv0C&rdid=book-siu_mLRTnv0C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "BR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com.br/books/download/Nova_hist%C3%B3ria_da_literatura_brasileira.epub?id=siu_mLRTnv0C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=siu_mLRTnv0C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  }
+}
