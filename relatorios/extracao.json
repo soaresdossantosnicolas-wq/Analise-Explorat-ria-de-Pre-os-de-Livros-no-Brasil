@@ -1,0 +1,14 @@
+[
+  {
+    "arquivo": "lista_preco_07_01_2022_13_09_30.pdf",
+    "sha256": "a1f234706e12b76aed65e35e9c44ea64037c300c4d4559bfeb95d55df2e998c8",
+    "registros": 924,
+    "metadados_a_revisar": 1
+  },
+  {
+    "arquivo": "Editora_34_-_lista_de_preos_ANPOCS_2025xlsx_-_Sheet1.pdf",
+    "sha256": "02800b63db0f5264ac2fc0a4bcb37434758f0f95823ee46dc5b39d2038edd43a",
+    "registros": 677,
+    "metadados_a_revisar": 677
+  }
+]
