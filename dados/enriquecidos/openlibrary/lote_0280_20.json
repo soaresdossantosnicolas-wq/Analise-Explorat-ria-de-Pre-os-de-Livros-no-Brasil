@@ -1,0 +1,208 @@
+{
+  "consultado_em": "2026-11-19T22:38:01.454696+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573265323%2CISBN%3A9788573265279%2CISBN%3A9788573265354%2CISBN%3A9788573265408%2CISBN%3A9788573265392%2CISBN%3A9788573265316%2CISBN%3A9788573265422%2CISBN%3A9788573265330%2CISBN%3A9788573265347%2CISBN%3A9788573265361%2CISBN%3A9788573265439%2CISBN%3A9788573265446%2CISBN%3A9788573265460%2CISBN%3A9788573265477%2CISBN%3A9788573265378%2CISBN%3A9788573265453%2CISBN%3A9788573265484%2CISBN%3A9788573265491%2CISBN%3A9788573265521%2CISBN%3A9788573265514&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573265323": {
+      "url": "http://openlibrary.org/books/OL31097352M/Entre_a_literatura_e_a_história",
+      "key": "/books/OL31097352M",
+      "title": "Entre a literatura e a história",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL697277A/Alfredo_Bosi",
+          "name": "Alfredo Bosi"
+        }
+      ],
+      "number_of_pages": 475,
+      "pagination": "475 pages",
+      "by_statement": "Alfredo Bosi",
+      "identifiers": {
+        "isbn_10": [
+          "8573265329"
+        ],
+        "isbn_13": [
+          "9788573265323"
+        ],
+        "lccn": [
+          "2014341237"
+        ],
+        "oclc": [
+          "871320589"
+        ],
+        "openlibrary": [
+          "OL31097352M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9511 .B57 2013",
+          "PQ9511 .B67 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "notes": "\"Reúne cerca de quarenta textos, entre ensaios inéditos, entrevistas, prefácios e artigos de intervenção\"--Cover page 4.\n\nIncludes bibliographical references (pages 473-475)."
+    },
+    "ISBN:9788573265279": {
+      "url": "http://openlibrary.org/books/OL61172449M/Veredas_da_mudança_na_ciência_brasileira",
+      "key": "/books/OL61172449M",
+      "title": "Veredas da mudança na ciência brasileira",
+      "subtitle": "discurso, institucionalização e práticas no cenário contemporâneo",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL16134940A/Maria_Caramez_Carlotto",
+          "name": "Maria Caramez Carlotto"
+        }
+      ],
+      "number_of_pages": 379,
+      "pagination": "379 pages",
+      "by_statement": "Maria Caramez Carlotto",
+      "identifiers": {
+        "isbn_13": [
+          "9788573265279"
+        ],
+        "oclc": [
+          "928989949"
+        ],
+        "openlibrary": [
+          "OL61172449M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "Q175.4 .C37 2013x"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Science",
+          "url": "https://openlibrary.org/subjects/science"
+        },
+        {
+          "name": "Social aspects",
+          "url": "https://openlibrary.org/subjects/social_aspects"
+        },
+        {
+          "name": "Research",
+          "url": "https://openlibrary.org/subjects/research"
+        },
+        {
+          "name": "Technological innovations",
+          "url": "https://openlibrary.org/subjects/technological_innovations"
+        },
+        {
+          "name": "Science and state",
+          "url": "https://openlibrary.org/subjects/science_and_state"
+        },
+        {
+          "name": "Laboratório Nacional de Luz Síncrotron (Brazil)",
+          "url": "https://openlibrary.org/subjects/laboratório_nacional_de_luz_síncrotron_(brazil)"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 341-363) and index."
+    },
+    "ISBN:9788573265392": {
+      "url": "http://openlibrary.org/books/OL59847093M/Inezita_Barroso",
+      "key": "/books/OL59847093M",
+      "title": "Inezita Barroso",
+      "subtitle": "a história de uma brasileira",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL2469629A/Arley_Pereira",
+          "name": "Arley Pereira"
+        }
+      ],
+      "number_of_pages": 207,
+      "pagination": "207 pages",
+      "by_statement": "Arley Pereira",
+      "identifiers": {
+        "isbn_10": [
+          "8573265396"
+        ],
+        "isbn_13": [
+          "9788573265392"
+        ],
+        "oclc": [
+          "935770510"
+        ],
+        "openlibrary": [
+          "OL59847093M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML420.B1825 P47 2013"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Sao Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2013",
+      "subjects": [
+        {
+          "name": "Singers",
+          "url": "https://openlibrary.org/subjects/singers"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Inezita Barroso",
+          "url": "https://openlibrary.org/subjects/person:inezita_barroso"
+        }
+      ],
+      "notes": "Includes discography (pages 165-200) and index."
+    }
+  }
+}

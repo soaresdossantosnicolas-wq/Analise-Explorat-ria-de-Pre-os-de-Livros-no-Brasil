@@ -1,0 +1,662 @@
+{
+  "consultado_em": "2026-11-19T22:37:49.146867+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573264883%2CISBN%3A9788573264890%2CISBN%3A9788573264906%2CISBN%3A9788573264876%2CISBN%3A9788573264920%2CISBN%3A9788573264937%2CISBN%3A9788573264944%2CISBN%3A9788573264975%2CISBN%3A9788573264968%2CISBN%3A9788573264982%2CISBN%3A9788573264999%2CISBN%3A9788573265019%2CISBN%3A9788573265002%2CISBN%3A9788573265026%2CISBN%3A9788573265033%2CISBN%3A9788573265040%2CISBN%3A9788573265071%2CISBN%3A9788573265088%2CISBN%3A9788573265095%2CISBN%3A9788573263688&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573264906": {
+      "url": "https://openlibrary.org/books/OL31243042M/A_cidade_no_Brasil",
+      "key": "/books/OL31243042M",
+      "title": "A cidade no Brasil",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4494580A/Antonio_Risério",
+          "name": "Antonio Risério"
+        }
+      ],
+      "number_of_pages": 366,
+      "pagination": "366 p.",
+      "by_statement": "Antonio Risério",
+      "identifiers": {
+        "isbn_10": [
+          "857326490X"
+        ],
+        "isbn_13": [
+          "9788573264906"
+        ],
+        "lccn": [
+          "2013336827"
+        ],
+        "oclc": [
+          "821212420"
+        ],
+        "openlibrary": [
+          "OL31243042M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HT129.B7 R57 2012"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2012",
+      "subjects": [
+        {
+          "name": "Cities and towns",
+          "url": "https://openlibrary.org/subjects/cities_and_towns"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Growth",
+          "url": "https://openlibrary.org/subjects/growth"
+        },
+        {
+          "name": "Urbanization",
+          "url": "https://openlibrary.org/subjects/urbanization"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 351-366)"
+    },
+    "ISBN:9788573264876": {
+      "url": "https://openlibrary.org/books/OL30531605M/Georges_Cuvier._Do_Estudo_dos_Fósseis_à_Paleontologia",
+      "key": "/books/OL30531605M",
+      "title": "Georges Cuvier. Do Estudo dos Fósseis à Paleontologia",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8594315A/Felipe_Faria",
+          "name": "Felipe Faria"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "857326487X"
+        ],
+        "isbn_13": [
+          "9788573264876"
+        ],
+        "openlibrary": [
+          "OL30531605M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Oct 01, 2012",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/10463232-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/10463232-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/10463232-L.jpg"
+      }
+    },
+    "ISBN:9788573264920": {
+      "url": "https://openlibrary.org/books/OL30743902M/Os_artistas_brasileiros_na_Escola_de_Paris",
+      "key": "/books/OL30743902M",
+      "title": "Os artistas brasileiros na Escola de Paris",
+      "subtitle": "anos 1920",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304978A/Marta_Rossetti_Batista",
+          "name": "Marta Rossetti Batista"
+        }
+      ],
+      "number_of_pages": 695,
+      "pagination": "695 p.",
+      "by_statement": "Marta Rossetti Batista",
+      "identifiers": {
+        "isbn_10": [
+          "8573264926"
+        ],
+        "isbn_13": [
+          "9788573264920"
+        ],
+        "lccn": [
+          "2012486129"
+        ],
+        "oclc": [
+          "814373777",
+          "819742911"
+        ],
+        "openlibrary": [
+          "OL30743902M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ND550 .B38 2012",
+          "N6550.E3 B38 2012",
+          "ND550 B38 2012"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2012",
+      "subjects": [
+        {
+          "name": "École de Paris",
+          "url": "https://openlibrary.org/subjects/école_de_paris"
+        },
+        {
+          "name": "Painters",
+          "url": "https://openlibrary.org/subjects/painters"
+        },
+        {
+          "name": "Expatriate painters",
+          "url": "https://openlibrary.org/subjects/expatriate_painters"
+        },
+        {
+          "name": "Influence",
+          "url": "https://openlibrary.org/subjects/influence"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Expatriate artists",
+          "url": "https://openlibrary.org/subjects/expatriate_artists"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "Paris",
+          "url": "https://openlibrary.org/subjects/place:paris"
+        },
+        {
+          "name": "France",
+          "url": "https://openlibrary.org/subjects/place:france"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "\"Exposições\" (p. 633-646).\n\nIncludes bibliographical references (p. 647-681) and index.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Introdução /",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Marta Rossetti Batista -- I.",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A Escola de Paris nos anos 1920 -- -- II.",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Os artistas brasileiros -- -- III.",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A obra -- -- IV.",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Documentação ---- Índice onomástico-- Sobre a autora.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573264937": {
+      "url": "https://openlibrary.org/books/OL30672618M/Tempo_reencontrado",
+      "key": "/books/OL30672618M",
+      "title": "Tempo reencontrado",
+      "subtitle": "ensaios sobre arte e literatura",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8646512A/Alexandre_Eulálio",
+          "name": "Alexandre Eulálio"
+        }
+      ],
+      "number_of_pages": 267,
+      "pagination": "267 p.",
+      "by_statement": "Alexandre Eulálio ; organização e apresentação, Carlos Augusto Calil",
+      "identifiers": {
+        "isbn_10": [
+          "8573264934"
+        ],
+        "isbn_13": [
+          "9788573264937"
+        ],
+        "lccn": [
+          "2012319293"
+        ],
+        "oclc": [
+          "809410978",
+          "843017863"
+        ],
+        "openlibrary": [
+          "OL30672618M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9551 .E93 2012",
+          "PQ9554 .A449 2012"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Instituto Moreira Salles"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro"
+        }
+      ],
+      "publish_date": "2012",
+      "subjects": [
+        {
+          "name": "Art and literature",
+          "url": "https://openlibrary.org/subjects/art_and_literature"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Literatur",
+          "url": "https://openlibrary.org/subjects/literatur"
+        },
+        {
+          "name": "Kunst",
+          "url": "https://openlibrary.org/subjects/kunst"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "19th century",
+          "url": "https://openlibrary.org/subjects/time:19th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    },
+    "ISBN:9788573264944": {
+      "url": "https://openlibrary.org/books/OL31243690M/Lima_Barreto",
+      "key": "/books/OL31243690M",
+      "title": "Lima Barreto",
+      "subtitle": "uma autobiografia literária",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304969A/Lima_Barreto",
+          "name": "Lima Barreto"
+        }
+      ],
+      "number_of_pages": 199,
+      "pagination": "199 p.",
+      "by_statement": "organização, apresentação e notas, Antonio Arnoni Prado",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264944"
+        ],
+        "lccn": [
+          "2013337259"
+        ],
+        "oclc": [
+          "833148490"
+        ],
+        "openlibrary": [
+          "OL31243690M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.L544 Z463 2012"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2012",
+      "subjects": [
+        {
+          "name": "Brazilian Authors",
+          "url": "https://openlibrary.org/subjects/brazilian_authors"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "Working class",
+          "url": "https://openlibrary.org/subjects/working_class"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Essay",
+          "url": "https://openlibrary.org/subjects/essay"
+        },
+        {
+          "name": "Portugiesisch",
+          "url": "https://openlibrary.org/subjects/portugiesisch"
+        }
+      ],
+      "notes": "\"Fragmentos de contos, cartas, diários, romances, artigos e crônicas de jornal ... do autor marginalizado\"--Cover p. [4].\n\nBased on: Obra completa / Lima Barreto ; organizada por Francisco de Assis Barbosa. 1. ed. São Paulo : Brasiliense, 1956.\n\nIncludes bibliographical references (p. 190-196) and index."
+    },
+    "ISBN:9788573264975": {
+      "url": "https://openlibrary.org/books/OL47562633M/Homens_Interessantes_e_Outras_Histórias",
+      "key": "/books/OL47562633M",
+      "title": "Homens Interessantes e Outras Histórias",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL10714638A/NIKOLAI_LESKOV",
+          "name": "NIKOLAI LESKOV"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573264977"
+        ],
+        "isbn_13": [
+          "9788573264975"
+        ],
+        "openlibrary": [
+          "OL47562633M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Apr 19, 2012",
+      "notes": "Source title: Homens Interessantes e Outras Histórias (Em Portuguese do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14182685-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14182685-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14182685-L.jpg"
+      }
+    },
+    "ISBN:9788573264982": {
+      "url": "https://openlibrary.org/books/OL31193271M/Píer",
+      "key": "/books/OL31193271M",
+      "title": "Píer",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL8854267A/Sérgio_Alcides",
+          "name": "Sérgio Alcides"
+        }
+      ],
+      "number_of_pages": 129,
+      "pagination": "129 pages",
+      "by_statement": "Sérgio Alcides",
+      "identifiers": {
+        "isbn_13": [
+          "9788573264982"
+        ],
+        "lccn": [
+          "2014417115"
+        ],
+        "openlibrary": [
+          "OL31193271M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "MLCS 2014/43752"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2012"
+    },
+    "ISBN:9788573265026": {
+      "url": "https://openlibrary.org/books/OL31244843M/O_que_os_cegos_estão_sonhando",
+      "key": "/books/OL31244843M",
+      "title": "O que os cegos estão sonhando?",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5683836A/Noemi_Jaffe",
+          "name": "Noemi Jaffe"
+        }
+      ],
+      "number_of_pages": 237,
+      "pagination": "237 p.",
+      "by_statement": "Noemi Jaffe ; com o Diário de Lili Jaffe (1944-1945) e texto final de Leda Cartum ; [tradução do Diário de Lili Jaffe, Aleksander Jovanović]",
+      "identifiers": {
+        "isbn_10": [
+          "8573265027"
+        ],
+        "isbn_13": [
+          "9788573265026"
+        ],
+        "lccn": [
+          "2013337971"
+        ],
+        "oclc": [
+          "847989921"
+        ],
+        "openlibrary": [
+          "OL31244843M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "D805.5.A96 J34 2012"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2012",
+      "subjects": [
+        {
+          "name": "Diaries",
+          "url": "https://openlibrary.org/subjects/diaries"
+        },
+        {
+          "name": "Ex-concentration camp inmates",
+          "url": "https://openlibrary.org/subjects/ex-concentration_camp_inmates"
+        },
+        {
+          "name": "Children of Holocaust survivors",
+          "url": "https://openlibrary.org/subjects/children_of_holocaust_survivors"
+        },
+        {
+          "name": "Auschwitz (Concentration camp)",
+          "url": "https://openlibrary.org/subjects/auschwitz_(concentration_camp)"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Lili Jaffe",
+          "url": "https://openlibrary.org/subjects/person:lili_jaffe"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    },
+    "ISBN:9788573263688": {
+      "url": "https://openlibrary.org/books/OL21423370M/Anita_Malfatti",
+      "key": "/books/OL21423370M",
+      "title": "Anita Malfatti",
+      "subtitle": "no tempo e no espaço",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL304978A/Marta_Rossetti_Batista",
+          "name": "Marta Rossetti Batista"
+        }
+      ],
+      "pagination": "2 v. :",
+      "by_statement": "Marta Rossetti Batista.",
+      "identifiers": {
+        "isbn_10": [
+          "8573263687",
+          "8573263695"
+        ],
+        "isbn_13": [
+          "9788573263688",
+          "9788573263695"
+        ],
+        "lccn": [
+          "2007317560"
+        ],
+        "oclc": [
+          "141196377"
+        ],
+        "openlibrary": [
+          "OL21423370M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "N6659.M34 B38 2006"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        },
+        {
+          "name": "EDUSP"
+        },
+        {
+          "name": "Edusp"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2006",
+      "subjects": [
+        {
+          "name": "Catalogues raisonnés",
+          "url": "https://openlibrary.org/subjects/catalogues_raisonnés"
+        },
+        {
+          "name": "Catalogs",
+          "url": "https://openlibrary.org/subjects/catalogs"
+        },
+        {
+          "name": "Artists",
+          "url": "https://openlibrary.org/subjects/artists"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "Pintura",
+          "url": "https://openlibrary.org/subjects/pintura"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Anita Malfatti",
+          "url": "https://openlibrary.org/subjects/person:anita_malfatti"
+        }
+      ],
+      "notes": "Vol. numbering supplied by this library.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "[v. 1.] Biografia e estudo da obra",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "[v. 2.] Catálogo da obra e documentação.",
+          "pagenum": ""
+        }
+      ]
+    }
+  }
+}

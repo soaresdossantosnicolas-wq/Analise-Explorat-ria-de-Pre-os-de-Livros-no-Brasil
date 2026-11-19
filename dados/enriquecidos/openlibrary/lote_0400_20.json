@@ -1,0 +1,267 @@
+{
+  "consultado_em": "2026-11-19T22:38:44.954086+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573266719%2CISBN%3A9788573266702%2CISBN%3A9788573266740%2CISBN%3A9788573266726%2CISBN%3A9788573266733%2CISBN%3A9788579790973%2CISBN%3A9788573266764%2CISBN%3A9788573266757%2CISBN%3A9788573266788%2CISBN%3A9788573266771%2CISBN%3A9788573266801%2CISBN%3A9788573266795%2CISBN%3A9788573266818%2CISBN%3A9788573266825%2CISBN%3A9788573266832%2CISBN%3A9788573266856%2CISBN%3A9788573266849%2CISBN%3A9788573266863%2CISBN%3A9788573266900%2CISBN%3A9788573266917&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788579790973": {
+      "url": "https://openlibrary.org/books/OL44215619M/A_hispanidade_em_São_Paulo",
+      "key": "/books/OL44215619M",
+      "title": "A hispanidade em São Paulo",
+      "subtitle": "da casa rural à Capela de Santo Antônio",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "number_of_pages": 239,
+      "pagination": "239 pages",
+      "by_statement": "Aracy Amaral",
+      "identifiers": {
+        "isbn_10": [
+          "8579790972"
+        ],
+        "isbn_13": [
+          "9788579790973"
+        ],
+        "oclc": [
+          "1078425449"
+        ],
+        "openlibrary": [
+          "OL44215619M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "NA856.S2 A42 2017"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Itaú Cultural"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2017",
+      "subjects": [
+        {
+          "name": "Colonial Architecture",
+          "url": "https://openlibrary.org/subjects/colonial_architecture"
+        },
+        {
+          "name": "Colonial Art",
+          "url": "https://openlibrary.org/subjects/colonial_art"
+        },
+        {
+          "name": "Civilization",
+          "url": "https://openlibrary.org/subjects/civilization"
+        },
+        {
+          "name": "Spanish influences",
+          "url": "https://openlibrary.org/subjects/spanish_influences"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo (State)",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_(state)"
+        },
+        {
+          "name": "São Paulo (Brazil : State)",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_(brazil_:_state)"
+        }
+      ],
+      "notes": "Includes bibliographical references.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Duas palavras",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Quem eram os aresãos de São Paulo?",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A partir do detalhe decorativo: as casas rurais de São Paulo",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Seculo XVII: do edificio religioso em São Paulo a CApela de Santo Antonio",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Notas: a margem do intercambio.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573266801": {
+      "url": "https://openlibrary.org/books/OL37787258M/O_mestre_e_Margarida",
+      "key": "/books/OL37787258M",
+      "title": "O mestre e Margarida",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL52940A/Михаил_Булгаков",
+          "name": "Михаил Булгаков"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573266805"
+        ],
+        "isbn_13": [
+          "9788573266801"
+        ],
+        "openlibrary": [
+          "OL37787258M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Mar 28, 2017",
+      "notes": "Source title: O Mestre e Margarida (Em Portugues do Brasil)",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12919201-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12919201-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12919201-L.jpg"
+      }
+    },
+    "ISBN:9788573266795": {
+      "url": "https://openlibrary.org/books/OL44158220M/Como_se_me_fumasse",
+      "key": "/books/OL44158220M",
+      "title": "Como se me fumasse",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5630109A/Marcelo_Mirisola",
+          "name": "Marcelo Mirisola"
+        }
+      ],
+      "number_of_pages": 170,
+      "pagination": "170 pages",
+      "by_statement": "Marcelo Mirisola",
+      "identifiers": {
+        "isbn_10": [
+          "8573266791"
+        ],
+        "isbn_13": [
+          "9788573266795"
+        ],
+        "lccn": [
+          "2018341940"
+        ],
+        "oclc": [
+          "1029873441"
+        ],
+        "openlibrary": [
+          "OL44158220M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.23.I794 C66 2017"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2017"
+    },
+    "ISBN:9788573266900": {
+      "url": "https://openlibrary.org/books/OL44105896M/Nuvens",
+      "key": "/books/OL44105896M",
+      "title": "Nuvens",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL1527123A/Hilda_Machado",
+          "name": "Hilda Machado"
+        }
+      ],
+      "number_of_pages": 95,
+      "pagination": "95 pages",
+      "by_statement": "Hilda Machado ; apresentação de Ricardo Domeneck",
+      "identifiers": {
+        "isbn_10": [
+          "8573266902"
+        ],
+        "isbn_13": [
+          "9788573266900"
+        ],
+        "lccn": [
+          "2018343834"
+        ],
+        "oclc": [
+          "1055285167"
+        ],
+        "openlibrary": [
+          "OL44105896M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.423.A34 N88 2018"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2018",
+      "subjects": [
+        {
+          "name": "Literatur",
+          "url": "https://openlibrary.org/subjects/literatur"
+        }
+      ],
+      "notes": "Poems."
+    },
+    "ISBN:9788573266917": {
+      "url": "https://openlibrary.org/books/OL43119245M/O_Homem_que_Plantava_Árvores",
+      "key": "/books/OL43119245M",
+      "title": "O Homem que Plantava Árvores",
+      "identifiers": {
+        "isbn_10": [
+          "8573266910"
+        ],
+        "isbn_13": [
+          "9788573266917"
+        ],
+        "openlibrary": [
+          "OL43119245M"
+        ]
+      }
+    }
+  }
+}

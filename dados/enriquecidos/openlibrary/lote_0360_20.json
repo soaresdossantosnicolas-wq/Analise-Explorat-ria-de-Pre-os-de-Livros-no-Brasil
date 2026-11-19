@@ -1,0 +1,300 @@
+{
+  "consultado_em": "2026-11-19T22:38:30.683323+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573266252%2CISBN%3A9788573266283%2CISBN%3A9788573266276%2CISBN%3A9788573266269%2CISBN%3A9788573266290%2CISBN%3A9788573266306%2CISBN%3A9788573266344%2CISBN%3A9788573266351%2CISBN%3A9788573266368%2CISBN%3A9788573266382%2CISBN%3A9788573266375%2CISBN%3A9788573266399%2CISBN%3A9788573266405%2CISBN%3A9788573266412%2CISBN%3A9788573266429%2CISBN%3A9788573266443%2CISBN%3A9788573266467%2CISBN%3A9788573266450%2CISBN%3A9788573266436%2CISBN%3A9788573266474&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573266290": {
+      "url": "http://openlibrary.org/books/OL44454327M/Tudo_(e_mais_um_pouco)",
+      "key": "/books/OL44454327M",
+      "title": "Tudo (e mais um pouco)",
+      "subtitle": "poesia reunida (1971-2016)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL5113710A/Chacal",
+          "name": "Chacal"
+        }
+      ],
+      "number_of_pages": 407,
+      "pagination": "407 pages",
+      "by_statement": "Chacal",
+      "identifiers": {
+        "isbn_10": [
+          "8573266295"
+        ],
+        "isbn_13": [
+          "9788573266290"
+        ],
+        "oclc": [
+          "956980843"
+        ],
+        "openlibrary": [
+          "OL44454327M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.13.H2 A6 2016"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2016",
+      "notes": "Includes bibliographical references (pages 381-391)."
+    },
+    "ISBN:9788573266382": {
+      "url": "http://openlibrary.org/books/OL58485705M/Armas_de_papel",
+      "key": "/books/OL58485705M",
+      "title": "Armas de papel",
+      "subtitle": "Graciliano Ramos, as Memórias do cárcere e o Partido Comunista Brasileiro",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL15229279A/Fabio_Cesar_Alves",
+          "name": "Fabio Cesar Alves"
+        }
+      ],
+      "number_of_pages": 333,
+      "pagination": "333 pages",
+      "by_statement": "Fabio Cesar Alves ; prefácio de Francisco Alambert",
+      "identifiers": {
+        "isbn_10": [
+          "8573266384"
+        ],
+        "isbn_13": [
+          "9788573266382"
+        ],
+        "lccn": [
+          "2016308506"
+        ],
+        "oclc": [
+          "962442512"
+        ],
+        "openlibrary": [
+          "OL58485705M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.R254 M3632 2016"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "FAPESP"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2016",
+      "subjects": [
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Political and social views",
+          "url": "https://openlibrary.org/subjects/political_and_social_views"
+        },
+        {
+          "name": "Politics and literature",
+          "url": "https://openlibrary.org/subjects/politics_and_literature"
+        },
+        {
+          "name": "Partido Comunista Brasileiro",
+          "url": "https://openlibrary.org/subjects/partido_comunista_brasileiro"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Graciliano Ramos (1892-1953)",
+          "url": "https://openlibrary.org/subjects/person:graciliano_ramos_(1892-1953)"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 317-329)."
+    },
+    "ISBN:9788573266375": {
+      "url": "http://openlibrary.org/books/OL62504499M/Uma_História_Desagradável",
+      "key": "/books/OL62504499M",
+      "title": "Uma História Desagradável",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "number_of_pages": 112,
+      "weight": "140 grams",
+      "identifiers": {
+        "isbn_10": [
+          "8573266376"
+        ],
+        "isbn_13": [
+          "9788573266375"
+        ],
+        "openlibrary": [
+          "OL62504499M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "1 janeiro 2016",
+      "subjects": [
+        {
+          "name": "Literatura russa",
+          "url": "https://openlibrary.org/subjects/literatura_russa"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15250040-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15250040-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15250040-L.jpg"
+      }
+    },
+    "ISBN:9788573266429": {
+      "url": "http://openlibrary.org/books/OL61341104M/Sul",
+      "key": "/books/OL61341104M",
+      "title": "Sul",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL11659713A/Veronica_Stigger",
+          "name": "Veronica Stigger"
+        }
+      ],
+      "number_of_pages": 91,
+      "pagination": "91 pages",
+      "by_statement": "Veronica Stigger",
+      "identifiers": {
+        "isbn_10": [
+          "8573266422"
+        ],
+        "isbn_13": [
+          "9788573266429"
+        ],
+        "lccn": [
+          "2016321534"
+        ],
+        "oclc": [
+          "971148467"
+        ],
+        "openlibrary": [
+          "OL61341104M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.429.T54 S85 2016"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2016",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "2035",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mancha",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "O coração dos homens",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A verdade sobre o coração dos homens",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sobre a autora.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573266467": {
+      "url": "http://openlibrary.org/books/OL47355819M/Crime_e_Castigo",
+      "key": "/books/OL47355819M",
+      "title": "Crime e Castigo",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "number_of_pages": 592,
+      "weight": "840 grams",
+      "identifiers": {
+        "isbn_10": [
+          "8573266465"
+        ],
+        "isbn_13": [
+          "978-8573266467"
+        ],
+        "openlibrary": [
+          "OL47355819M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Brazil"
+        }
+      ],
+      "publish_date": "2016",
+      "notes": "Fiódor Mikháilovitch Dostoiévski nasceu em Moscou em 1821, e estreou na literatura com o romance Gente pobre, em 1846, ao qual se seguiram O duplo (1846) e Noites brancas (1847), entre outros. Após ser preso e condenado à morte pelo regime tsarista em 1849, teve sua pena comutada para quatro anos de trabalhos forçados na Sibéria, experiência retratada em Escritos da casa morta, livro que começou a ser publicado em 1860, um ano antes de Humilhados e ofendidos. Após esse período, escreve Memórias do subsolo (1864), Um jogador (1867), O eterno marido (1870) e uma sequência de grandes romances, Crime e castigo (1866), O idiota (1869), Os demônios (1872) e O adolescente (1875), culminando com a publicação de Os irmãos Karamázov em 1880. De 1873 até o ano de sua morte publicou ainda o Diário de um escritor, reunindo peças jornalísticas e de ficção. Reconhecido como um dos maiores autores de todos os tempos, Dostoiévski morreu em São Petersburgo, em 1881.\r\n\r\nPaulo Bezerra estudou língua e literatura russa na Universidade Lomonóssov, em Moscou, e foi professor de teoria da literatura na UERJ e de língua e literatura russa na USP. Livre-docente em Letras, leciona atualmente na Universidade Federal Fluminense. Já verteu diretamente do russo mais de quarenta obras nos campos da filosofia, psicologia, teoria literária e ficção, destacando-se suas traduções de Crime e castigo, O idiota, Os demônios, O adolescente e Os irmãos Karamázov, de Dostoiévski. Em 2012 recebeu do governo da Rússia a Medalha Púchkin, por sua contribuição na divulgação da cultura russa no exterior.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15249723-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15249723-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15249723-L.jpg"
+      }
+    }
+  }
+}

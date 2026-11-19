@@ -1,0 +1,990 @@
+{
+  "consultado_em": "2026-11-19T22:37:00.558723+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573262773%2CISBN%3A9788573262803%2CISBN%3A9788573262810%2CISBN%3A9788573262834%2CISBN%3A9788573262865%2CISBN%3A9788573262889%2CISBN%3A9788573262919%2CISBN%3A9788573262926%2CISBN%3A9788573262933%2CISBN%3A9788573262971%2CISBN%3A9788573262988%2CISBN%3A9788573263008%2CISBN%3A9788573263015%2CISBN%3A9788573263022%2CISBN%3A9788573263039%2CISBN%3A9788573263046%2CISBN%3A9788573263053%2CISBN%3A9788573263091%2CISBN%3A9788573263107%2CISBN%3A9798573263113&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573262773": {
+      "url": "http://openlibrary.org/books/OL13410316M/Politizar_as_Novas_Tecnologias",
+      "key": "/books/OL13410316M",
+      "title": "Politizar as Novas Tecnologias",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL661618A/Laymert_Garcia_dos_Santos",
+          "name": "Laymert Garcia dos Santos"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "857326277X"
+        ],
+        "isbn_13": [
+          "9788573262773"
+        ],
+        "lccn": [
+          "2005340417"
+        ],
+        "openlibrary": [
+          "OL13410316M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "T14.5 .S255 2003"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2003",
+      "subjects": [
+        {
+          "name": "Technology",
+          "url": "https://openlibrary.org/subjects/technology"
+        },
+        {
+          "name": "Social aspects",
+          "url": "https://openlibrary.org/subjects/social_aspects"
+        },
+        {
+          "name": "Technological innovations",
+          "url": "https://openlibrary.org/subjects/technological_innovations"
+        }
+      ]
+    },
+    "ISBN:9788573262803": {
+      "url": "http://openlibrary.org/books/OL13410317M/Trabalho_em_Grupo_e_Sociabilidade_Privada",
+      "key": "/books/OL13410317M",
+      "title": "Trabalho em Grupo e Sociabilidade Privada",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL6178211A/Leonardo_Mello_e._Silva",
+          "name": "Leonardo Mello e. Silva"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "857326280X"
+        ],
+        "isbn_13": [
+          "9788573262803"
+        ],
+        "lccn": [
+          "2006338326"
+        ],
+        "oclc": [
+          "56949368"
+        ],
+        "openlibrary": [
+          "OL13410317M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HD6955 .S55 2004",
+          "HD6955 .M45 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Sociological aspects",
+          "url": "https://openlibrary.org/subjects/sociological_aspects"
+        },
+        {
+          "name": "Industrial relations",
+          "url": "https://openlibrary.org/subjects/industrial_relations"
+        },
+        {
+          "name": "Work",
+          "url": "https://openlibrary.org/subjects/work"
+        },
+        {
+          "name": "Industrial sociology",
+          "url": "https://openlibrary.org/subjects/industrial_sociology"
+        },
+        {
+          "name": "Social aspects",
+          "url": "https://openlibrary.org/subjects/social_aspects"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ]
+    },
+    "ISBN:9788573262810": {
+      "url": "http://openlibrary.org/books/OL13410318M/Luta_por_Reconhecimento",
+      "key": "/books/OL13410318M",
+      "title": "Luta por Reconhecimento",
+      "subtitle": "a Gramática Moral dos Conflitos Sociais",
+      "identifiers": {
+        "isbn_10": [
+          "8573262818"
+        ],
+        "isbn_13": [
+          "9788573262810"
+        ],
+        "oclc": [
+          "664783699"
+        ],
+        "openlibrary": [
+          "OL13410318M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2003"
+    },
+    "ISBN:9788573262834": {
+      "url": "http://openlibrary.org/books/OL9163720M/Eterno_Marido_O",
+      "key": "/books/OL9163720M",
+      "title": "Eterno Marido, O",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "109568"
+        ],
+        "goodreads": [
+          "2659063"
+        ],
+        "isbn_10": [
+          "8573262834"
+        ],
+        "isbn_13": [
+          "9788573262834"
+        ],
+        "openlibrary": [
+          "OL9163720M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2003",
+      "subjects": [
+        {
+          "name": "Dostoyevsky, Fyodor, 1821-1881 -- Translations into English",
+          "url": "https://openlibrary.org/subjects/dostoyevsky,_fyodor,_1821-1881_--_translations_into_english"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        },
+        {
+          "name": "Translations into English",
+          "url": "https://openlibrary.org/subjects/translations_into_english"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Russia -- Social life and customs -- Fiction",
+          "url": "https://openlibrary.org/subjects/russia_--_social_life_and_customs_--_fiction"
+        },
+        {
+          "name": "Man-woman relationships, fiction",
+          "url": "https://openlibrary.org/subjects/man-woman_relationships,_fiction"
+        },
+        {
+          "name": "Continental european fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/continental_european_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Slavic philology",
+          "url": "https://openlibrary.org/subjects/slavic_philology"
+        },
+        {
+          "name": "Roman russe",
+          "url": "https://openlibrary.org/subjects/roman_russe"
+        },
+        {
+          "name": "Traductions françaises",
+          "url": "https://openlibrary.org/subjects/traductions_françaises"
+        },
+        {
+          "name": "Men",
+          "url": "https://openlibrary.org/subjects/men"
+        }
+      ]
+    },
+    "ISBN:9788573262865": {
+      "url": "http://openlibrary.org/books/OL13410319M/Histórias_da_Pré-História",
+      "key": "/books/OL13410319M",
+      "title": "Histórias da Pré-História",
+      "identifiers": {
+        "isbn_10": [
+          "8573262869"
+        ],
+        "isbn_13": [
+          "9788573262865"
+        ],
+        "openlibrary": [
+          "OL13410319M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2003"
+    },
+    "ISBN:9788573262889": {
+      "url": "http://openlibrary.org/books/OL13410320M/Caminhos_Cruzados",
+      "key": "/books/OL13410320M",
+      "title": "Caminhos Cruzados",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL6469978A/Nadya_Araujo_Guimarães",
+          "name": "Nadya Araujo Guimarães"
+        }
+      ],
+      "number_of_pages": 405,
+      "identifiers": {
+        "isbn_10": [
+          "8573262885"
+        ],
+        "isbn_13": [
+          "9788573262889"
+        ],
+        "lccn": [
+          "2006336174"
+        ],
+        "oclc": [
+          "56949367"
+        ],
+        "openlibrary": [
+          "OL13410320M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HD6957.B6 G84 2004",
+          "HD6957.B6 G85 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Social aspects",
+          "url": "https://openlibrary.org/subjects/social_aspects"
+        },
+        {
+          "name": "Social aspects of Work",
+          "url": "https://openlibrary.org/subjects/social_aspects_of_work"
+        },
+        {
+          "name": "Work",
+          "url": "https://openlibrary.org/subjects/work"
+        },
+        {
+          "name": "Petroleum chemicals industry",
+          "url": "https://openlibrary.org/subjects/petroleum_chemicals_industry"
+        },
+        {
+          "name": "Employees",
+          "url": "https://openlibrary.org/subjects/employees"
+        },
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ]
+    },
+    "ISBN:9788573262919": {
+      "url": "http://openlibrary.org/books/OL9163723M/Fausto_uma_Tragédia",
+      "key": "/books/OL9163723M",
+      "title": "Fausto: uma Tragédia",
+      "subtitle": "Primeira Parte",
+      "identifiers": {
+        "librarything": [
+          "3079461"
+        ],
+        "isbn_10": [
+          "8573262915"
+        ],
+        "isbn_13": [
+          "9788573262919"
+        ],
+        "openlibrary": [
+          "OL9163723M"
+        ]
+      }
+    },
+    "ISBN:9788573262926": {
+      "url": "http://openlibrary.org/books/OL13410321M/Mito_da_Pintura_O",
+      "key": "/books/OL13410321M",
+      "title": "Mito da Pintura, O",
+      "identifiers": {
+        "isbn_10": [
+          "8573262923"
+        ],
+        "isbn_13": [
+          "9788573262926"
+        ],
+        "oclc": [
+          "57025204"
+        ],
+        "openlibrary": [
+          "OL13410321M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004"
+    },
+    "ISBN:9788573262933": {
+      "url": "http://openlibrary.org/books/OL13410327M/Pintura_Textos_Essenciais",
+      "key": "/books/OL13410327M",
+      "title": "Pintura: Textos Essenciais",
+      "subtitle": "a Idéia e as Partes da Pintura - Vol. 3",
+      "identifiers": {
+        "isbn_10": [
+          "8573262931"
+        ],
+        "isbn_13": [
+          "9788573262933"
+        ],
+        "oclc": [
+          "57025204"
+        ],
+        "openlibrary": [
+          "OL13410327M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004"
+    },
+    "ISBN:9788573262971": {
+      "url": "http://openlibrary.org/books/OL13410324M/Domingos_Caldas_Barbosa",
+      "key": "/books/OL13410324M",
+      "title": "Domingos Caldas Barbosa",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 235,
+      "identifiers": {
+        "isbn_10": [
+          "8573262974"
+        ],
+        "isbn_13": [
+          "9788573262971"
+        ],
+        "lccn": [
+          "2006336610"
+        ],
+        "oclc": [
+          "73829242"
+        ],
+        "openlibrary": [
+          "OL13410324M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9696.C3 Z85 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        }
+      ]
+    },
+    "ISBN:9788573263008": {
+      "url": "http://openlibrary.org/books/OL13410326M/Galáxias",
+      "key": "/books/OL13410326M",
+      "title": "Galáxias",
+      "subtitle": "Inclui o CD Isto Não é um Livro de Viagem",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL6116882A/HAROLDO_DE_CAMPOS",
+          "name": "HAROLDO DE CAMPOS"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573263008"
+        ],
+        "isbn_13": [
+          "9788573263008"
+        ],
+        "lccn": [
+          "2006338232"
+        ],
+        "openlibrary": [
+          "OL13410326M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.C2448 G34 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Poetry",
+          "url": "https://openlibrary.org/subjects/poetry"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13793103-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13793103-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13793103-L.jpg"
+      }
+    },
+    "ISBN:9788573263015": {
+      "url": "http://openlibrary.org/books/OL9163724M/Eu_Te_Darei_o_Céu_e_Outras_Promessas_dos_Anos_60",
+      "key": "/books/OL9163724M",
+      "title": "Eu Te Darei o Céu e Outras Promessas dos Anos 60",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1442689A/Ivana_de_Arruda_Leite",
+          "name": "Ivana de Arruda Leite"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "873688"
+        ],
+        "isbn_10": [
+          "8573263016"
+        ],
+        "isbn_13": [
+          "9788573263015"
+        ],
+        "oclc": [
+          "57666628"
+        ],
+        "openlibrary": [
+          "OL9163724M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.22.E3168 E9 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Nineteen sixties",
+          "url": "https://openlibrary.org/subjects/nineteen_sixties"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        }
+      ]
+    },
+    "ISBN:9788573263039": {
+      "url": "http://openlibrary.org/books/OL13410328M/Pintura_Textos_Essenciais",
+      "key": "/books/OL13410328M",
+      "title": "Pintura: Textos Essenciais",
+      "subtitle": "o Belo - Vol. 4",
+      "identifiers": {
+        "librarything": [
+          "5414583"
+        ],
+        "isbn_10": [
+          "8573263032"
+        ],
+        "isbn_13": [
+          "9788573263039"
+        ],
+        "oclc": [
+          "57025204"
+        ],
+        "openlibrary": [
+          "OL13410328M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004"
+    },
+    "ISBN:9788573263046": {
+      "url": "http://openlibrary.org/books/OL13410329M/Não_Falei",
+      "key": "/books/OL13410329M",
+      "title": "Não Falei",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4945250A/Beatriz_Bracher",
+          "name": "Beatriz Bracher"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "4038039"
+        ],
+        "isbn_10": [
+          "8573263040"
+        ],
+        "isbn_13": [
+          "9788573263046"
+        ],
+        "oclc": [
+          "57584331"
+        ],
+        "openlibrary": [
+          "OL13410329M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5281539-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5281539-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5281539-L.jpg"
+      }
+    },
+    "ISBN:9788573263053": {
+      "url": "http://openlibrary.org/books/OL26442856M/Os_demônios",
+      "key": "/books/OL26442856M",
+      "title": "Os demônios",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "number_of_pages": 704,
+      "identifiers": {
+        "google": [
+          "yqbp7Kds6aYC"
+        ],
+        "goodreads": [
+          "13452160"
+        ],
+        "isbn_10": [
+          "8573263059"
+        ],
+        "isbn_13": [
+          "9788573263053"
+        ],
+        "oclc": [
+          "422874978"
+        ],
+        "openlibrary": [
+          "OL26442856M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, Brazil"
+        }
+      ],
+      "publish_date": "2005",
+      "subjects": [
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Russian fiction",
+          "url": "https://openlibrary.org/subjects/russian_fiction"
+        },
+        {
+          "name": "Politics in fiction",
+          "url": "https://openlibrary.org/subjects/politics_in_fiction"
+        },
+        {
+          "name": "Nihilism",
+          "url": "https://openlibrary.org/subjects/nihilism"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        },
+        {
+          "name": "Terrorists",
+          "url": "https://openlibrary.org/subjects/terrorists"
+        },
+        {
+          "name": "Manners and customs",
+          "url": "https://openlibrary.org/subjects/manners_and_customs"
+        },
+        {
+          "name": "Romans",
+          "url": "https://openlibrary.org/subjects/romans"
+        },
+        {
+          "name": "Fiction, political",
+          "url": "https://openlibrary.org/subjects/fiction,_political"
+        },
+        {
+          "name": "Terrorists, fiction",
+          "url": "https://openlibrary.org/subjects/terrorists,_fiction"
+        },
+        {
+          "name": "Russia (federation), fiction",
+          "url": "https://openlibrary.org/subjects/russia_(federation),_fiction"
+        },
+        {
+          "name": "Continental european fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/continental_european_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Slavic philology",
+          "url": "https://openlibrary.org/subjects/slavic_philology"
+        },
+        {
+          "name": "Terrorism",
+          "url": "https://openlibrary.org/subjects/terrorism"
+        },
+        {
+          "name": "Nihilismo",
+          "url": "https://openlibrary.org/subjects/nihilismo"
+        },
+        {
+          "name": "Terrorismo",
+          "url": "https://openlibrary.org/subjects/terrorismo"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Vido social y costumbres",
+          "url": "https://openlibrary.org/subjects/vido_social_y_costumbres"
+        },
+        {
+          "name": "Fiction, general",
+          "url": "https://openlibrary.org/subjects/fiction,_general"
+        },
+        {
+          "name": "Nihilism--fiction",
+          "url": "https://openlibrary.org/subjects/nihilism--fiction"
+        },
+        {
+          "name": "Terrorists--russia--fiction",
+          "url": "https://openlibrary.org/subjects/terrorists--russia--fiction"
+        },
+        {
+          "name": "Pg3325 .b6 2008",
+          "url": "https://openlibrary.org/subjects/pg3325_.b6_2008"
+        },
+        {
+          "name": "891.733",
+          "url": "https://openlibrary.org/subjects/891.733"
+        },
+        {
+          "name": "Political science",
+          "url": "https://openlibrary.org/subjects/political_science"
+        },
+        {
+          "name": "Fiction, psychological",
+          "url": "https://openlibrary.org/subjects/fiction,_psychological"
+        },
+        {
+          "name": "Drama, history and criticism",
+          "url": "https://openlibrary.org/subjects/drama,_history_and_criticism"
+        },
+        {
+          "name": "Long Now Manual for Civilization",
+          "url": "https://openlibrary.org/subjects/long_now_manual_for_civilization"
+        },
+        {
+          "name": "Psychology",
+          "url": "https://openlibrary.org/subjects/psychology"
+        },
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Russia",
+          "url": "https://openlibrary.org/subjects/place:russia"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "19th century",
+          "url": "https://openlibrary.org/subjects/time:19th_century"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "BEFORE DESCRIBING THE EXTRAORDINARY EVENTS WHICH took place so recently in our town, hitherto not remarkable for anything in particular, I find it necessary, since I am not a skilled writer, to go back a little and begin with certain biographical details concerning our talented and greatly esteemed Stepan Trofimovich Verkhovensky.",
+          "comment": "",
+          "first_sentence": true
+        }
+      ],
+      "links": [
+        {
+          "title": "Demons (Dostoevsky novel) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)"
+        },
+        {
+          "title": "VIAF ID: 179962552 (Work)",
+          "url": "http://viaf.org/viaf/179962552"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8161797-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8161797-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8161797-L.jpg"
+      }
+    },
+    "ISBN:9788573263091": {
+      "url": "http://openlibrary.org/books/OL13410330M/Dimensão_da_Noite_A",
+      "key": "/books/OL13410330M",
+      "title": "Dimensão da Noite, A",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1057919A/João_Luiz_Lafetá",
+          "name": "João Luiz Lafetá"
+        }
+      ],
+      "number_of_pages": 573,
+      "identifiers": {
+        "isbn_10": [
+          "8573263091"
+        ],
+        "isbn_13": [
+          "9788573263091"
+        ],
+        "lccn": [
+          "2006338898"
+        ],
+        "oclc": [
+          "59139101",
+          "123344153"
+        ],
+        "openlibrary": [
+          "OL13410330M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9514 .L34 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Literatura brasileira (crítica e interpretação)",
+          "url": "https://openlibrary.org/subjects/literatura_brasileira_(crítica_e_interpretação)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ]
+    },
+    "ISBN:9788573263107": {
+      "url": "http://openlibrary.org/books/OL57653298M/Игрокъ",
+      "key": "/books/OL57653298M",
+      "title": "Игрокъ",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL22242A/Fiódor_Dostoievski",
+          "name": "Fiódor Dostoievski"
+        }
+      ],
+      "number_of_pages": 232,
+      "identifiers": {
+        "isbn_13": [
+          "9788573263107"
+        ],
+        "openlibrary": [
+          "OL57653298M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Brazil"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "Translations into English",
+          "url": "https://openlibrary.org/subjects/translations_into_english"
+        },
+        {
+          "name": "Continental european fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/continental_european_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Gamblers",
+          "url": "https://openlibrary.org/subjects/gamblers"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Compulsive gamblers",
+          "url": "https://openlibrary.org/subjects/compulsive_gamblers"
+        },
+        {
+          "name": "Fiction, action & adventure",
+          "url": "https://openlibrary.org/subjects/fiction,_action_&_adventure"
+        },
+        {
+          "name": "Fiction, general",
+          "url": "https://openlibrary.org/subjects/fiction,_general"
+        },
+        {
+          "name": "Germany, fiction",
+          "url": "https://openlibrary.org/subjects/germany,_fiction"
+        },
+        {
+          "name": "Psychological fiction",
+          "url": "https://openlibrary.org/subjects/psychological_fiction"
+        },
+        {
+          "name": "Gamblers -- Fiction",
+          "url": "https://openlibrary.org/subjects/gamblers_--_fiction"
+        },
+        {
+          "name": "Gambling -- Fiction",
+          "url": "https://openlibrary.org/subjects/gambling_--_fiction"
+        },
+        {
+          "name": "Families -- Fiction",
+          "url": "https://openlibrary.org/subjects/families_--_fiction"
+        },
+        {
+          "name": "Russians -- Germany -- Fiction",
+          "url": "https://openlibrary.org/subjects/russians_--_germany_--_fiction"
+        },
+        {
+          "name": "Chance -- Fiction",
+          "url": "https://openlibrary.org/subjects/chance_--_fiction"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        },
+        {
+          "name": "Manners and customs",
+          "url": "https://openlibrary.org/subjects/manners_and_customs"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Soviet Union",
+          "url": "https://openlibrary.org/subjects/place:soviet_union"
+        },
+        {
+          "name": "Russia",
+          "url": "https://openlibrary.org/subjects/place:russia"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "19th century",
+          "url": "https://openlibrary.org/subjects/time:19th_century"
+        }
+      ],
+      "links": [
+        {
+          "title": "The Gambler-Ebookzy",
+          "url": "https://ebookzy.com/the-gambler/"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14840673-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14840673-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14840673-L.jpg"
+      }
+    }
+  }
+}

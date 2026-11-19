@@ -1,0 +1,1117 @@
+{
+  "consultado_em": "2026-11-19T22:36:42.742859+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573261264%2CISBN%3A9788573261325%2CISBN%3A9788573261332%2CISBN%3A9788573261349%2CISBN%3A9788573261370%2CISBN%3A9788573261394%2CISBN%3A9788573261448%2CISBN%3A9788573261455%2CISBN%3A9788573261523%2CISBN%3A9788573261592%2CISBN%3A9788573261608%2CISBN%3A9788573261639%2CISBN%3A9788573261684%2CISBN%3A9788573261691%2CISBN%3A9788573261752%2CISBN%3A9788573261769%2CISBN%3A9788573261776%2CISBN%3A9788573261783%2CISBN%3A9788573261790%2CISBN%3A9788573261806&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573261264": {
+      "url": "https://openlibrary.org/books/OL13410289M/Cibercultura",
+      "key": "/books/OL13410289M",
+      "title": "Cibercultura",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL5068546A/Pierre_Lévy",
+          "name": "Pierre Lévy"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6739195"
+        ],
+        "librarything": [
+          "709467"
+        ],
+        "isbn_10": [
+          "8573261269"
+        ],
+        "isbn_13": [
+          "9788573261264"
+        ],
+        "openlibrary": [
+          "OL13410289M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "1999",
+      "subjects": [
+        {
+          "name": "Tecnologia da informação (aspectos sociais)",
+          "url": "https://openlibrary.org/subjects/tecnologia_da_informação_(aspectos_sociais)"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8628425-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8628425-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8628425-L.jpg"
+      }
+    },
+    "ISBN:9788573261325": {
+      "url": "https://openlibrary.org/books/OL52513188M/Estrutura_urbana_e_ecologia_humana",
+      "key": "/books/OL52513188M",
+      "title": "Estrutura urbana e ecologia humana",
+      "subtitle": "a escola sociológica de Chicago : (1915-1940)",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL13886529A/Mário_A._Eufrasio",
+          "name": "Mário A. Eufrasio"
+        }
+      ],
+      "number_of_pages": 303,
+      "pagination": "303 pages",
+      "by_statement": "Mário A. Eufrasio",
+      "identifiers": {
+        "isbn_10": [
+          "8573261323"
+        ],
+        "oclc": [
+          "44864259"
+        ],
+        "openlibrary": [
+          "OL52513188M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "GF23.G7 E83 1999"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        },
+        {
+          "name": "Curso de Pós-Graduação em Sociologia, Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1999",
+      "subjects": [
+        {
+          "name": "Human ecology",
+          "url": "https://openlibrary.org/subjects/human_ecology"
+        },
+        {
+          "name": "Graphic methods",
+          "url": "https://openlibrary.org/subjects/graphic_methods"
+        }
+      ]
+    },
+    "ISBN:9788573261332": {
+      "url": "https://openlibrary.org/books/OL13410291M/Dama_de_Espadas",
+      "key": "/books/OL13410291M",
+      "title": "Dama de Espadas",
+      "subtitle": "Prosa e Poemas, A",
+      "identifiers": {
+        "librarything": [
+          "4481152"
+        ],
+        "goodreads": [
+          "2186983"
+        ],
+        "isbn_10": [
+          "8573261331"
+        ],
+        "isbn_13": [
+          "9788573261332"
+        ],
+        "oclc": [
+          "55936562"
+        ],
+        "openlibrary": [
+          "OL13410291M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "1999"
+    },
+    "ISBN:9788573261349": {
+      "url": "https://openlibrary.org/books/OL6816143M/Ciladas_da_diferença",
+      "key": "/books/OL6816143M",
+      "title": "Ciladas da diferença",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL203769A/Antônio_Flávio_de_Oliveira_Pierucci",
+          "name": "Antônio Flávio de Oliveira Pierucci"
+        }
+      ],
+      "number_of_pages": 222,
+      "pagination": "222 p. ;",
+      "by_statement": "Antônio Flávio Pierucci.",
+      "identifiers": {
+        "goodreads": [
+          "1765145"
+        ],
+        "isbn_10": [
+          "857326134X"
+        ],
+        "lccn": [
+          "00288068"
+        ],
+        "oclc": [
+          "42416707"
+        ],
+        "openlibrary": [
+          "OL6816143M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HM821 .P54 1999",
+          "HM136 .P64 1999",
+          "HM136"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Curso de Pós-Graduação em Sociologia, Universidade de São Paulo"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1999",
+      "subjects": [
+        {
+          "name": "Differentiation (Sociology)",
+          "url": "https://openlibrary.org/subjects/differentiation_(sociology)"
+        },
+        {
+          "name": "Sociology",
+          "url": "https://openlibrary.org/subjects/sociology"
+        },
+        {
+          "name": "Sociologia",
+          "url": "https://openlibrary.org/subjects/sociologia"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 202-221).",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4533859-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4533859-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4533859-L.jpg"
+      }
+    },
+    "ISBN:9788573261394": {
+      "url": "https://openlibrary.org/books/OL143816M/Racismo_e_anti-racismo_no_Brasil",
+      "key": "/books/OL143816M",
+      "title": "Racismo e anti-racismo no Brasil",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93301A/Antônio_Sérgio_A._Guimarães",
+          "name": "Antônio Sérgio A. Guimarães"
+        }
+      ],
+      "number_of_pages": 238,
+      "pagination": "238 p. ;",
+      "by_statement": "Antonio Sérgio Alfredo Guimarães.",
+      "identifiers": {
+        "librarything": [
+          "2774217"
+        ],
+        "isbn_10": [
+          "8573261390"
+        ],
+        "lccn": [
+          "99887915"
+        ],
+        "oclc": [
+          "52757171"
+        ],
+        "openlibrary": [
+          "OL143816M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F2659.A1 G83 1999"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Fundação de Apoio à Universidade de São Paulo"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1999",
+      "subjects": [
+        {
+          "name": "Race relations",
+          "url": "https://openlibrary.org/subjects/race_relations"
+        },
+        {
+          "name": "Racism",
+          "url": "https://openlibrary.org/subjects/racism"
+        },
+        {
+          "name": "Blacks",
+          "url": "https://openlibrary.org/subjects/blacks"
+        },
+        {
+          "name": "Race discrimination",
+          "url": "https://openlibrary.org/subjects/race_discrimination"
+        },
+        {
+          "name": "Racismo (sociologia)",
+          "url": "https://openlibrary.org/subjects/racismo_(sociologia)"
+        },
+        {
+          "name": "Negros (brasil)",
+          "url": "https://openlibrary.org/subjects/negros_(brasil)"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 225-238)."
+    },
+    "ISBN:9788573261448": {
+      "url": "https://openlibrary.org/books/OL9163690M/Dama_do_Cachorrinho_e_Outros_Contos_A",
+      "key": "/books/OL9163690M",
+      "title": "Dama do Cachorrinho e Outros Contos, A",
+      "identifiers": {
+        "librarything": [
+          "2205"
+        ],
+        "goodreads": [
+          "86811"
+        ],
+        "isbn_10": [
+          "8573261447"
+        ],
+        "isbn_13": [
+          "9788573261448"
+        ],
+        "oclc": [
+          "46743629"
+        ],
+        "openlibrary": [
+          "OL9163690M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "1999"
+    },
+    "ISBN:9788573261455": {
+      "url": "https://openlibrary.org/books/OL141704M/A_noite_dos_cristais",
+      "key": "/books/OL141704M",
+      "title": "A noite dos cristais",
+      "subtitle": "novela",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93400A/Luís_Carlos_de_Santana",
+          "name": "Luís Carlos de Santana"
+        }
+      ],
+      "number_of_pages": 127,
+      "pagination": "127 p. :",
+      "by_statement": "Luís Fulano de Tal.",
+      "identifiers": {
+        "isbn_10": [
+          "8573261455"
+        ],
+        "lccn": [
+          "99885207"
+        ],
+        "oclc": [
+          "52727816"
+        ],
+        "openlibrary": [
+          "OL141704M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.29.A4843 N65 1999",
+          "PQ9698.29.A4843 N6 1999"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1999",
+      "subjects": [
+        {
+          "name": "Slavery",
+          "url": "https://openlibrary.org/subjects/slavery"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 121-126).",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4920943-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4920943-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4920943-L.jpg"
+      }
+    },
+    "ISBN:9788573261523": {
+      "url": "https://openlibrary.org/books/OL13410293M/Ato_da_Leitura",
+      "key": "/books/OL13410293M",
+      "title": "Ato da Leitura",
+      "subtitle": "uma Teoria do Efeito Estético, O - Vol. 2",
+      "identifiers": {
+        "isbn_10": [
+          "8573261528"
+        ],
+        "isbn_13": [
+          "9788573261523"
+        ],
+        "openlibrary": [
+          "OL13410293M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "1999"
+    },
+    "ISBN:9788573261592": {
+      "url": "https://openlibrary.org/books/OL13410295M/Michael_Jordan",
+      "key": "/books/OL13410295M",
+      "title": "Michael Jordan",
+      "subtitle": "a História de um Campeão e o Mundo Que Ele Criou",
+      "identifiers": {
+        "goodreads": [
+          "448212"
+        ],
+        "isbn_10": [
+          "8573261595"
+        ],
+        "isbn_13": [
+          "9788573261592"
+        ],
+        "oclc": [
+          "55880233"
+        ],
+        "openlibrary": [
+          "OL13410295M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "1999"
+    },
+    "ISBN:9788573261608": {
+      "url": "https://openlibrary.org/books/OL9163692M/Poemas_1913-1956",
+      "key": "/books/OL9163692M",
+      "title": "Poemas 1913-1956",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL673748A/Bertolt_Brecht",
+          "name": "Bertolt Brecht"
+        }
+      ],
+      "number_of_pages": 360,
+      "identifiers": {
+        "librarything": [
+          "1557873"
+        ],
+        "isbn_10": [
+          "8573261609"
+        ],
+        "isbn_13": [
+          "9788573261608"
+        ],
+        "openlibrary": [
+          "OL9163692M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "January 1, 2009",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14559637-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14559637-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14559637-L.jpg"
+      }
+    },
+    "ISBN:9788573261639": {
+      "url": "https://openlibrary.org/books/OL143539M/Escritos_urbanos",
+      "key": "/books/OL143539M",
+      "title": "Escritos urbanos",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL94681A/Lúcio_Kowarick",
+          "name": "Lúcio Kowarick"
+        }
+      ],
+      "number_of_pages": 143,
+      "pagination": "143 p. :",
+      "by_statement": "Lúcio Kowarik ; fotofrafias de Tomás Rezende.",
+      "identifiers": {
+        "isbn_10": [
+          "8573261633"
+        ],
+        "lccn": [
+          "99887395"
+        ],
+        "oclc": [
+          "46895651"
+        ],
+        "openlibrary": [
+          "OL143539M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HN290.S33 K677 2000"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "Social movements",
+          "url": "https://openlibrary.org/subjects/social_movements"
+        },
+        {
+          "name": "Urban Sociology",
+          "url": "https://openlibrary.org/subjects/urban_sociology"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo (Brazil)",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_(brazil)"
+        },
+        {
+          "name": "São Paulo",
+          "url": "https://openlibrary.org/subjects/place:são_paulo"
+        },
+        {
+          "name": "Urban Sociology",
+          "url": "https://openlibrary.org/subjects/place:urban_sociology"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 137-143).",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13612962-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13612962-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13612962-L.jpg"
+      }
+    },
+    "ISBN:9788573261684": {
+      "url": "https://openlibrary.org/books/OL143540M/De_ponta-cabeça",
+      "key": "/books/OL143540M",
+      "title": "De ponta-cabeça",
+      "subtitle": "fim do milênio em 99 artigos de jornal",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL94682A/Otavio_Frias_Filho",
+          "name": "Otavio Frias Filho"
+        }
+      ],
+      "number_of_pages": 223,
+      "pagination": "223 p. ;",
+      "by_statement": "Otavio Frias Filho.",
+      "identifiers": {
+        "librarything": [
+          "4279718"
+        ],
+        "goodreads": [
+          "3847118"
+        ],
+        "isbn_10": [
+          "8573261684"
+        ],
+        "lccn": [
+          "99887396"
+        ],
+        "openlibrary": [
+          "OL143540M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PN5026.F75 A25 2000"
+        ],
+        "dewey_decimal_class": [
+          "869.4/42"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2000",
+      "notes": "Articles previously published in the Brazilian newspaper Folha de S. Paulo, between 1994 and 1999."
+    },
+    "ISBN:9788573261691": {
+      "url": "https://openlibrary.org/books/OL9163694M/Ao_Vencedor_as_Batatas",
+      "key": "/books/OL9163694M",
+      "title": "Ao Vencedor as Batatas",
+      "identifiers": {
+        "librarything": [
+          "505764"
+        ],
+        "isbn_10": [
+          "8573261692"
+        ],
+        "isbn_13": [
+          "9788573261691"
+        ],
+        "openlibrary": [
+          "OL9163694M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2000"
+    },
+    "ISBN:9788573261752": {
+      "url": "https://openlibrary.org/books/OL3978834M/A_trama_dos_tambores",
+      "key": "/books/OL3978834M",
+      "title": "A trama dos tambores",
+      "subtitle": "a música afro-pop de Salvador",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL517036A/Almerinda_Guerreiro",
+          "name": "Almerinda Guerreiro"
+        }
+      ],
+      "number_of_pages": 315,
+      "pagination": "315 p. :",
+      "by_statement": "Goli Guerreiro.",
+      "identifiers": {
+        "goodreads": [
+          "830148"
+        ],
+        "isbn_10": [
+          "8573261757"
+        ],
+        "lccn": [
+          "2001298168"
+        ],
+        "oclc": [
+          "47211456",
+          "48810463"
+        ],
+        "openlibrary": [
+          "OL3978834M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3487.B77 S254 2000"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Grupo Pão de Açúcar"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://openlibrary.org/subjects/place:salvador"
+        }
+      ],
+      "notes": "Includes discography (p. 295-301), bibliographical references (p. 303-309), and index.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "A cena musical afro-baina",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A invenção do ritmo",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "O ritmo e o mercado",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Carnaval : a festa dos ritmos",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A linguagem do samba-reggae.",
+          "pagenum": ""
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4348969-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4348969-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4348969-L.jpg"
+      }
+    },
+    "ISBN:9788573261769": {
+      "url": "https://openlibrary.org/books/OL3972424M/Meu_tio_Roseno_a_cavalo",
+      "key": "/books/OL3972424M",
+      "title": "Meu tio Roseno, a cavalo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL305040A/Wilson_Bueno",
+          "name": "Wilson Bueno"
+        }
+      ],
+      "number_of_pages": 85,
+      "pagination": "85 p. ;",
+      "by_statement": "Wilson Bueno.",
+      "identifiers": {
+        "goodreads": [
+          "4825632"
+        ],
+        "librarything": [
+          "6042179"
+        ],
+        "isbn_10": [
+          "8573261765"
+        ],
+        "lccn": [
+          "2001286050"
+        ],
+        "oclc": [
+          "45846771"
+        ],
+        "openlibrary": [
+          "OL3972424M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.12.U37 M48 2000"
+        ],
+        "dewey_decimal_class": [
+          "869.3/42"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2000"
+    },
+    "ISBN:9788573261776": {
+      "url": "https://openlibrary.org/books/OL9163698M/Mestre_na_Periferia_do_Capitalismo_Um",
+      "key": "/books/OL9163698M",
+      "title": "Mestre na Periferia do Capitalismo, Um",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL204202A/Roberto_Schwarz",
+          "name": "Roberto Schwarz"
+        }
+      ],
+      "number_of_pages": 250,
+      "identifiers": {
+        "librarything": [
+          "609734"
+        ],
+        "isbn_10": [
+          "8573261773"
+        ],
+        "isbn_13": [
+          "9788573261776"
+        ],
+        "oclc": [
+          "45787822"
+        ],
+        "openlibrary": [
+          "OL9163698M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "2000",
+      "subject_people": [
+        {
+          "name": "Machado de Assis (1839-1908)",
+          "url": "https://openlibrary.org/subjects/person:machado_de_assis_(1839-1908)"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4920737-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4920737-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4920737-L.jpg"
+      }
+    },
+    "ISBN:9788573261783": {
+      "url": "https://openlibrary.org/books/OL3977967M/A_música_popular_no_romance_brasileiro",
+      "key": "/books/OL3977967M",
+      "title": "A música popular no romance brasileiro",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "pagination": "v. <1   > :",
+      "by_statement": "José Ramos Tinhorão.",
+      "identifiers": {
+        "goodreads": [
+          "70813"
+        ],
+        "librarything": [
+          "4864721"
+        ],
+        "isbn_10": [
+          "8573261781"
+        ],
+        "lccn": [
+          "2001297277"
+        ],
+        "openlibrary": [
+          "OL3977967M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9607.M87 T56 2000"
+        ],
+        "dewey_decimal_class": [
+          "869.3/009357"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Popular music in literature",
+          "url": "https://openlibrary.org/subjects/popular_music_in_literature"
+        },
+        {
+          "name": "Musical fiction",
+          "url": "https://openlibrary.org/subjects/musical_fiction"
+        },
+        {
+          "name": "Brazilian fiction",
+          "url": "https://openlibrary.org/subjects/brazilian_fiction"
+        },
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "Romance fiction",
+          "url": "https://openlibrary.org/subjects/romance_fiction"
+        },
+        {
+          "name": "Music and literature",
+          "url": "https://openlibrary.org/subjects/music_and_literature"
+        },
+        {
+          "name": "Musica",
+          "url": "https://openlibrary.org/subjects/musica"
+        },
+        {
+          "name": "Literatura Brasileira (Historia E Critica)",
+          "url": "https://openlibrary.org/subjects/literatura_brasileira_(historia_e_critica)"
+        },
+        {
+          "name": "Musica E Literatura",
+          "url": "https://openlibrary.org/subjects/musica_e_literatura"
+        },
+        {
+          "name": "Musica Popular (Brasil)",
+          "url": "https://openlibrary.org/subjects/musica_popular_(brasil)"
+        },
+        {
+          "name": "Romance Brasileiro",
+          "url": "https://openlibrary.org/subjects/romance_brasileiro"
+        },
+        {
+          "name": "Love stories",
+          "url": "https://openlibrary.org/subjects/love_stories"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 1. Séculos XVIII e XIX",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573261790": {
+      "url": "https://openlibrary.org/books/OL1362497M/A_música_popular_no_romance_brasileiro",
+      "key": "/books/OL1362497M",
+      "title": "A música popular no romance brasileiro",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "pagination": "3 v. :",
+      "by_statement": "José Ramos Tinhorão.",
+      "identifiers": {
+        "goodreads": [
+          "4333482"
+        ],
+        "isbn_10": [
+          "858517045X",
+          "857326179X",
+          "8573262303"
+        ],
+        "lccn": [
+          "92831150"
+        ],
+        "oclc": [
+          "25825910",
+          "46485153"
+        ],
+        "openlibrary": [
+          "OL1362497M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9607.M87 T56 1992",
+          "ML3487.B7 T52 1992",
+          "ML3487.B7 T52 2000"
+        ],
+        "dewey_decimal_class": [
+          "781.64/0981"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Oficina de Libros"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Belo Horizonte"
+        }
+      ],
+      "publish_date": "1992",
+      "subjects": [
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Popular music in literature",
+          "url": "https://openlibrary.org/subjects/popular_music_in_literature"
+        },
+        {
+          "name": "Musical fiction",
+          "url": "https://openlibrary.org/subjects/musical_fiction"
+        },
+        {
+          "name": "Brazilian fiction",
+          "url": "https://openlibrary.org/subjects/brazilian_fiction"
+        },
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "Romance fiction",
+          "url": "https://openlibrary.org/subjects/romance_fiction"
+        },
+        {
+          "name": "Music and literature",
+          "url": "https://openlibrary.org/subjects/music_and_literature"
+        },
+        {
+          "name": "Musica",
+          "url": "https://openlibrary.org/subjects/musica"
+        },
+        {
+          "name": "Literatura Brasileira (Historia E Critica)",
+          "url": "https://openlibrary.org/subjects/literatura_brasileira_(historia_e_critica)"
+        },
+        {
+          "name": "Musica E Literatura",
+          "url": "https://openlibrary.org/subjects/musica_e_literatura"
+        },
+        {
+          "name": "Musica Popular (Brasil)",
+          "url": "https://openlibrary.org/subjects/musica_popular_(brasil)"
+        },
+        {
+          "name": "Romance Brasileiro",
+          "url": "https://openlibrary.org/subjects/romance_brasileiro"
+        },
+        {
+          "name": "Love stories",
+          "url": "https://openlibrary.org/subjects/love_stories"
+        }
+      ],
+      "notes": "Includes bibliographical references.\nVol. 3: 1. ed.\nVol. 2-3 published: São Paulo : Editora 34.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 1. Século XVIII-século XIX",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 2. Século XX (1a parte)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 3. Século XX (2a parte).",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573261806": {
+      "url": "https://openlibrary.org/books/OL13410297M/Aventuras_de_Georg_Simmel_As",
+      "key": "/books/OL13410297M",
+      "title": "Aventuras de Georg Simmel, As",
+      "identifiers": {
+        "librarything": [
+          "6871182"
+        ],
+        "isbn_10": [
+          "8573261803"
+        ],
+        "isbn_13": [
+          "9788573261806"
+        ],
+        "openlibrary": [
+          "OL13410297M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34"
+        }
+      ],
+      "publish_date": "2000"
+    }
+  }
+}

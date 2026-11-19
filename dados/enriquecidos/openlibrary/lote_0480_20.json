@@ -1,0 +1,189 @@
+{
+  "consultado_em": "2026-11-19T22:39:13.539831+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9786555250039%2CISBN%3A9786599012211%2CISBN%3A9786599012228%2CISBN%3A9786555250268%2CISBN%3A9786555250275%2CISBN%3A9788573267310%2CISBN%3A9786555250299%2CISBN%3A9786555250336%2CISBN%3A9786555250329%2CISBN%3A9786555250312%2CISBN%3A9786599012235%2CISBN%3A9786555250343%2CISBN%3A9786555250374%2CISBN%3A9786555250350%2CISBN%3A9786555250381%2CISBN%3A9786555250398%2CISBN%3A9786555250367%2CISBN%3A9786555250404%2CISBN%3A9786555250428%2CISBN%3A9786599012242&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9786555250039": {
+      "url": "http://openlibrary.org/books/OL62439711M/O_romance_de_Tristão",
+      "key": "/books/OL62439711M",
+      "title": "O romance de Tristão",
+      "subtitle": "Edição bilíngue",
+      "number_of_pages": 335,
+      "identifiers": {
+        "isbn_13": [
+          "9786555250039"
+        ],
+        "openlibrary": [
+          "OL62439711M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, Brasil."
+        }
+      ],
+      "publish_date": "2020",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15246064-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15246064-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15246064-L.jpg"
+      }
+    },
+    "ISBN:9786599012211": {
+      "url": "http://openlibrary.org/books/OL61129518M/Dias_ensolarados_no_Paraizo",
+      "key": "/books/OL61129518M",
+      "title": "Dias ensolarados no Paraizo",
+      "subtitle": "memórias",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL16118995A/Brazilia_Oliveira_de_Lacerda",
+          "name": "Brazilia Oliveira de Lacerda"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL94337A/Jorge_Caldeira",
+          "name": "Jorge Caldeira"
+        }
+      ],
+      "number_of_pages": 103,
+      "pagination": "103 pages",
+      "by_statement": "Brazilia de Oliveira Lacerda ; Jorge Caldeira (posfácio)",
+      "identifiers": {
+        "isbn_10": [
+          "6599012213"
+        ],
+        "isbn_13": [
+          "9786599012211"
+        ],
+        "oclc": [
+          "1241693744"
+        ],
+        "openlibrary": [
+          "OL61129518M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "CT688.L239 A3 2020"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Chão"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP"
+        }
+      ],
+      "publish_date": "2020",
+      "subjects": [
+        {
+          "name": "Childhood and youth",
+          "url": "https://openlibrary.org/subjects/childhood_and_youth"
+        },
+        {
+          "name": "Aristocracy (Social class)",
+          "url": "https://openlibrary.org/subjects/aristocracy_(social_class)"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "Upper class women",
+          "url": "https://openlibrary.org/subjects/upper_class_women"
+        },
+        {
+          "name": "Coffee growers",
+          "url": "https://openlibrary.org/subjects/coffee_growers"
+        },
+        {
+          "name": "Coffee plantations",
+          "url": "https://openlibrary.org/subjects/coffee_plantations"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "São Paulo (State)",
+          "url": "https://openlibrary.org/subjects/place:são_paulo_(state)"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Brazilia Oliveira de Lacerda (1887-1966)",
+          "url": "https://openlibrary.org/subjects/person:brazilia_oliveira_de_lacerda_(1887-1966)"
+        }
+      ]
+    },
+    "ISBN:9786555250398": {
+      "url": "http://openlibrary.org/books/OL44045497M/Teatro_legislativo",
+      "key": "/books/OL44045497M",
+      "title": "Teatro legislativo",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL6909057A/Augusto_Boal",
+          "name": "Augusto Boal"
+        }
+      ],
+      "number_of_pages": 256,
+      "pagination": "256 pages",
+      "by_statement": "Augusto Boal ; organização, Fabiana Compararato e Julián Boal ; apresentação, notas, tradução e estabelecimento de texto, Fabiana Comparato",
+      "identifiers": {
+        "isbn_10": [
+          "6555250399"
+        ],
+        "isbn_13": [
+          "9786555250398"
+        ],
+        "oclc": [
+          "1241981670"
+        ],
+        "openlibrary": [
+          "OL44045497M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PN2051 .B6362 2020"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2020",
+      "subjects": [
+        {
+          "name": "Theater",
+          "url": "https://openlibrary.org/subjects/theater"
+        },
+        {
+          "name": "Political aspects",
+          "url": "https://openlibrary.org/subjects/political_aspects"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    }
+  }
+}

@@ -1,0 +1,1453 @@
+{
+  "consultado_em": "2026-11-19T22:36:36.543042+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573260090%2CISBN%3A9788573260175%2CISBN%3A9788573260205%2CISBN%3A9788573260342%2CISBN%3A9788573260366%2CISBN%3A9788573260502%2CISBN%3A9788573260571%2CISBN%3A9788573260663%2CISBN%3A9788573260694%2CISBN%3A9788573260724%2CISBN%3A9788573260816%2CISBN%3A9788573260946%2CISBN%3A9788573261004%2CISBN%3A9788573261042%2CISBN%3A9788573261059%2CISBN%3A9788573261134%2CISBN%3A9788573261141%2CISBN%3A9788573261165%2CISBN%3A9788573261172%2CISBN%3A9788573261202&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573260090": {
+      "url": "http://openlibrary.org/books/OL939589M/A_divina_comédia_dos_Mutantes",
+      "key": "/books/OL939589M",
+      "title": "A divina comédia dos Mutantes",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL304892A/Carlos_Calado",
+          "name": "Carlos Calado"
+        }
+      ],
+      "number_of_pages": 358,
+      "pagination": "358 p. :",
+      "by_statement": "Carlos Calado.",
+      "identifiers": {
+        "goodreads": [
+          "2699346"
+        ],
+        "librarything": [
+          "452277"
+        ],
+        "isbn_10": [
+          "8573260092"
+        ],
+        "lccn": [
+          "95831238"
+        ],
+        "oclc": [
+          "38432280",
+          "34915348"
+        ],
+        "openlibrary": [
+          "OL939589M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML421.M87 C35 1995"
+        ],
+        "dewey_decimal_class": [
+          "782.42166/092/2"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro, RJ"
+        }
+      ],
+      "publish_date": "1995",
+      "subjects": [
+        {
+          "name": "Mutantes (Rock group)",
+          "url": "https://openlibrary.org/subjects/mutantes_(rock_group)"
+        },
+        {
+          "name": "Rock musicians",
+          "url": "https://openlibrary.org/subjects/rock_musicians"
+        },
+        {
+          "name": "Rock music",
+          "url": "https://openlibrary.org/subjects/rock_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Discography: p. 339-350.\r\nIncludes bibliographical references (p. 338) and index.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/divinacomediados0000cala",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL939589M/A_divina_comédia_dos_Mutantes/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13893853-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13893853-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13893853-L.jpg"
+      }
+    },
+    "ISBN:9788573260175": {
+      "url": "http://openlibrary.org/books/OL27075059M/Mil_platôs",
+      "key": "/books/OL27075059M",
+      "title": "Mil platôs",
+      "subtitle": "capitalismo e esquizofrenia",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL449254A/Félix_Guattari",
+          "name": "Félix Guattari"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871496A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871497A/Felix_Guattari",
+          "name": "Felix Guattari"
+        }
+      ],
+      "pagination": "5 v.",
+      "by_statement": "Gilles Deleuze, Félix Guattari",
+      "identifiers": {
+        "isbn_10": [
+          "8585490497",
+          "8585490659",
+          "8573260173",
+          "8573260505",
+          "8573260572"
+        ],
+        "isbn_13": [
+          "9788585490492",
+          "9788585490652",
+          "9788573260175",
+          "9788573260502",
+          "9788573260571"
+        ],
+        "oclc": [
+          "69933558"
+        ],
+        "openlibrary": [
+          "OL27075059M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Postmodernism",
+          "url": "https://openlibrary.org/subjects/postmodernism"
+        },
+        {
+          "name": "Psychoanalysis",
+          "url": "https://openlibrary.org/subjects/psychoanalysis"
+        },
+        {
+          "name": "Radicalism",
+          "url": "https://openlibrary.org/subjects/radicalism"
+        },
+        {
+          "name": "Social psychology",
+          "url": "https://openlibrary.org/subjects/social_psychology"
+        },
+        {
+          "name": "Capitalism",
+          "url": "https://openlibrary.org/subjects/capitalism"
+        },
+        {
+          "name": "Schizophrenia",
+          "url": "https://openlibrary.org/subjects/schizophrenia"
+        },
+        {
+          "name": "Essays",
+          "url": "https://openlibrary.org/subjects/essays"
+        },
+        {
+          "name": "Reference",
+          "url": "https://openlibrary.org/subjects/reference"
+        },
+        {
+          "name": "Filosofia",
+          "url": "https://openlibrary.org/subjects/filosofia"
+        },
+        {
+          "name": "Esquizofrenia",
+          "url": "https://openlibrary.org/subjects/esquizofrenia"
+        },
+        {
+          "name": "Psiquiatria social",
+          "url": "https://openlibrary.org/subjects/psiquiatria_social"
+        },
+        {
+          "name": "Psychology, social",
+          "url": "https://openlibrary.org/subjects/psychology,_social"
+        },
+        {
+          "name": "B77 .d413x 1988",
+          "url": "https://openlibrary.org/subjects/b77_.d413x_1988"
+        },
+        {
+          "name": "Psychiatrie sociale",
+          "url": "https://openlibrary.org/subjects/psychiatrie_sociale"
+        },
+        {
+          "name": "Schizophrénie",
+          "url": "https://openlibrary.org/subjects/schizophrénie"
+        },
+        {
+          "name": "Capitalisme",
+          "url": "https://openlibrary.org/subjects/capitalisme"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/milplatoscapital01dele",
+          "availability": "noview",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8695201-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8695201-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8695201-L.jpg"
+      }
+    },
+    "ISBN:9788573260342": {
+      "url": "http://openlibrary.org/books/OL635262M/Vida_do_viajante",
+      "key": "/books/OL635262M",
+      "title": "Vida do viajante",
+      "subtitle": "a saga de Luiz Gonzaga",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL94604A/Dreyfus_Dominique.",
+          "name": "Dreyfus, Dominique."
+        }
+      ],
+      "number_of_pages": 349,
+      "pagination": "349 p. :",
+      "by_statement": "Dominique Dreyfus ; prefácio de Gilberto Gil.",
+      "identifiers": {
+        "goodreads": [
+          "3910287"
+        ],
+        "librarything": [
+          "452630"
+        ],
+        "isbn_10": [
+          "8573260343"
+        ],
+        "lccn": [
+          "96831826"
+        ],
+        "oclc": [
+          "36126462"
+        ],
+        "openlibrary": [
+          "OL635262M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML410.G642 D74 1996"
+        ],
+        "dewey_decimal_class": [
+          "781.64/092",
+          "B"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1996",
+      "subjects": [
+        {
+          "name": "Composers",
+          "url": "https://openlibrary.org/subjects/composers"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://openlibrary.org/subjects/person:luiz_gonzaga"
+        }
+      ],
+      "notes": "Discography: p. 317-342.\n\"Musicografia\": p. 343-349.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/3775750-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/3775750-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/3775750-L.jpg"
+      }
+    },
+    "ISBN:9788573260366": {
+      "url": "http://openlibrary.org/books/OL9163674M/O_que_é_o_Virtual",
+      "key": "/books/OL9163674M",
+      "title": "O que é o Virtual?",
+      "identifiers": {
+        "librarything": [
+          "426046"
+        ],
+        "isbn_10": [
+          "857326036X"
+        ],
+        "isbn_13": [
+          "9788573260366"
+        ],
+        "openlibrary": [
+          "OL9163674M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "1996"
+    },
+    "ISBN:9788573260502": {
+      "url": "http://openlibrary.org/books/OL27075059M/Mil_platôs",
+      "key": "/books/OL27075059M",
+      "title": "Mil platôs",
+      "subtitle": "capitalismo e esquizofrenia",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL449254A/Félix_Guattari",
+          "name": "Félix Guattari"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871496A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871497A/Felix_Guattari",
+          "name": "Felix Guattari"
+        }
+      ],
+      "pagination": "5 v.",
+      "by_statement": "Gilles Deleuze, Félix Guattari",
+      "identifiers": {
+        "isbn_10": [
+          "8585490497",
+          "8585490659",
+          "8573260173",
+          "8573260505",
+          "8573260572"
+        ],
+        "isbn_13": [
+          "9788585490492",
+          "9788585490652",
+          "9788573260175",
+          "9788573260502",
+          "9788573260571"
+        ],
+        "oclc": [
+          "69933558"
+        ],
+        "openlibrary": [
+          "OL27075059M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Postmodernism",
+          "url": "https://openlibrary.org/subjects/postmodernism"
+        },
+        {
+          "name": "Psychoanalysis",
+          "url": "https://openlibrary.org/subjects/psychoanalysis"
+        },
+        {
+          "name": "Radicalism",
+          "url": "https://openlibrary.org/subjects/radicalism"
+        },
+        {
+          "name": "Social psychology",
+          "url": "https://openlibrary.org/subjects/social_psychology"
+        },
+        {
+          "name": "Capitalism",
+          "url": "https://openlibrary.org/subjects/capitalism"
+        },
+        {
+          "name": "Schizophrenia",
+          "url": "https://openlibrary.org/subjects/schizophrenia"
+        },
+        {
+          "name": "Essays",
+          "url": "https://openlibrary.org/subjects/essays"
+        },
+        {
+          "name": "Reference",
+          "url": "https://openlibrary.org/subjects/reference"
+        },
+        {
+          "name": "Filosofia",
+          "url": "https://openlibrary.org/subjects/filosofia"
+        },
+        {
+          "name": "Esquizofrenia",
+          "url": "https://openlibrary.org/subjects/esquizofrenia"
+        },
+        {
+          "name": "Psiquiatria social",
+          "url": "https://openlibrary.org/subjects/psiquiatria_social"
+        },
+        {
+          "name": "Psychology, social",
+          "url": "https://openlibrary.org/subjects/psychology,_social"
+        },
+        {
+          "name": "B77 .d413x 1988",
+          "url": "https://openlibrary.org/subjects/b77_.d413x_1988"
+        },
+        {
+          "name": "Psychiatrie sociale",
+          "url": "https://openlibrary.org/subjects/psychiatrie_sociale"
+        },
+        {
+          "name": "Schizophrénie",
+          "url": "https://openlibrary.org/subjects/schizophrénie"
+        },
+        {
+          "name": "Capitalisme",
+          "url": "https://openlibrary.org/subjects/capitalisme"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/milplatoscapital01dele",
+          "availability": "noview",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8695201-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8695201-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8695201-L.jpg"
+      }
+    },
+    "ISBN:9788573260571": {
+      "url": "http://openlibrary.org/books/OL27075059M/Mil_platôs",
+      "key": "/books/OL27075059M",
+      "title": "Mil platôs",
+      "subtitle": "capitalismo e esquizofrenia",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL449254A/Félix_Guattari",
+          "name": "Félix Guattari"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871496A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL7871497A/Felix_Guattari",
+          "name": "Felix Guattari"
+        }
+      ],
+      "pagination": "5 v.",
+      "by_statement": "Gilles Deleuze, Félix Guattari",
+      "identifiers": {
+        "isbn_10": [
+          "8585490497",
+          "8585490659",
+          "8573260173",
+          "8573260505",
+          "8573260572"
+        ],
+        "isbn_13": [
+          "9788585490492",
+          "9788585490652",
+          "9788573260175",
+          "9788573260502",
+          "9788573260571"
+        ],
+        "oclc": [
+          "69933558"
+        ],
+        "openlibrary": [
+          "OL27075059M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2000",
+      "subjects": [
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Postmodernism",
+          "url": "https://openlibrary.org/subjects/postmodernism"
+        },
+        {
+          "name": "Psychoanalysis",
+          "url": "https://openlibrary.org/subjects/psychoanalysis"
+        },
+        {
+          "name": "Radicalism",
+          "url": "https://openlibrary.org/subjects/radicalism"
+        },
+        {
+          "name": "Social psychology",
+          "url": "https://openlibrary.org/subjects/social_psychology"
+        },
+        {
+          "name": "Capitalism",
+          "url": "https://openlibrary.org/subjects/capitalism"
+        },
+        {
+          "name": "Schizophrenia",
+          "url": "https://openlibrary.org/subjects/schizophrenia"
+        },
+        {
+          "name": "Essays",
+          "url": "https://openlibrary.org/subjects/essays"
+        },
+        {
+          "name": "Reference",
+          "url": "https://openlibrary.org/subjects/reference"
+        },
+        {
+          "name": "Filosofia",
+          "url": "https://openlibrary.org/subjects/filosofia"
+        },
+        {
+          "name": "Esquizofrenia",
+          "url": "https://openlibrary.org/subjects/esquizofrenia"
+        },
+        {
+          "name": "Psiquiatria social",
+          "url": "https://openlibrary.org/subjects/psiquiatria_social"
+        },
+        {
+          "name": "Psychology, social",
+          "url": "https://openlibrary.org/subjects/psychology,_social"
+        },
+        {
+          "name": "B77 .d413x 1988",
+          "url": "https://openlibrary.org/subjects/b77_.d413x_1988"
+        },
+        {
+          "name": "Psychiatrie sociale",
+          "url": "https://openlibrary.org/subjects/psychiatrie_sociale"
+        },
+        {
+          "name": "Schizophrénie",
+          "url": "https://openlibrary.org/subjects/schizophrénie"
+        },
+        {
+          "name": "Capitalisme",
+          "url": "https://openlibrary.org/subjects/capitalisme"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/milplatoscapital01dele",
+          "availability": "noview",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8695201-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8695201-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8695201-L.jpg"
+      }
+    },
+    "ISBN:9788573260663": {
+      "url": "http://openlibrary.org/books/OL9163676M/Breviário_dos_Políticos",
+      "key": "/books/OL9163676M",
+      "title": "Breviário dos Políticos",
+      "identifiers": {
+        "goodreads": [
+          "6386036"
+        ],
+        "librarything": [
+          "4450755"
+        ],
+        "isbn_10": [
+          "8573260661"
+        ],
+        "isbn_13": [
+          "9788573260663"
+        ],
+        "openlibrary": [
+          "OL9163676M"
+        ]
+      }
+    },
+    "ISBN:9788573260694": {
+      "url": "http://openlibrary.org/books/OL13410277M/Crítica_e_Clínica",
+      "key": "/books/OL13410277M",
+      "title": "Crítica e Clínica",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573260696"
+        ],
+        "isbn_13": [
+          "9788573260694"
+        ],
+        "oclc": [
+          "55935486"
+        ],
+        "openlibrary": [
+          "OL13410277M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "1997",
+      "subjects": [
+        {
+          "name": "Literatura francesa",
+          "url": "https://openlibrary.org/subjects/literatura_francesa"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Gilles Deleuze (1925-1995)",
+          "url": "https://openlibrary.org/subjects/person:gilles_deleuze_(1925-1995)"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8634188-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8634188-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8634188-L.jpg"
+      }
+    },
+    "ISBN:9788573260724": {
+      "url": "http://openlibrary.org/books/OL501771M/Música_popular",
+      "key": "/books/OL501771M",
+      "title": "Música popular",
+      "subtitle": "um tema em debate",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 188,
+      "pagination": "188 p. ;",
+      "by_statement": "José Ramos Tinhorão.",
+      "identifiers": {
+        "librarything": [
+          "5606796"
+        ],
+        "isbn_10": [
+          "8573260726"
+        ],
+        "lccn": [
+          "98832108"
+        ],
+        "oclc": [
+          "39181994"
+        ],
+        "openlibrary": [
+          "OL501771M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3487.B7 T49 1997"
+        ],
+        "dewey_decimal_class": [
+          "781.64/0981"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1997",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/3760404-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/3760404-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/3760404-L.jpg"
+      }
+    },
+    "ISBN:9788573260816": {
+      "url": "http://openlibrary.org/books/OL501765M/Tropicália",
+      "key": "/books/OL501765M",
+      "title": "Tropicália",
+      "subtitle": "a história de uma revolução musical",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL304892A/Carlos_Calado",
+          "name": "Carlos Calado"
+        }
+      ],
+      "number_of_pages": 333,
+      "pagination": "333 p. :",
+      "by_statement": "Carlos Calado.",
+      "identifiers": {
+        "goodreads": [
+          "2966529"
+        ],
+        "librarything": [
+          "4865722"
+        ],
+        "isbn_10": [
+          "8573260815"
+        ],
+        "lccn": [
+          "98832102"
+        ],
+        "oclc": [
+          "39152891"
+        ],
+        "openlibrary": [
+          "OL501765M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3487.B7 C327 1997"
+        ],
+        "dewey_decimal_class": [
+          "781.64/0981"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1997",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1961-1970",
+          "url": "https://openlibrary.org/subjects/time:1961-1970"
+        }
+      ],
+      "notes": "Includes bibliogaphical references (p. 305-307) and indexes.\nDiscography: p. 309-323.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/tropicaliahistor0000cala",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL501765M/Tropicália/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/3760126-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/3760126-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/3760126-L.jpg"
+      }
+    },
+    "ISBN:9788573260946": {
+      "url": "http://openlibrary.org/books/OL21172363M/História_social_da_música_popular_brasileira",
+      "key": "/books/OL21172363M",
+      "title": "História social da música popular brasileira",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 365,
+      "pagination": "365 p.",
+      "by_statement": "José Ramos Tinhorão.",
+      "identifiers": {
+        "librarything": [
+          "609679"
+        ],
+        "isbn_10": [
+          "8573260947"
+        ],
+        "oclc": [
+          "40170730"
+        ],
+        "openlibrary": [
+          "OL21172363M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3487.B7 T46 1998"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "1998",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Social aspects",
+          "url": "https://openlibrary.org/subjects/social_aspects"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4920315-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4920315-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4920315-L.jpg"
+      }
+    },
+    "ISBN:9788573261004": {
+      "url": "http://openlibrary.org/books/OL502650M/A_pedra_do_meio-dia_ou_Artur_e_Isadora",
+      "key": "/books/OL502650M",
+      "title": "A pedra do meio-dia, ou, Artur e Isadora",
+      "subtitle": "literatura de cordel",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL305402A/Bráulio_Tavares",
+          "name": "Bráulio Tavares"
+        }
+      ],
+      "number_of_pages": 77,
+      "pagination": "77 p. :",
+      "by_statement": "Bráulio Tavares ; ilustrações de Cecília Esteves.",
+      "identifiers": {
+        "librarything": [
+          "479980"
+        ],
+        "goodreads": [
+          "4395914"
+        ],
+        "isbn_10": [
+          "8573261005"
+        ],
+        "lccn": [
+          "98833166"
+        ],
+        "oclc": [
+          "41368039"
+        ],
+        "openlibrary": [
+          "OL502650M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.3.A845 P43 1998"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1998",
+      "subjects": [
+        {
+          "name": "Brazilian Chapbooks",
+          "url": "https://openlibrary.org/subjects/brazilian_chapbooks"
+        },
+        {
+          "name": "Chapbooks, Brazilian",
+          "url": "https://openlibrary.org/subjects/chapbooks,_brazilian"
+        },
+        {
+          "name": "Children's poetry, Brazilian",
+          "url": "https://openlibrary.org/subjects/children's_poetry,_brazilian"
+        }
+      ]
+    },
+    "ISBN:9788573261042": {
+      "url": "http://openlibrary.org/books/OL141998M/Ensaio_de_ponto",
+      "key": "/books/OL141998M",
+      "title": "Ensaio de ponto",
+      "subtitle": "recortes carnavalescos por Saturnino Praxedes, ex-funcionário da Companhia Nacional de Burletas & Revistas do Teatro São José",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93624A/Luís_Antônio_Giron",
+          "name": "Luís Antônio Giron"
+        }
+      ],
+      "number_of_pages": 238,
+      "pagination": "238 p. ;",
+      "by_statement": "Luís Antônio Giron.",
+      "identifiers": {
+        "librarything": [
+          "609646"
+        ],
+        "goodreads": [
+          "6320406"
+        ],
+        "isbn_10": [
+          "8573261048"
+        ],
+        "lccn": [
+          "99885569"
+        ],
+        "oclc": [
+          "41612657"
+        ],
+        "openlibrary": [
+          "OL141998M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "IN PROCESS",
+          "PQ9698.17.I644 E68 1998",
+          "PQ9698.17.I643 E57 1998"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1998",
+      "subjects": [
+        {
+          "name": "Romance brasileiro",
+          "url": "https://openlibrary.org/subjects/romance_brasileiro"
+        }
+      ],
+      "notes": "PRIORITY 3.\n\"Romance\"--Cover."
+    },
+    "ISBN:9788573261059": {
+      "url": "http://openlibrary.org/books/OL502340M/Choro",
+      "key": "/books/OL502340M",
+      "title": "Choro",
+      "subtitle": "do quintal ao Municipal",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL305216A/Henrique_Cazes",
+          "name": "Henrique Cazes"
+        }
+      ],
+      "number_of_pages": 204,
+      "pagination": "204 p. :",
+      "by_statement": "Henrique Cazes.",
+      "identifiers": {
+        "goodreads": [
+          "4563746"
+        ],
+        "librarything": [
+          "452224"
+        ],
+        "isbn_10": [
+          "8573261056"
+        ],
+        "lccn": [
+          "98832708"
+        ],
+        "oclc": [
+          "40595566"
+        ],
+        "openlibrary": [
+          "OL502340M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3465 .C39 1998"
+        ],
+        "dewey_decimal_class": [
+          "784.18/88"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1998",
+      "subjects": [
+        {
+          "name": "Choros",
+          "url": "https://openlibrary.org/subjects/choros"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "notes": "Discography: p. 199-204.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4921088-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4921088-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4921088-L.jpg"
+      }
+    },
+    "ISBN:9788573261134": {
+      "url": "http://openlibrary.org/books/OL9163672M/Brock",
+      "key": "/books/OL9163672M",
+      "title": "Brock",
+      "subtitle": "O rock brasileiro dos anos 80 (Colecao Ouvido musical)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL516600A/Arthur_Dapieve",
+          "name": "Arthur Dapieve"
+        }
+      ],
+      "number_of_pages": 215,
+      "identifiers": {
+        "goodreads": [
+          "2706601"
+        ],
+        "librarything": [
+          "452189"
+        ],
+        "isbn_10": [
+          "8573260084"
+        ],
+        "isbn_13": [
+          "9788573261134"
+        ],
+        "lccn": [
+          "95831240"
+        ],
+        "openlibrary": [
+          "OL9163672M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3532 .D36 1995"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "1995",
+      "subjects": [
+        {
+          "name": "Rock music",
+          "url": "https://openlibrary.org/subjects/rock_music"
+        },
+        {
+          "name": "Rock musicians",
+          "url": "https://openlibrary.org/subjects/rock_musicians"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1981-1990",
+          "url": "https://openlibrary.org/subjects/time:1981-1990"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/brockorockbrasil0000dapi",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL9163672M/Brock/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4921232-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4921232-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4921232-L.jpg"
+      }
+    },
+    "ISBN:9788573261141": {
+      "url": "http://openlibrary.org/books/OL141209M/Reforma_do_Estado_para_a_cidadania",
+      "key": "/books/OL141209M",
+      "title": "Reforma do Estado para a cidadania",
+      "subtitle": "a reforma gerencial brasileira na perspectiva internacional",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93044A/Luiz_Carlos_Bresser_Pereira",
+          "name": "Luiz Carlos Bresser Pereira"
+        }
+      ],
+      "number_of_pages": 365,
+      "pagination": "365 p. :",
+      "by_statement": "Luiz Carlos Bresser Pereira ; [prefácio de Fernando Henrique Cardoso].",
+      "identifiers": {
+        "librarything": [
+          "2230894"
+        ],
+        "isbn_10": [
+          "8573261145"
+        ],
+        "lccn": [
+          "99884539"
+        ],
+        "oclc": [
+          "41185315"
+        ],
+        "openlibrary": [
+          "OL141209M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "JL2431 .P48 1998"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "ENAP"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Brasília, DF"
+        },
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1998",
+      "subjects": [
+        {
+          "name": "Politics and government",
+          "url": "https://openlibrary.org/subjects/politics_and_government"
+        },
+        {
+          "name": "Public administration",
+          "url": "https://openlibrary.org/subjects/public_administration"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1985-",
+          "url": "https://openlibrary.org/subjects/time:1985-"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 343-356) and index."
+    },
+    "ISBN:9788573261165": {
+      "url": "http://openlibrary.org/books/OL9163685M/Alucinando_Foucault",
+      "key": "/books/OL9163685M",
+      "title": "Alucinando Foucault",
+      "identifiers": {
+        "librarything": [
+          "170379"
+        ],
+        "isbn_10": [
+          "8573261161"
+        ],
+        "isbn_13": [
+          "9788573261165"
+        ],
+        "openlibrary": [
+          "OL9163685M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "1998"
+    },
+    "ISBN:9788573261172": {
+      "url": "http://openlibrary.org/books/OL142327M/Artes_plásticas_na_Semana_de_22",
+      "key": "/books/OL142327M",
+      "title": "Artes plásticas na Semana de 22",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "number_of_pages": 335,
+      "pagination": "335 p. :",
+      "by_statement": "Aracy A. Amaral.",
+      "identifiers": {
+        "goodreads": [
+          "3330503"
+        ],
+        "librarything": [
+          "4451230"
+        ],
+        "isbn_10": [
+          "857326117X"
+        ],
+        "lccn": [
+          "99885900"
+        ],
+        "oclc": [
+          "43475006"
+        ],
+        "openlibrary": [
+          "OL142327M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "N6655.5.M63 A4 1998"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "1998",
+      "subjects": [
+        {
+          "name": "Art, Brazilian",
+          "url": "https://openlibrary.org/subjects/art,_brazilian"
+        },
+        {
+          "name": "Modernism (Art)",
+          "url": "https://openlibrary.org/subjects/modernism_(art)"
+        },
+        {
+          "name": "Art, Modern",
+          "url": "https://openlibrary.org/subjects/art,_modern"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Modern Art",
+          "url": "https://openlibrary.org/subjects/modern_art"
+        },
+        {
+          "name": "Semana de Arte Moderna (1922 : São Paulo, Brazil)",
+          "url": "https://openlibrary.org/subjects/semana_de_arte_moderna_(1922_:_são_paulo,_brazil)"
+        },
+        {
+          "name": "Semana de Arte Moderna (1922 : São Paulo, Brazil) http://id.loc.gov/authorities/names/n84160950",
+          "url": "https://openlibrary.org/subjects/semana_de_arte_moderna_(1922_:_são_paulo,_brazil)_http://id.loc.gov/authorities/names/n84160950"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 309-327) and index.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13512394-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13512394-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13512394-L.jpg"
+      }
+    },
+    "ISBN:9788573261202": {
+      "url": "http://openlibrary.org/books/OL19776012M/DIVINA_(A)_COMÉDIA_Vol._I_Inferno_-_Vol._II_Purgatório_-_Vol._III_Paraíso_-(EURO_33_00)",
+      "key": "/books/OL19776012M",
+      "title": "DIVINA (A) COMÉDIA, Vol. I: Inferno - Vol. II: Purgatório - Vol. III: Paraíso -(EURO 33,00)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL29303A/Dante_Alighieri",
+          "name": "Dante Alighieri"
+        }
+      ],
+      "pagination": "v.  ;",
+      "by_statement": "Por Dante Alighieri, - .",
+      "identifiers": {
+        "librarything": [
+          "44123"
+        ],
+        "isbn_10": [
+          "857326120X"
+        ],
+        "openlibrary": [
+          "OL19776012M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "Jun 06, 2009",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14182518-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14182518-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14182518-L.jpg"
+      }
+    }
+  }
+}

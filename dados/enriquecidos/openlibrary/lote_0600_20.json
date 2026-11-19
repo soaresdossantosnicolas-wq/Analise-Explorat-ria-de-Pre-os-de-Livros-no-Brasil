@@ -1,0 +1,78 @@
+{
+  "consultado_em": "2026-11-19T22:39:58.905867+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9786555251579%2CISBN%3A9786555251586%2CISBN%3A9786555250435%2CISBN%3A9786555250442%2CISBN%3A9786555250282%2CISBN%3A9786555251593%2CISBN%3A9786555251616%2CISBN%3A9786555251623%2CISBN%3A9786555251609%2CISBN%3A9786580341283%2CISBN%3A9786555251630%2CISBN%3A9786555251647%2CISBN%3A9786555251654%2CISBN%3A9786555251678%2CISBN%3A9786555251685%2CISBN%3A9786555251692%2CISBN%3A9786555251708%2CISBN%3A9786555251715%2CISBN%3A9786555251722%2CISBN%3A9786555251739&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9786555251715": {
+      "url": "http://openlibrary.org/books/OL52210377M/Cabeça_de_Galinha_No_Chão_de_Cimento",
+      "key": "/books/OL52210377M",
+      "title": "Cabeça de Galinha No Chão de Cimento",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL11986472A/Ricardo_Domeneck",
+          "name": "Ricardo Domeneck"
+        }
+      ],
+      "pagination": "125",
+      "identifiers": {
+        "isbn_13": [
+          "9786555251715"
+        ],
+        "openlibrary": [
+          "OL52210377M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.414.O44C33"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "34 Ltda, Editora"
+        }
+      ],
+      "publish_date": "2023",
+      "subjects": [
+        {
+          "name": "Romance literature",
+          "url": "https://openlibrary.org/subjects/romance_literature"
+        }
+      ]
+    },
+    "ISBN:9786555251722": {
+      "url": "http://openlibrary.org/books/OL59153699M/Cartas_a_Theo",
+      "key": "/books/OL59153699M",
+      "title": "Cartas a Theo",
+      "number_of_pages": 512,
+      "identifiers": {
+        "isbn_13": [
+          "9786555251722"
+        ],
+        "openlibrary": [
+          "OL59153699M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "11 janeiro 2024",
+      "subjects": [
+        {
+          "name": "Letters",
+          "url": "https://openlibrary.org/subjects/letters"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15088398-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15088398-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15088398-L.jpg"
+      }
+    }
+  }
+}

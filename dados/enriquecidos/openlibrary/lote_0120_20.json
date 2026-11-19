@@ -1,0 +1,562 @@
+{
+  "consultado_em": "2026-11-19T22:37:12.546876+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573263459%2CISBN%3A9788573263466%2CISBN%3A9788573263473%2CISBN%3A9788573263497%2CISBN%3A9788573263510%2CISBN%3A9788573263527%2CISBN%3A9788573263558%2CISBN%3A9788573263565%2CISBN%3A9788573263572%2CISBN%3A9788573263589%2CISBN%3A9788573263596%2CISBN%3A9788573263602%2CISBN%3A9788573263619%2CISBN%3A9788573263626%2CISBN%3A9788573263640%2CISBN%3A9788573263657%2CISBN%3A9788573263664%2CISBN%3A9788585490010%2CISBN%3A9788585490027%2CISBN%3A9788585490041&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573263596": {
+      "url": "https://openlibrary.org/books/OL40280479M/Morte_De_Ivan_Ilitch_A",
+      "key": "/books/OL40280479M",
+      "title": "Morte De Ivan Ilitch, A",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4680306A/Jonathan_C._Young",
+          "name": "Jonathan C. Young"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573263598"
+        ],
+        "isbn_13": [
+          "9788573263596"
+        ],
+        "openlibrary": [
+          "OL40280479M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Jun 06, 2009",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13507966-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13507966-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13507966-L.jpg"
+      }
+    },
+    "ISBN:9788573263619": {
+      "url": "https://openlibrary.org/books/OL16955626M/Conversas_com_sociólogos_brasileiros",
+      "key": "/books/OL16955626M",
+      "title": "Conversas com sociólogos brasileiros",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL865000A/Elide_Rugai_Bastos",
+          "name": "Elide Rugai Bastos"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL94156A/Florestan_Fernandes",
+          "name": "Florestan Fernandes"
+        }
+      ],
+      "number_of_pages": 463,
+      "pagination": "463 p. :",
+      "by_statement": "[entrevistadores] Elide Rugai Bastos ... [et al. ; entrevistados] Florestan Fernandes ... [et al.].",
+      "identifiers": {
+        "isbn_10": [
+          "857326361X"
+        ],
+        "isbn_13": [
+          "9788573263619"
+        ],
+        "lccn": [
+          "2007315453"
+        ],
+        "oclc": [
+          "122352472"
+        ],
+        "openlibrary": [
+          "OL16955626M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HM478 .C67 2006",
+          "HM478 .C66 2006"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        },
+        {
+          "name": "EDITORA 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2006",
+      "subjects": [
+        {
+          "name": "Interviews",
+          "url": "https://openlibrary.org/subjects/interviews"
+        },
+        {
+          "name": "Sociology",
+          "url": "https://openlibrary.org/subjects/sociology"
+        },
+        {
+          "name": "Sociologists",
+          "url": "https://openlibrary.org/subjects/sociologists"
+        },
+        {
+          "name": "Sociologia",
+          "url": "https://openlibrary.org/subjects/sociologia"
+        },
+        {
+          "name": "Sociologia (estudo e ensino)",
+          "url": "https://openlibrary.org/subjects/sociologia_(estudo_e_ensino)"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references and index.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13444924-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13444924-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13444924-L.jpg"
+      }
+    },
+    "ISBN:9788573263640": {
+      "url": "https://openlibrary.org/books/OL20299627M/Textos_do_Trópico_de_Capricórnio",
+      "key": "/books/OL20299627M",
+      "title": "Textos do Trópico de Capricórnio",
+      "subtitle": "artigos e ensaios (1980-2005)",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "pagination": "3 v. :",
+      "by_statement": "Aracy A. Amaral.",
+      "identifiers": {
+        "isbn_10": [
+          "8573263644",
+          "8573263652",
+          "8573263660"
+        ],
+        "openlibrary": [
+          "OL20299627M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "N6655  A485 2006"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed. 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2006",
+      "subjects": [
+        {
+          "name": "Art, Latin American",
+          "url": "https://openlibrary.org/subjects/art,_latin_american"
+        },
+        {
+          "name": "Art, Brazilian",
+          "url": "https://openlibrary.org/subjects/art,_brazilian"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Latin American Art",
+          "url": "https://openlibrary.org/subjects/latin_american_art"
+        },
+        {
+          "name": "Artes",
+          "url": "https://openlibrary.org/subjects/artes"
+        },
+        {
+          "name": "Bienais de arte",
+          "url": "https://openlibrary.org/subjects/bienais_de_arte"
+        },
+        {
+          "name": "Arte contemporânea",
+          "url": "https://openlibrary.org/subjects/arte_contemporânea"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 1. Modernismo, arte moderna e o compromisso com o lugar",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 2. Circuitos de arte na América Latina e no Brasil",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 3. Bienais e artistas contemporâneos no Brasil.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573263657": {
+      "url": "https://openlibrary.org/books/OL20299627M/Textos_do_Trópico_de_Capricórnio",
+      "key": "/books/OL20299627M",
+      "title": "Textos do Trópico de Capricórnio",
+      "subtitle": "artigos e ensaios (1980-2005)",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "pagination": "3 v. :",
+      "by_statement": "Aracy A. Amaral.",
+      "identifiers": {
+        "isbn_10": [
+          "8573263644",
+          "8573263652",
+          "8573263660"
+        ],
+        "openlibrary": [
+          "OL20299627M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "N6655  A485 2006"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed. 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2006",
+      "subjects": [
+        {
+          "name": "Art, Latin American",
+          "url": "https://openlibrary.org/subjects/art,_latin_american"
+        },
+        {
+          "name": "Art, Brazilian",
+          "url": "https://openlibrary.org/subjects/art,_brazilian"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Latin American Art",
+          "url": "https://openlibrary.org/subjects/latin_american_art"
+        },
+        {
+          "name": "Artes",
+          "url": "https://openlibrary.org/subjects/artes"
+        },
+        {
+          "name": "Bienais de arte",
+          "url": "https://openlibrary.org/subjects/bienais_de_arte"
+        },
+        {
+          "name": "Arte contemporânea",
+          "url": "https://openlibrary.org/subjects/arte_contemporânea"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 1. Modernismo, arte moderna e o compromisso com o lugar",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 2. Circuitos de arte na América Latina e no Brasil",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 3. Bienais e artistas contemporâneos no Brasil.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573263664": {
+      "url": "https://openlibrary.org/books/OL20299627M/Textos_do_Trópico_de_Capricórnio",
+      "key": "/books/OL20299627M",
+      "title": "Textos do Trópico de Capricórnio",
+      "subtitle": "artigos e ensaios (1980-2005)",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93852A/Aracy_A._Amaral",
+          "name": "Aracy A. Amaral"
+        }
+      ],
+      "pagination": "3 v. :",
+      "by_statement": "Aracy A. Amaral.",
+      "identifiers": {
+        "isbn_10": [
+          "8573263644",
+          "8573263652",
+          "8573263660"
+        ],
+        "openlibrary": [
+          "OL20299627M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "N6655  A485 2006"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed. 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2006",
+      "subjects": [
+        {
+          "name": "Art, Latin American",
+          "url": "https://openlibrary.org/subjects/art,_latin_american"
+        },
+        {
+          "name": "Art, Brazilian",
+          "url": "https://openlibrary.org/subjects/art,_brazilian"
+        },
+        {
+          "name": "Brazilian Art",
+          "url": "https://openlibrary.org/subjects/brazilian_art"
+        },
+        {
+          "name": "Latin American Art",
+          "url": "https://openlibrary.org/subjects/latin_american_art"
+        },
+        {
+          "name": "Artes",
+          "url": "https://openlibrary.org/subjects/artes"
+        },
+        {
+          "name": "Bienais de arte",
+          "url": "https://openlibrary.org/subjects/bienais_de_arte"
+        },
+        {
+          "name": "Arte contemporânea",
+          "url": "https://openlibrary.org/subjects/arte_contemporânea"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 1. Modernismo, arte moderna e o compromisso com o lugar",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 2. Circuitos de arte na América Latina e no Brasil",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 3. Bienais e artistas contemporâneos no Brasil.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788585490010": {
+      "url": "https://openlibrary.org/books/OL22955530M/Caosmose",
+      "key": "/books/OL22955530M",
+      "title": "Caosmose",
+      "subtitle": "um novo paradigma estético",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL449254A/Félix_Guattari",
+          "name": "Félix Guattari"
+        }
+      ],
+      "number_of_pages": 203,
+      "pagination": "203, [2] p. ;",
+      "by_statement": "Felix Guattari ; tradução Ana Lucia de Oliveira e Lúcia Cláudia Leão.",
+      "identifiers": {
+        "isbn_10": [
+          "8585490012"
+        ],
+        "oclc": [
+          "55024202"
+        ],
+        "openlibrary": [
+          "OL22955530M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro"
+        }
+      ],
+      "publish_date": "1992",
+      "subjects": [
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Psychoanalysis",
+          "url": "https://openlibrary.org/subjects/psychoanalysis"
+        },
+        {
+          "name": "Subjectivity",
+          "url": "https://openlibrary.org/subjects/subjectivity"
+        }
+      ],
+      "notes": "Translation of: Chaosmose.\n\nIncludes bibliographical references (p. 205).",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8626442-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8626442-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8626442-L.jpg"
+      }
+    },
+    "ISBN:9788585490027": {
+      "url": "https://openlibrary.org/books/OL22952028M/O_que_é_a_filosofia",
+      "key": "/books/OL22952028M",
+      "title": "O que é a filosofia?",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4334052A/Gilles_Deleuze",
+          "name": "Gilles Deleuze"
+        }
+      ],
+      "number_of_pages": 279,
+      "pagination": "279 p. ;",
+      "by_statement": "Gilles Deleuze, Félix Guattare ; tradução, Bento Prado, Jr. e Alberto Alonso Muñoz.",
+      "identifiers": {
+        "librarything": [
+          "88348"
+        ],
+        "isbn_10": [
+          "8585490020"
+        ],
+        "openlibrary": [
+          "OL22952028M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Rio de Janeiro, RJ"
+        }
+      ],
+      "publish_date": "1992",
+      "subjects": [
+        {
+          "name": "Aesthetics",
+          "url": "https://openlibrary.org/subjects/aesthetics"
+        },
+        {
+          "name": "Logic",
+          "url": "https://openlibrary.org/subjects/logic"
+        },
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Science",
+          "url": "https://openlibrary.org/subjects/science"
+        },
+        {
+          "name": "Introductions",
+          "url": "https://openlibrary.org/subjects/introductions"
+        },
+        {
+          "name": "Concepts",
+          "url": "https://openlibrary.org/subjects/concepts"
+        },
+        {
+          "name": "Philosophy and science",
+          "url": "https://openlibrary.org/subjects/philosophy_and_science"
+        }
+      ],
+      "notes": "Translation of: Qu'est-ce que la philosophie?\n\nIncludes bibliographical references.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8702964-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8702964-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8702964-L.jpg"
+      }
+    },
+    "ISBN:9788585490041": {
+      "url": "https://openlibrary.org/books/OL13418424M/Conversações",
+      "key": "/books/OL13418424M",
+      "title": "Conversações",
+      "subtitle": "1972-1990",
+      "identifiers": {
+        "isbn_10": [
+          "8585490047"
+        ],
+        "isbn_13": [
+          "9788585490041"
+        ],
+        "openlibrary": [
+          "OL13418424M"
+        ]
+      }
+    }
+  }
+}

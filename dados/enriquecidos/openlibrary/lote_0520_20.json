@@ -1,0 +1,273 @@
+{
+  "consultado_em": "2026-11-19T22:39:28.115527+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9786555250695%2CISBN%3A9786555250725%2CISBN%3A9786555250732%2CISBN%3A9786555250749%2CISBN%3A9786555250763%2CISBN%3A9786555250787%2CISBN%3A9786555250770%2CISBN%3A9786555250800%2CISBN%3A9786555250831%2CISBN%3A9786599012266%2CISBN%3A9786555250824%2CISBN%3A9786555250817%2CISBN%3A9786555250848%2CISBN%3A9786555250855%2CISBN%3A9786599012273%2CISBN%3A9786555250862%2CISBN%3A9786599012280%2CISBN%3A9786555250893%2CISBN%3A9786555250947%2CISBN%3A9786555250954&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9786555250695": {
+      "url": "http://openlibrary.org/books/OL43863151M/By_heart",
+      "key": "/books/OL43863151M",
+      "title": "By heart",
+      "subtitle": "e outras peças",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL8514370A/Tiago_Rodrigues",
+          "name": "Tiago Rodrigues"
+        }
+      ],
+      "number_of_pages": 220,
+      "pagination": "220 pages",
+      "by_statement": "Tiago Rodrigues. Posfácio Leonardo Gandolfi",
+      "identifiers": {
+        "isbn_10": [
+          "6555250690"
+        ],
+        "isbn_13": [
+          "9786555250695"
+        ],
+        "oclc": [
+          "1302598250"
+        ],
+        "openlibrary": [
+          "OL43863151M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.428 .O375 2021"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        },
+        {
+          "name": "Publisher"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2021",
+      "subjects": [
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "Poetry",
+          "url": "https://openlibrary.org/subjects/poetry"
+        },
+        {
+          "name": "Drama",
+          "url": "https://openlibrary.org/subjects/drama"
+        },
+        {
+          "name": "Short stories",
+          "url": "https://openlibrary.org/subjects/short_stories"
+        },
+        {
+          "name": "Portuguese literature",
+          "url": "https://openlibrary.org/subjects/portuguese_literature"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "21st century",
+          "url": "https://openlibrary.org/subjects/time:21st_century"
+        }
+      ],
+      "notes": "Entire work in Portuguese with some section titles in English",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Natalie Wood",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Três dedos abaixo do joelho",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "By Heart",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Antonio e Cleópatra",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sopro",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Posfácio",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sobre os textos",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sobre o autor",
+          "pagenum": ""
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/14126400-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/14126400-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/14126400-L.jpg"
+      }
+    },
+    "ISBN:9786555250725": {
+      "url": "http://openlibrary.org/books/OL43812815M/Poesia_reunida_(1968-2021)",
+      "key": "/books/OL43812815M",
+      "title": "Poesia reunida (1968-2021)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL5564042A/Leonardo_Fróes",
+          "name": "Leonardo Fróes"
+        }
+      ],
+      "number_of_pages": 419,
+      "pagination": "419 pages",
+      "by_statement": "Leonardo Fróes ; apresentação, Cide Piquet",
+      "identifiers": {
+        "isbn_10": [
+          "6555250720"
+        ],
+        "isbn_13": [
+          "9786555250725"
+        ],
+        "lccn": [
+          "2021331525"
+        ],
+        "openlibrary": [
+          "OL43812815M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.16.R63 A6 2021"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2021",
+      "subjects": [
+        {
+          "name": "Brazilian poetry",
+          "url": "https://openlibrary.org/subjects/brazilian_poetry"
+        },
+        {
+          "name": "Brazilian Poets",
+          "url": "https://openlibrary.org/subjects/brazilian_poets"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "Poésie brésilienne",
+          "url": "https://openlibrary.org/subjects/poésie_brésilienne"
+        },
+        {
+          "name": "Littérature brésilienne",
+          "url": "https://openlibrary.org/subjects/littérature_brésilienne"
+        }
+      ],
+      "notes": "Includes bibliographical references by the author (pages 416-418) and index.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Lingua franca (1968)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A vida em comum (1969)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Esqueci de avisar que estou vivo (1973)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Anjo tigrado (1975)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sibilitz (1981)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Assim (1986)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Argumentos invisíveis (1995)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Um mosaico chamado a paz do fogo (1997)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Quatorze quadros redondos (1998)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Chinês com sono (2005)",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A pandemônia e outros poemas (2021)",
+          "pagenum": ""
+        }
+      ]
+    }
+  }
+}

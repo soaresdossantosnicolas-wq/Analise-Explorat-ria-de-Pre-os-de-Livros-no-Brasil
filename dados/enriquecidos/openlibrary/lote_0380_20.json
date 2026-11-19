@@ -1,0 +1,1774 @@
+{
+  "consultado_em": "2026-11-19T22:38:37.347060+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573266481%2CISBN%3A9788573266504%2CISBN%3A9788573266511%2CISBN%3A9788573266498%2CISBN%3A9788573266535%2CISBN%3A9788573266528%2CISBN%3A9788573266559%2CISBN%3A9788573266566%2CISBN%3A9788573266580%2CISBN%3A9788573266542%2CISBN%3A9788573266573%2CISBN%3A9788573266597%2CISBN%3A9788573266610%2CISBN%3A9788573266627%2CISBN%3A9788573266641%2CISBN%3A9788573266658%2CISBN%3A9788573266665%2CISBN%3A9788573266672%2CISBN%3A9788573266689%2CISBN%3A9788573266696&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573266559": {
+      "url": "https://openlibrary.org/books/OL61040442M/Trés_leituras",
+      "key": "/books/OL61040442M",
+      "title": "Trés leituras",
+      "subtitle": "Machado, Drummond, Carpeaux",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL697277A/Alfredo_Bosi",
+          "name": "Alfredo Bosi"
+        }
+      ],
+      "number_of_pages": 87,
+      "pagination": "87 pages",
+      "by_statement": "Alfredo Bosi",
+      "identifiers": {
+        "isbn_10": [
+          "8573266554"
+        ],
+        "isbn_13": [
+          "9788573266559"
+        ],
+        "oclc": [
+          "992977148"
+        ],
+        "openlibrary": [
+          "OL61040442M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9554 .B67 2017"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2017",
+      "subjects": [
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Machado de Assis (1839-1908)",
+          "url": "https://openlibrary.org/subjects/person:machado_de_assis_(1839-1908)"
+        },
+        {
+          "name": "Carlos Drummond de Andrade (1902-1987)",
+          "url": "https://openlibrary.org/subjects/person:carlos_drummond_de_andrade_(1902-1987)"
+        },
+        {
+          "name": "Otto Maria Carpeaux (1900-1978)",
+          "url": "https://openlibrary.org/subjects/person:otto_maria_carpeaux_(1900-1978)"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 85-87).",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "O duplo espelho em um conto de Machado de Assis",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Em torno de um poema de A rosa do povo",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Relendo Carpeaux.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573266566": {
+      "url": "https://openlibrary.org/books/OL61833390M/Música_e_cultura_popular",
+      "key": "/books/OL61833390M",
+      "title": "Música e cultura popular",
+      "subtitle": "vários escritos sobre um tema em comum",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 187,
+      "pagination": "187 pages",
+      "by_statement": "José Ramos Tinhorão",
+      "identifiers": {
+        "isbn_10": [
+          "8573266562"
+        ],
+        "isbn_13": [
+          "9788573266566"
+        ],
+        "oclc": [
+          "1007418258"
+        ],
+        "openlibrary": [
+          "OL61833390M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML232.5.T56 M87 2017",
+          "ML3487.B7 T56 2017"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo - SP Brasil"
+        }
+      ],
+      "publish_date": "2017",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ]
+    },
+    "ISBN:9788573266658": {
+      "url": "https://openlibrary.org/books/OL47301461M/Fábulas_Seguidas_do_Romance_de_Esopo",
+      "key": "/books/OL47301461M",
+      "title": "Fábulas, Seguidas do Romance de Esopo",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL4680306A/Jonathan_C._Young",
+          "name": "Jonathan C. Young"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573266651"
+        ],
+        "isbn_13": [
+          "9788573266658"
+        ],
+        "openlibrary": [
+          "OL47301461M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Mar 22, 2017",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13766093-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13766093-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13766093-L.jpg"
+      }
+    },
+    "ISBN:9788573266672": {
+      "url": "https://openlibrary.org/books/OL47230482M/Metamorfoses",
+      "key": "/books/OL47230482M",
+      "title": "Metamorfoses",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL18770A/Ovid",
+          "name": "Ovid"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2431096A/William_S._Anderson",
+          "name": "William S. Anderson"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2801828A/Mary_Frederick",
+          "name": "Mary Frederick"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL769571A/Rolfe_Humphries",
+          "name": "Rolfe Humphries"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL113177A/John_Dryden",
+          "name": "John Dryden"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2981493A/Samuel_Garth",
+          "name": "Samuel Garth"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3600558A/Jack_Shapiro",
+          "name": "Jack Shapiro"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10458322A/Ovid",
+          "name": "Ovid"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10611916A/Robert_Squillace",
+          "name": "Robert Squillace"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9292777A/Frank_Justus_Miller",
+          "name": "Frank Justus Miller"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8475091A/Ovidio",
+          "name": "Ovidio"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8214692A/Julius_Ziehen",
+          "name": "Julius Ziehen"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9208775A/Banier_(Antoine",
+          "name": "Banier (Antoine"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9208776A/M_L'Abbe)",
+          "name": "M L'Abbe)"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL296914A/Niklas_Holzberg",
+          "name": "Niklas Holzberg"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3481480A/Lee_Fratantuono",
+          "name": "Lee Fratantuono"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9956470A/A_D_Melville",
+          "name": "A D Melville"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9956471A/Emeritus_Kennedy_Professor_of_Latin_Fellow_E_J_Kenney",
+          "name": "Emeritus Kennedy Professor of Latin Fellow E J Kenney"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8625014A/Ovide",
+          "name": "Ovide"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10070406A/William_Scovil_Anderson",
+          "name": "William Scovil Anderson"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7906406A/Stephanie_McCarter",
+          "name": "Stephanie McCarter"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2682939A/Gerhard_Fink",
+          "name": "Gerhard Fink"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13426312A/Alexander_Pope",
+          "name": "Alexander Pope"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8074143A/Joseph_Addison",
+          "name": "Joseph Addison"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL139838A/William_Congreve",
+          "name": "William Congreve"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5993478A/Gottlieb_Erdmann_Gierig",
+          "name": "Gottlieb Erdmann Gierig"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9277820A/Jan_Minell",
+          "name": "Jan Minell"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9277821A/Pieter_Rabus",
+          "name": "Pieter Rabus"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL39826A/Alexander_Pope",
+          "name": "Alexander Pope"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9348182A/Sir_Samuel_Garth",
+          "name": "Sir Samuel Garth"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4400050A/John_Godwin",
+          "name": "John Godwin"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9944168A/OVIDIO",
+          "name": "OVIDIO"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7956624A/Publio_Nasone_Ovidio",
+          "name": "Publio Nasone Ovidio"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9384940A/Ovidi",
+          "name": "Ovidi"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9384941A/Xavier_Mata_Oroval",
+          "name": "Xavier Mata Oroval"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6010373A/Claude-Pierre_Goujet",
+          "name": "Claude-Pierre Goujet"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10554577A/Claude-Pierre_Banier",
+          "name": "Claude-Pierre Banier"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10521023A/Publius_Ovidius_Naso",
+          "name": "Publius Ovidius Naso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1383812A/Edward_Brooks",
+          "name": "Edward Brooks"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10569262A/Edward_Ovid",
+          "name": "Edward Ovid"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9901820A/Ovidius",
+          "name": "Ovidius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12249729A/Ernest_Ensor_Publius_Ovidius_Naso",
+          "name": "Ernest Ensor Publius Ovidius Naso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12597943A/Ovídio",
+          "name": "Ovídio"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6028528A/Pierre_Du_Ryer",
+          "name": "Pierre Du Ryer"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12537402A/Publio_Ovidio_Nason",
+          "name": "Publio Ovidio Nason"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15122503A/Johannes_Minellius",
+          "name": "Johannes Minellius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11948272A/J._F._and_C._Rivington_(Firm)",
+          "name": "J., F., and C. Rivington (Firm)"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15491657A/G._G._J._and_J._Robinson_(Paternoster-Row_London_England)",
+          "name": "G. G. J. and J. Robinson (Paternoster-Row, London, England)"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15491658A/Scatcherd_and_Whitaker",
+          "name": "Scatcherd and Whitaker"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9883356A/Publius_Ovidius_Naso",
+          "name": "Publius Ovidius Naso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10546132A/Mathieu_Guillaume_Thérès_de_Villenave",
+          "name": "Mathieu Guillaume Thérès de Villenave"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6014992A/Rudolf_Merkel",
+          "name": "Rudolf Merkel"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12404774A/Ovid_Giovanni_Andrea_Dell'_Anguillara",
+          "name": "Ovid Giovanni Andrea Dell' Anguillara"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12918673A/C._Luke_Soucy",
+          "name": "C. Luke Soucy"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7643052A/Publius_Ovidius_Naso",
+          "name": "Publius Ovidius Naso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13540944A/Joseph_Gaspard_Dubois-Fontanelle",
+          "name": "Joseph Gaspard Dubois-Fontanelle"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3980386A/Villenave",
+          "name": "Villenave"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6077250A/Moriz_Haupt",
+          "name": "Moriz Haupt"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6079644A/Otto_Korn",
+          "name": "Otto Korn"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10534355A/Otto_Ovid",
+          "name": "Otto Ovid"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL14507118A/J._J._J.J._Howard",
+          "name": "J. J. J.J. Howard"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10688883A/Henry_Riley",
+          "name": "Henry Riley"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9205779A/Théodose_Burette",
+          "name": "Théodose Burette"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10680518A/Etienne_Gros",
+          "name": "Etienne Gros"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1825967A/John_Clarke",
+          "name": "John Clarke"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9974876A/John_Ovid",
+          "name": "John Ovid"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13578610A/William_Thane_Peck",
+          "name": "William Thane Peck"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1226756A/Moriz_Haupt",
+          "name": "Moriz Haupt"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12866472A/Hermann_Johannes_Müller",
+          "name": "Hermann Johannes Müller"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15026955A/Otto_Korn",
+          "name": "Otto Korn"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4476090A/Henry_T._Riley",
+          "name": "Henry T. Riley"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2272636A/Banier_M._l'abbé",
+          "name": "Banier M. l'abbé"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6897206A/Bernard_Picart",
+          "name": "Bernard Picart"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4430634A/Arthur_Golding",
+          "name": "Arthur Golding"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL226610A/William_White",
+          "name": "William White"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15491144A/William_Seres",
+          "name": "William Seres"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15134164A/J._H._Haydon",
+          "name": "J. H. Haydon"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL691699A/Maximus_Planudes",
+          "name": "Maximus Planudes"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2156320A/Jean_François_Boissonade",
+          "name": "Jean François Boissonade"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9194784A/Garth_Samuel_Sir",
+          "name": "Garth, Samuel Sir"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL118521A/Joseph_Addison",
+          "name": "Joseph Addison"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4269382A/Laurence_Eusden",
+          "name": "Laurence Eusden"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4269356A/Arthur_Maynwaring",
+          "name": "Arthur Maynwaring"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11635538A/Samuel_Croxall",
+          "name": "Samuel Croxall"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL18671A/Nahum_Tate",
+          "name": "Nahum Tate"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL116858A/John_Gay",
+          "name": "John Gay"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15779623A/Freigius",
+          "name": "Freigius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16338209A/Moritz_Haupt",
+          "name": "Moritz Haupt"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12866416A/Otto_Korn",
+          "name": "Otto Korn"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8369390A/Ovide_Ovide",
+          "name": "Ovide Ovide"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15121642A/George_Sewell",
+          "name": "George Sewell"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11414274A/Ovid_Vergil",
+          "name": "Ovid Vergil"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11566918A/Ovide_(Ovid)_Georges_Lafaye",
+          "name": "Ovide (Ovid) ; Georges Lafaye"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12510930A/Rolfe_(Translated_by)_Ovid_and_Humphries",
+          "name": "Rolfe (Translated by) Ovid and Humphries"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5995120A/Ernst_Karl_Christian_Bach",
+          "name": "Ernst Karl Christian Bach"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5641608A/Rudolf_Ehwald",
+          "name": "Rudolf Ehwald"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13552061A/Ovidb_C_-17_or_18_a_D",
+          "name": "Ovidb C -17 or 18 a D"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6006379A/Daniel_Crespin",
+          "name": "Daniel Crespin"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5884698A/Anton_Zingerle",
+          "name": "Anton Zingerle"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6668142A/Heinrich_Stefan_Sedlmayer",
+          "name": "Heinrich Stefan Sedlmayer"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7601456A/José_Carlos_Fernández_Corte",
+          "name": "José Carlos Fernández Corte"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9949731A/María_Josefa_Cantó_Llorca",
+          "name": "María Josefa Cantó Llorca"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL533100A/Charles_Martin",
+          "name": "Charles Martin"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1388850A/Emily_R._Wilson",
+          "name": "Emily R. Wilson"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10646257A/Ovide",
+          "name": "Ovide"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9195383A/Henry_T._Riley",
+          "name": "Henry T. Riley"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11416995A/translated_by_frank_jsutus_miller_Ovid",
+          "name": "translated by frank jsutus miller Ovid"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12337551A/Moriz_Haupt_P._Ovidius_Naso",
+          "name": "Moriz Haupt P. Ovidius Naso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12382259A/N._C._(Nathan_Covington)_180_Brooks",
+          "name": "N. C. (Nathan Covington) 180 Brooks"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12603005A/José-Román_Bravo_Díaz",
+          "name": "José-Román Bravo Díaz"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9950563A/Publio_Ovidio_Nasón",
+          "name": "Publio Ovidio Nasón"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9943488A/Antonio_Ruiz_de_Elvira_Prieto",
+          "name": "Antonio Ruiz de Elvira Prieto"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9942694A/Bartolomé_Segura_Ramos",
+          "name": "Bartolomé Segura Ramos"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12705393A/OVIDIO_BONIFAZ_NU_O_RUBEN_INTRODUCION_VERSION",
+          "name": "OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12705394A/OVIDIO_BONIFAZ_NU_O_RUBEN_INTRODUCION_VERSION",
+          "name": "OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12836302A/Publius_Ovidius_Naso_Ovide",
+          "name": "Publius Ovidius Naso Ovide"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12779201A/OVIDE",
+          "name": "OVIDE"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL9231138A/Stamperia_del_Seminario_(Padua)",
+          "name": "Stamperia del Seminario (Padua)"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12912760A/Publius_Ovidius_Publius_Ovidius_Naso",
+          "name": "Publius Ovidius Publius Ovidius Naso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3690191A/Henry_Thomas_Riley",
+          "name": "Henry Thomas Riley"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7575194A/Publi_Ovidi_Nasó",
+          "name": "Publi Ovidi Nasó"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3572937A/Donald_E._Hill",
+          "name": "Donald E. Hill"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8134702A/J._R._Jenkinson",
+          "name": "J. R. Jenkinson"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8189314A/K._Sara_Myers",
+          "name": "K. Sara Myers"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL14688503A/Ovid_Poet",
+          "name": "Ovid Poet"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10528065A/John_Laney",
+          "name": "John Laney"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4532681A/Hermann_Breitenbach",
+          "name": "Hermann Breitenbach"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7398906A/Rudolf_Merkel",
+          "name": "Rudolf Merkel"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2503922A/Rudolf_Ehwald",
+          "name": "Rudolf Ehwald"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11940363A/Ange-François_Fariau_de_Saint-Ange",
+          "name": "Ange-François Fariau de Saint-Ange"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL44790A/Pablo_Picasso",
+          "name": "Pablo Picasso"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL159850A/Jean_Gaspard_Dubois-Fontanelle",
+          "name": "Jean Gaspard Dubois-Fontanelle"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1029670A/Giuseppe_Zocchi",
+          "name": "Giuseppe Zocchi"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5646699A/Joseph_Chamonard",
+          "name": "Joseph Chamonard"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15278622A/Diedrich_Ernest_Bosselaar",
+          "name": "Diedrich Ernest Bosselaar"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1637641A/Thomas_Farnaby",
+          "name": "Thomas Farnaby"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13941135A/Friedrich_Polle",
+          "name": "Friedrich Polle"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1637449A/Johannes_Siebelis",
+          "name": "Johannes Siebelis"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15395789A/Bernardino_Stagnino",
+          "name": "Bernardino Stagnino"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15395790A/Carolus_Vivianus",
+          "name": "Carolus Vivianus"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15434738A/Ovide_(Ovid)",
+          "name": "Ovide (Ovid) "
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15434739A/Georges_Lafaye",
+          "name": " Georges Lafaye"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1742765A/George_Sandys",
+          "name": "George Sandys"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7643482A/Richard_Badger",
+          "name": "Richard Badger"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15488402A/Johann_Raener",
+          "name": "Johann Raener"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2360550A/Henricus_Glareanus",
+          "name": "Henricus Glareanus"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15490529A/Thomas_Purfoot",
+          "name": "Thomas Purfoot"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2610203A/Charles_Simmons",
+          "name": "Charles Simmons"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1092263A/Lodovico_Dolce",
+          "name": "Lodovico Dolce"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12155485A/Jakob_Moltzer",
+          "name": "Jakob Moltzer"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12836699A/Ercole_Ciofani",
+          "name": "Ercole Ciofani"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL735231A/Daniel_Heinsius",
+          "name": "Daniel Heinsius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2516169A/Nicolaas_Heinsius",
+          "name": "Nicolaas Heinsius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2523154A/Pieter_Burman",
+          "name": "Pieter Burman"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15559124A/Johann_Wilhelm_Capoferrius",
+          "name": "Johann Wilhelm Capoferrius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15576367A/Charles_de_Massac",
+          "name": "Charles de Massac"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15576368A/Raymond_de_Massac",
+          "name": "Raymond de Massac"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15598470A/George_Sewell",
+          "name": "George Sewell"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6934694A/Raffaele_Regio",
+          "name": "Raffaele Regio"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15600112A/Giovanni_de_Buonsignore",
+          "name": "Giovanni de Buonsignore"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL11726124A/Luca-Antonio_Giunta",
+          "name": "Luca-Antonio Giunta"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL297618A/William_Caxton",
+          "name": "William Caxton"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5389924A/George_Hibbert",
+          "name": "George Hibbert"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4907034A/Roxburghe_Club",
+          "name": "Roxburghe Club"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10002111A/Erich_Rösch",
+          "name": "Erich Rösch"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5128914A/Joseph_Davidson",
+          "name": "Joseph Davidson"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1172140A/Claude-Pierre_Goujet",
+          "name": "Claude-Pierre Goujet"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1799346A/Banier_(Antoine)",
+          "name": "Banier (Antoine)"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15216439A/Jean_Matheus",
+          "name": "Jean Matheus"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15888013A/Isaac_Briot",
+          "name": "Isaac Briot"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15888014A/Pierre_Firens",
+          "name": "Pierre Firens"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15888015A/Michael_Faulte",
+          "name": "Michael Faulte"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15888016A/Gerard_Jean-Baptiste_Scotin",
+          "name": "Gerard Jean-Baptiste Scotin"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15888017A/Antoine_Humblot",
+          "name": "Antoine Humblot"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1091968A/Virgil_Solis",
+          "name": "Virgil Solis"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5120276A/Vasiliĭ_Maĭkov",
+          "name": "Vasiliĭ Maĭkov"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15035272A/Gerhard_Lorich",
+          "name": "Gerhard Lorich"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL10075974A/Marguerite_Carnec",
+          "name": "Marguerite Carnec"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3127657A/Olivier_Sers",
+          "name": "Olivier Sers"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2964716A/SparkNotes",
+          "name": "SparkNotes"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1749170A/Georges_Lafaye",
+          "name": "Georges Lafaye"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15395814A/Raphaello_Regius",
+          "name": "Raphaello Regius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL807300A/Josse_Badius",
+          "name": "Josse Badius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15569826A/Gottlieb_Erdmann_Gierig",
+          "name": "Gottlieb Erdmann Gierig"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16062663A/Almeno_pseud",
+          "name": "Almeno pseud"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16184714A/Ēlias_Tsirinkakēs",
+          "name": "Ēlias Tsirinkakēs"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL12563100A/Jordi_Parramon_Blasco",
+          "name": "Jordi Parramon Blasco"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15047581A/John_Clarke",
+          "name": "John Clarke"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13470275A/Jacobus_Rubeus",
+          "name": "Jacobus Rubeus"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15150595A/Henry_N._Heale",
+          "name": "Henry N. Heale"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL617013A/William_Scovil_Anderson",
+          "name": "William Scovil Anderson"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL1157648A/Gianpiero_Rosati",
+          "name": "Gianpiero Rosati"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16145160A/Giovanna_Faranda_Villa",
+          "name": "Giovanna Faranda Villa"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16145161A/Rossella_Corti",
+          "name": "Rossella Corti"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15532335A/Nicolas_Renouard",
+          "name": "Nicolas Renouard"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL28294A/Publius_Vergilius_Maro",
+          "name": "Publius Vergilius Maro"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL895152A/Henry_King",
+          "name": "Henry King"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15026991A/Karl_Hermann_Weise",
+          "name": "Karl Hermann Weise"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5987984A/Jorge_de_Bustamante",
+          "name": "Jorge de Bustamante"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5987986A/Pierre_Bellère",
+          "name": "Pierre Bellère"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL8527102A/Fitzwilliam_William_Charles_de_Meuron_Earl",
+          "name": "Fitzwilliam, William Charles de Meuron Earl"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15410145A/Edward_Glaser",
+          "name": "Edward Glaser"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16483063A/Giovanni_de'_Buonsignori",
+          "name": "Giovanni de' Buonsignori"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4849490A/Gregor_Bersmann",
+          "name": "Gregor Bersmann"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL13460931A/Pieter_Rabus",
+          "name": "Pieter Rabus"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16076375A/'Introductiones'_Printer_of_Nebrissensis",
+          "name": "'Introductiones' Printer of Nebrissensis"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL3618331A/Hannibal_Gamon",
+          "name": "Hannibal Gamon"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15510906A/Clifden_Arthur_Victor_Agar-Robartes_Viscount",
+          "name": "Clifden, Arthur Victor Agar-Robartes Viscount"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15510909A/England)_Lanhydrock_House_(Cornwall",
+          "name": "England) Lanhydrock House (Cornwall"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL15554435A/Giovanni_Andrea_dell'_Anguillara",
+          "name": "Giovanni Andrea dell' Anguillara"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL5690581A/Francesco_Turchi",
+          "name": "Francesco Turchi"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2019167A/Clarke_John",
+          "name": "Clarke, John"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16091596A/Karl_Paul_Otto_Korn",
+          "name": "Karl Paul Otto Korn"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7415925A/H._J._Müller",
+          "name": "H. J. Müller"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL7992028A/Otto_Korn",
+          "name": "Otto Korn"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16118004A/Johann_Balthasar_Sedkezki",
+          "name": "Johann Balthasar Sedkezki"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2413662A/Stephen_Gaselee",
+          "name": "Stephen Gaselee"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2591626A/H._F._B._Brett-Smith",
+          "name": "H. F. B. Brett-Smith"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL6958786A/Pepys_Library",
+          "name": "Pepys Library"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL4283646A/Raphaello_Regius",
+          "name": "Raphaello Regius"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16217380A/Paul_Brandt",
+          "name": "Paul Brandt"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL496978A/Pierre_Du_Ryer",
+          "name": "Pierre Du Ryer"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL16254146A/Gwilym_Aneurin_Tudor_Davies",
+          "name": "Gwilym Aneurin Tudor Davies"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL14644324A/Ovid_43_BCE-18_43_BCE-18",
+          "name": "Ovid, 43 BCE-18, 43 BCE-18"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "8573266678"
+        ],
+        "isbn_13": [
+          "9788573266672"
+        ],
+        "openlibrary": [
+          "OL47230482M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_date": "Mar 19, 2017",
+      "subjects": [
+        {
+          "name": "Poetry",
+          "url": "https://openlibrary.org/subjects/poetry"
+        },
+        {
+          "name": "Mythology",
+          "url": "https://openlibrary.org/subjects/mythology"
+        },
+        {
+          "name": "Metamorphosis",
+          "url": "https://openlibrary.org/subjects/metamorphosis"
+        },
+        {
+          "name": "Latin Fables",
+          "url": "https://openlibrary.org/subjects/latin_fables"
+        },
+        {
+          "name": "Classical Mythology",
+          "url": "https://openlibrary.org/subjects/classical_mythology"
+        },
+        {
+          "name": "Translations into Italian",
+          "url": "https://openlibrary.org/subjects/translations_into_italian"
+        },
+        {
+          "name": "Poesia lirica latina",
+          "url": "https://openlibrary.org/subjects/poesia_lirica_latina"
+        },
+        {
+          "name": "Translations into English",
+          "url": "https://openlibrary.org/subjects/translations_into_english"
+        },
+        {
+          "name": "Latin Epistolary poetry",
+          "url": "https://openlibrary.org/subjects/latin_epistolary_poetry"
+        },
+        {
+          "name": "Women",
+          "url": "https://openlibrary.org/subjects/women"
+        },
+        {
+          "name": "Love poetry, Latin",
+          "url": "https://openlibrary.org/subjects/love_poetry,_latin"
+        },
+        {
+          "name": "Love-letters",
+          "url": "https://openlibrary.org/subjects/love-letters"
+        },
+        {
+          "name": "Latin language",
+          "url": "https://openlibrary.org/subjects/latin_language"
+        },
+        {
+          "name": "Readers",
+          "url": "https://openlibrary.org/subjects/readers"
+        },
+        {
+          "name": "Language teaching & learning material & coursework",
+          "url": "https://openlibrary.org/subjects/language_teaching_&_learning_material_&_coursework"
+        },
+        {
+          "name": "Latin",
+          "url": "https://openlibrary.org/subjects/latin"
+        },
+        {
+          "name": "Foreign Language - Dictionaries / Phrase Books",
+          "url": "https://openlibrary.org/subjects/foreign_language_-_dictionaries_/_phrase_books"
+        },
+        {
+          "name": "Latin language, readers",
+          "url": "https://openlibrary.org/subjects/latin_language,_readers"
+        },
+        {
+          "name": "Poetry (poetic works by one author)",
+          "url": "https://openlibrary.org/subjects/poetry_(poetic_works_by_one_author)"
+        },
+        {
+          "name": "Metric system",
+          "url": "https://openlibrary.org/subjects/metric_system"
+        },
+        {
+          "name": "Classical philology",
+          "url": "https://openlibrary.org/subjects/classical_philology"
+        },
+        {
+          "name": "Latin Poetry",
+          "url": "https://openlibrary.org/subjects/latin_poetry"
+        },
+        {
+          "name": "Fables",
+          "url": "https://openlibrary.org/subjects/fables"
+        },
+        {
+          "name": "Translations into German",
+          "url": "https://openlibrary.org/subjects/translations_into_german"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Ovid, 43 b.c.-17 a.d. or 18 a.d.",
+          "url": "https://openlibrary.org/subjects/ovid,_43_b.c.-17_a.d._or_18_a.d."
+        },
+        {
+          "name": "Poetry, medieval, history and criticism",
+          "url": "https://openlibrary.org/subjects/poetry,_medieval,_history_and_criticism"
+        },
+        {
+          "name": "Literary studies: classical, early & medieval",
+          "url": "https://openlibrary.org/subjects/literary_studies:_classical,_early_&_medieval"
+        },
+        {
+          "name": "Translations into French",
+          "url": "https://openlibrary.org/subjects/translations_into_french"
+        },
+        {
+          "name": "Latin literature",
+          "url": "https://openlibrary.org/subjects/latin_literature"
+        },
+        {
+          "name": "Latin Love poetry",
+          "url": "https://openlibrary.org/subjects/latin_love_poetry"
+        },
+        {
+          "name": "Illustrations",
+          "url": "https://openlibrary.org/subjects/illustrations"
+        },
+        {
+          "name": "English literature",
+          "url": "https://openlibrary.org/subjects/english_literature"
+        },
+        {
+          "name": "Medieval and modern Latin literature",
+          "url": "https://openlibrary.org/subjects/medieval_and_modern_latin_literature"
+        },
+        {
+          "name": "Latin American literature",
+          "url": "https://openlibrary.org/subjects/latin_american_literature"
+        },
+        {
+          "name": "Latin Didactic poetry",
+          "url": "https://openlibrary.org/subjects/latin_didactic_poetry"
+        },
+        {
+          "name": "Translations",
+          "url": "https://openlibrary.org/subjects/translations"
+        },
+        {
+          "name": "Early works to 1800",
+          "url": "https://openlibrary.org/subjects/early_works_to_1800"
+        },
+        {
+          "name": "Latin Elegiac poetry",
+          "url": "https://openlibrary.org/subjects/latin_elegiac_poetry"
+        },
+        {
+          "name": "Seduction",
+          "url": "https://openlibrary.org/subjects/seduction"
+        },
+        {
+          "name": "Incantations",
+          "url": "https://openlibrary.org/subjects/incantations"
+        },
+        {
+          "name": "Latin Poets",
+          "url": "https://openlibrary.org/subjects/latin_poets"
+        },
+        {
+          "name": "Care and hygiene",
+          "url": "https://openlibrary.org/subjects/care_and_hygiene"
+        },
+        {
+          "name": "Separation (Psychology)",
+          "url": "https://openlibrary.org/subjects/separation_(psychology)"
+        },
+        {
+          "name": "Latin Erotic poetry",
+          "url": "https://openlibrary.org/subjects/latin_erotic_poetry"
+        },
+        {
+          "name": "Aeneas (Legendary character)",
+          "url": "https://openlibrary.org/subjects/aeneas_(legendary_character)"
+        },
+        {
+          "name": "Translating into French",
+          "url": "https://openlibrary.org/subjects/translating_into_french"
+        },
+        {
+          "name": "Skin",
+          "url": "https://openlibrary.org/subjects/skin"
+        },
+        {
+          "name": "Knowledge",
+          "url": "https://openlibrary.org/subjects/knowledge"
+        },
+        {
+          "name": "Fasts and feasts",
+          "url": "https://openlibrary.org/subjects/fasts_and_feasts"
+        },
+        {
+          "name": "European literature",
+          "url": "https://openlibrary.org/subjects/european_literature"
+        },
+        {
+          "name": "Correspondence",
+          "url": "https://openlibrary.org/subjects/correspondence"
+        },
+        {
+          "name": "Problems, exercises",
+          "url": "https://openlibrary.org/subjects/problems,_exercises"
+        },
+        {
+          "name": "Literature",
+          "url": "https://openlibrary.org/subjects/literature"
+        },
+        {
+          "name": "Translations into Danish",
+          "url": "https://openlibrary.org/subjects/translations_into_danish"
+        },
+        {
+          "name": "Homes and haunts",
+          "url": "https://openlibrary.org/subjects/homes_and_haunts"
+        },
+        {
+          "name": "German poetry",
+          "url": "https://openlibrary.org/subjects/german_poetry"
+        },
+        {
+          "name": "Translations from Latin",
+          "url": "https://openlibrary.org/subjects/translations_from_latin"
+        },
+        {
+          "name": "English poetry",
+          "url": "https://openlibrary.org/subjects/english_poetry"
+        },
+        {
+          "name": "Exiles",
+          "url": "https://openlibrary.org/subjects/exiles"
+        },
+        {
+          "name": "Translations into Spanish",
+          "url": "https://openlibrary.org/subjects/translations_into_spanish"
+        },
+        {
+          "name": "Comparative Literature",
+          "url": "https://openlibrary.org/subjects/comparative_literature"
+        },
+        {
+          "name": "Baroque Painting",
+          "url": "https://openlibrary.org/subjects/baroque_painting"
+        },
+        {
+          "name": "Translations into Russian",
+          "url": "https://openlibrary.org/subjects/translations_into_russian"
+        },
+        {
+          "name": "Themes, motives",
+          "url": "https://openlibrary.org/subjects/themes,_motives"
+        },
+        {
+          "name": "Influence",
+          "url": "https://openlibrary.org/subjects/influence"
+        },
+        {
+          "name": "Roman influences",
+          "url": "https://openlibrary.org/subjects/roman_influences"
+        },
+        {
+          "name": "Sources",
+          "url": "https://openlibrary.org/subjects/sources"
+        },
+        {
+          "name": "Calendar",
+          "url": "https://openlibrary.org/subjects/calendar"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Fables, Latin",
+          "url": "https://openlibrary.org/subjects/fables,_latin"
+        },
+        {
+          "name": "Mythology, Classical",
+          "url": "https://openlibrary.org/subjects/mythology,_classical"
+        },
+        {
+          "name": "Latin language materials",
+          "url": "https://openlibrary.org/subjects/latin_language_materials"
+        },
+        {
+          "name": "Mythologie ancienne",
+          "url": "https://openlibrary.org/subjects/mythologie_ancienne"
+        },
+        {
+          "name": "Poésie",
+          "url": "https://openlibrary.org/subjects/poésie"
+        },
+        {
+          "name": "TRAVEL",
+          "url": "https://openlibrary.org/subjects/travel"
+        },
+        {
+          "name": "Special Interest",
+          "url": "https://openlibrary.org/subjects/special_interest"
+        },
+        {
+          "name": "Literary",
+          "url": "https://openlibrary.org/subjects/literary"
+        },
+        {
+          "name": "LITERARY CRITICISM",
+          "url": "https://openlibrary.org/subjects/literary_criticism"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        },
+        {
+          "name": "Classical literature",
+          "url": "https://openlibrary.org/subjects/classical_literature"
+        },
+        {
+          "name": "Latin poetry -- Translations into English",
+          "url": "https://openlibrary.org/subjects/latin_poetry_--_translations_into_english"
+        },
+        {
+          "name": "Fables, Latin -- Translations into English",
+          "url": "https://openlibrary.org/subjects/fables,_latin_--_translations_into_english"
+        },
+        {
+          "name": "Metamorphosis -- Mythology -- Poetry",
+          "url": "https://openlibrary.org/subjects/metamorphosis_--_mythology_--_poetry"
+        },
+        {
+          "name": "Mythology, Classical -- Poetry",
+          "url": "https://openlibrary.org/subjects/mythology,_classical_--_poetry"
+        },
+        {
+          "name": "Schools",
+          "url": "https://openlibrary.org/subjects/schools"
+        },
+        {
+          "name": "Greek Mythology",
+          "url": "https://openlibrary.org/subjects/greek_mythology"
+        },
+        {
+          "name": "Latin poetry, translations into english",
+          "url": "https://openlibrary.org/subjects/latin_poetry,_translations_into_english"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Ancient",
+          "url": "https://openlibrary.org/subjects/ancient"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        },
+        {
+          "name": "Man-woman relationships",
+          "url": "https://openlibrary.org/subjects/man-woman_relationships"
+        },
+        {
+          "name": "Christian saints",
+          "url": "https://openlibrary.org/subjects/christian_saints"
+        },
+        {
+          "name": "Metamorphosis in literature",
+          "url": "https://openlibrary.org/subjects/metamorphosis_in_literature"
+        },
+        {
+          "name": "Mythology, Classical, in art",
+          "url": "https://openlibrary.org/subjects/mythology,_classical,_in_art"
+        },
+        {
+          "name": "Textual Criticism",
+          "url": "https://openlibrary.org/subjects/textual_criticism"
+        },
+        {
+          "name": "Fables latines",
+          "url": "https://openlibrary.org/subjects/fables_latines"
+        },
+        {
+          "name": "Ovid, 43 B.C.-17 or 18 A.D.",
+          "url": "https://openlibrary.org/subjects/ovid,_43_b.c.-17_or_18_a.d."
+        },
+        {
+          "name": "Latin literature, translations into english",
+          "url": "https://openlibrary.org/subjects/latin_literature,_translations_into_english"
+        },
+        {
+          "name": "Metamorphosis, mythology",
+          "url": "https://openlibrary.org/subjects/metamorphosis,_mythology"
+        },
+        {
+          "name": "Mythology, Classical, in literature",
+          "url": "https://openlibrary.org/subjects/mythology,_classical,_in_literature"
+        },
+        {
+          "name": "Metamorphoses (Ovid)",
+          "url": "https://openlibrary.org/subjects/metamorphoses_(ovid)"
+        },
+        {
+          "name": "Fiction, short stories (single author)",
+          "url": "https://openlibrary.org/subjects/fiction,_short_stories_(single_author)"
+        },
+        {
+          "name": "Lateinunterricht",
+          "url": "https://openlibrary.org/subjects/lateinunterricht"
+        },
+        {
+          "name": "Love poetry",
+          "url": "https://openlibrary.org/subjects/love_poetry"
+        },
+        {
+          "name": "Latin poetry; epic",
+          "url": "https://openlibrary.org/subjects/latin_poetry;_epic"
+        },
+        {
+          "name": "Spanish Engraving",
+          "url": "https://openlibrary.org/subjects/spanish_engraving"
+        },
+        {
+          "name": "Bindings, 20th cent., Spanish",
+          "url": "https://openlibrary.org/subjects/bindings,_20th_cent.,_spanish"
+        },
+        {
+          "name": "Brugalla",
+          "url": "https://openlibrary.org/subjects/brugalla"
+        },
+        {
+          "name": "Wood-engraving, Italian",
+          "url": "https://openlibrary.org/subjects/wood-engraving,_italian"
+        },
+        {
+          "name": "Specimens",
+          "url": "https://openlibrary.org/subjects/specimens"
+        },
+        {
+          "name": "Presentation inscription to R. Browning",
+          "url": "https://openlibrary.org/subjects/presentation_inscription_to_r._browning"
+        },
+        {
+          "name": "Presentation inscription from W. S. Landor",
+          "url": "https://openlibrary.org/subjects/presentation_inscription_from_w._s._landor"
+        },
+        {
+          "name": "Fine books",
+          "url": "https://openlibrary.org/subjects/fine_books"
+        },
+        {
+          "name": "Métamorphose (Biologie)",
+          "url": "https://openlibrary.org/subjects/métamorphose_(biologie)"
+        },
+        {
+          "name": "Mythologie",
+          "url": "https://openlibrary.org/subjects/mythologie"
+        },
+        {
+          "name": "Latin Epic poetry",
+          "url": "https://openlibrary.org/subjects/latin_epic_poetry"
+        },
+        {
+          "name": "Poésie épique latine",
+          "url": "https://openlibrary.org/subjects/poésie_épique_latine"
+        },
+        {
+          "name": "Poetry, collections",
+          "url": "https://openlibrary.org/subjects/poetry,_collections"
+        },
+        {
+          "name": "Translations into Greek",
+          "url": "https://openlibrary.org/subjects/translations_into_greek"
+        },
+        {
+          "name": "Miniature books",
+          "url": "https://openlibrary.org/subjects/miniature_books"
+        },
+        {
+          "name": "Modern Translations into Greek",
+          "url": "https://openlibrary.org/subjects/modern_translations_into_greek"
+        },
+        {
+          "name": "Literary Criticism & Collections / American",
+          "url": "https://openlibrary.org/subjects/literary_criticism_&_collections_/_american"
+        },
+        {
+          "name": "Literary Criticism & Collections / General",
+          "url": "https://openlibrary.org/subjects/literary_criticism_&_collections_/_general"
+        },
+        {
+          "name": "Psychiatric Hospitals",
+          "url": "https://openlibrary.org/subjects/psychiatric_hospitals"
+        },
+        {
+          "name": "Hospitals, psychiatric",
+          "url": "https://openlibrary.org/subjects/hospitals,_psychiatric"
+        },
+        {
+          "name": "York Retreat",
+          "url": "https://openlibrary.org/subjects/york_retreat"
+        },
+        {
+          "name": "Retreat (York, Eng.)",
+          "url": "https://openlibrary.org/subjects/retreat_(york,_eng.)"
+        },
+        {
+          "name": "York (England). Retreat",
+          "url": "https://openlibrary.org/subjects/york_(england)._retreat"
+        },
+        {
+          "name": "Emblems",
+          "url": "https://openlibrary.org/subjects/emblems"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "United States",
+          "url": "https://openlibrary.org/subjects/place:united_states"
+        },
+        {
+          "name": "Constanța",
+          "url": "https://openlibrary.org/subjects/place:constanța"
+        },
+        {
+          "name": "Romania",
+          "url": "https://openlibrary.org/subjects/place:romania"
+        },
+        {
+          "name": "Rome",
+          "url": "https://openlibrary.org/subjects/place:rome"
+        },
+        {
+          "name": "England",
+          "url": "https://openlibrary.org/subjects/place:england"
+        },
+        {
+          "name": "London",
+          "url": "https://openlibrary.org/subjects/place:london"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Ovid (43 B.C.-17 or 18 A.D)",
+          "url": "https://openlibrary.org/subjects/person:ovid_(43_b.c.-17_or_18_a.d)"
+        },
+        {
+          "name": "Barthélemy Aneau (d. 1561)",
+          "url": "https://openlibrary.org/subjects/person:barthélemy_aneau_(d._1561)"
+        },
+        {
+          "name": "Ambrosius Metzger",
+          "url": "https://openlibrary.org/subjects/person:ambrosius_metzger"
+        },
+        {
+          "name": "Virgil",
+          "url": "https://openlibrary.org/subjects/person:virgil"
+        },
+        {
+          "name": "Julius Caesar",
+          "url": "https://openlibrary.org/subjects/person:julius_caesar"
+        },
+        {
+          "name": "Ovid (43 B.C.-17 A.D. or 18 A.D)",
+          "url": "https://openlibrary.org/subjects/person:ovid_(43_b.c.-17_a.d._or_18_a.d)"
+        },
+        {
+          "name": "John Brinsley (fl. 1633)",
+          "url": "https://openlibrary.org/subjects/person:john_brinsley_(fl._1633)"
+        },
+        {
+          "name": "Publius Ovidius Naso (v43-17)",
+          "url": "https://openlibrary.org/subjects/person:publius_ovidius_naso_(v43-17)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "18th century",
+          "url": "https://openlibrary.org/subjects/time:18th_century"
+        },
+        {
+          "name": "16th century",
+          "url": "https://openlibrary.org/subjects/time:16th_century"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13670548-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13670548-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13670548-L.jpg"
+      }
+    },
+    "ISBN:9788573266689": {
+      "url": "https://openlibrary.org/books/OL44504535M/Qvasi",
+      "key": "/books/OL44504535M",
+      "title": "Qvasi",
+      "subtitle": "segundo caderno",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL93109A/Edimilson_de_Almeida_Pereira",
+          "name": "Edimilson de Almeida Pereira"
+        }
+      ],
+      "number_of_pages": 149,
+      "pagination": "149 pages",
+      "by_statement": "Edimilson de Almeida Pereira",
+      "identifiers": {
+        "isbn_10": [
+          "8573266686"
+        ],
+        "isbn_13": [
+          "9788573266689"
+        ],
+        "lccn": [
+          "2017313186"
+        ],
+        "oclc": [
+          "1004752398"
+        ],
+        "openlibrary": [
+          "OL44504535M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.26.E7119 Q83 2017",
+          "PQ9698.26.E7119 A6 2017"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo-SP, Brasil"
+        }
+      ],
+      "publish_date": "2017",
+      "subjects": [
+        {
+          "name": "Literatur",
+          "url": "https://openlibrary.org/subjects/literatur"
+        }
+      ],
+      "notes": "Poems."
+    }
+  }
+}

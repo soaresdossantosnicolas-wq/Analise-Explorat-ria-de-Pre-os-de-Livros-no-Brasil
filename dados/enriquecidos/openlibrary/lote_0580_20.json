@@ -1,0 +1,94 @@
+{
+  "consultado_em": "2026-11-19T22:39:51.217468+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9786555251357%2CISBN%3A9786580341122%2CISBN%3A9786555251449%2CISBN%3A9786555251432%2CISBN%3A9786555251364%2CISBN%3A9786555251203%2CISBN%3A9788573263190%2CISBN%3A9786555251456%2CISBN%3A9786555251470%2CISBN%3A9786555251487%2CISBN%3A9786555251494%2CISBN%3A9786555251500%2CISBN%3A9786555251517%2CISBN%3A9786555251524%2CISBN%3A9786580341221%2CISBN%3A9786555251531%2CISBN%3A9786555251548%2CISBN%3A9786555251555%2CISBN%3A9786555251562%2CISBN%3A9788573263060&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573263060": {
+      "url": "http://openlibrary.org/books/OL22608546M/Grandesertão.br",
+      "key": "/books/OL22608546M",
+      "title": "Grandesertão.br",
+      "subtitle": "o romance de formação do Brasil",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL487280A/Willi_Bolle",
+          "name": "Willi Bolle"
+        }
+      ],
+      "number_of_pages": 478,
+      "pagination": "478 p. :",
+      "by_statement": "Willi Bolle.",
+      "identifiers": {
+        "librarything": [
+          "1913266"
+        ],
+        "isbn_10": [
+          "8523500375",
+          "8573263067"
+        ],
+        "lccn": [
+          "2004340334"
+        ],
+        "oclc": [
+          "57566418"
+        ],
+        "openlibrary": [
+          "OL22608546M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9697.R76 G7378 2004",
+          "PQ9697.R76 G715 2004"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Livraria Duas Cidades"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2004",
+      "subjects": [
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Criticism and interpretation",
+          "url": "https://openlibrary.org/subjects/criticism_and_interpretation"
+        },
+        {
+          "name": "Bildungsromans",
+          "url": "https://openlibrary.org/subjects/bildungsromans"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "Romance (crítica e interpretação)",
+          "url": "https://openlibrary.org/subjects/romance_(crítica_e_interpretação)"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "João Guimarães Rosa (1908-1967)",
+          "url": "https://openlibrary.org/subjects/person:joão_guimarães_rosa_(1908-1967)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 447-474)"
+    }
+  }
+}

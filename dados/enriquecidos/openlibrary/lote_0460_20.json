@@ -1,0 +1,437 @@
+{
+  "consultado_em": "2026-11-19T22:39:08.026757+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573267426%2CISBN%3A9788573267433%2CISBN%3A9786580341023%2CISBN%3A9788573267440%2CISBN%3A9786580341030%2CISBN%3A9788573267457%2CISBN%3A9788573267464%2CISBN%3A9788573267488%2CISBN%3A9788573267501%2CISBN%3A9788573267518%2CISBN%3A9788573267532%2CISBN%3A9788573267495%2CISBN%3A9788573267471%2CISBN%3A9788573267525%2CISBN%3A9788573267549%2CISBN%3A9788573267556%2CISBN%3A9786555250008%2CISBN%3A9786555250015%2CISBN%3A9786555250046%2CISBN%3A9786555250053&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9786580341023": {
+      "url": "http://openlibrary.org/books/OL27712162M/Fantina",
+      "key": "/books/OL27712162M",
+      "title": "Fantina",
+      "subtitle": "Cenas da escravidão",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL7760662A/Francisco_Coelho_Duarte_Badaró",
+          "name": "Francisco Coelho Duarte Badaró"
+        }
+      ],
+      "identifiers": {
+        "isbn_13": [
+          "9786580341023"
+        ],
+        "openlibrary": [
+          "OL27712162M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Chão Editora"
+        }
+      ],
+      "publish_date": "2019",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/9145142-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/9145142-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/9145142-L.jpg"
+      }
+    },
+    "ISBN:9788573267440": {
+      "url": "http://openlibrary.org/books/OL44061727M/Ocupar_e_resistir",
+      "key": "/books/OL44061727M",
+      "title": "Ocupar e resistir",
+      "subtitle": "movimentos de ocupação de escolas pelo Brasil (2015-2016)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL9759982A/Jonas_Medeiros",
+          "name": "Jonas Medeiros"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL11722590A/Adriano_Januário",
+          "name": "Adriano Januário"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL11722591A/Rúrion_Melo",
+          "name": "Rúrion Melo"
+        }
+      ],
+      "number_of_pages": 348,
+      "pagination": "348 pages",
+      "by_statement": "Jonas Medeiros, Adriano Januário, Rúrion Melo, organizadores",
+      "identifiers": {
+        "isbn_10": [
+          "8573267445"
+        ],
+        "isbn_13": [
+          "9788573267440"
+        ],
+        "lccn": [
+          "2019313795"
+        ],
+        "oclc": [
+          "1241693027"
+        ],
+        "openlibrary": [
+          "OL44061727M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "LA558.7 .O297 2019",
+          "LA558.7 .O28 2019"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2019",
+      "subjects": [
+        {
+          "name": "Student strikes",
+          "url": "https://openlibrary.org/subjects/student_strikes"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Student movements",
+          "url": "https://openlibrary.org/subjects/student_movements"
+        },
+        {
+          "name": "Protest movements",
+          "url": "https://openlibrary.org/subjects/protest_movements"
+        },
+        {
+          "name": "High school students",
+          "url": "https://openlibrary.org/subjects/high_school_students"
+        },
+        {
+          "name": "Political activity",
+          "url": "https://openlibrary.org/subjects/political_activity"
+        },
+        {
+          "name": "Education and state",
+          "url": "https://openlibrary.org/subjects/education_and_state"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "21st century",
+          "url": "https://openlibrary.org/subjects/time:21st_century"
+        }
+      ],
+      "notes": "Includes bibliographical references."
+    },
+    "ISBN:9788573267464": {
+      "url": "http://openlibrary.org/books/OL48595053M/Lojas_de_Canela_e_Outras_Narrativas_(Em_Portugues_do_Brasil)",
+      "key": "/books/OL48595053M",
+      "title": "Lojas de Canela e Outras Narrativas (Em Portugues do Brasil)",
+      "identifiers": {
+        "isbn_10": [
+          "8573267461"
+        ],
+        "isbn_13": [
+          "9788573267464"
+        ],
+        "openlibrary": [
+          "OL48595053M"
+        ]
+      }
+    },
+    "ISBN:9788573267532": {
+      "url": "http://openlibrary.org/books/OL60550583M/Poesia",
+      "key": "/books/OL60550583M",
+      "title": "Poesia +",
+      "subtitle": "(antologia 1985-2019)",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93109A/Edimilson_de_Almeida_Pereira",
+          "name": "Edimilson de Almeida Pereira"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL11695688A/Roberto_Zular",
+          "name": "Roberto Zular"
+        }
+      ],
+      "number_of_pages": 381,
+      "pagination": "381 pages",
+      "by_statement": "Edimilson de Almeida Pereira ; prefácio de Roberto Zular",
+      "identifiers": {
+        "isbn_10": [
+          "8573267534"
+        ],
+        "isbn_13": [
+          "9788573267532"
+        ],
+        "lccn": [
+          "2020344521"
+        ],
+        "oclc": [
+          "1137550455"
+        ],
+        "openlibrary": [
+          "OL60550583M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.26.E7119 A6 2019"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2019",
+      "notes": "\"A presente antologia ... colheu textos dos livros publicados entre 1985 e 2017\"--Page 25.\n\nIn title, \"+\" is represented by the plus sign.\n\nIncludes bibliographical references by the author and index.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Prefácio, Roberto Zular",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Nota do autor",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Esse corpo",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Poesia +",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ideias do mar",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ondas do rádio",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Imperfeito cantar",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Palavra-pênsil",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Casa-mundi",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Inéditos.",
+          "pagenum": ""
+        }
+      ]
+    },
+    "ISBN:9788573267495": {
+      "url": "http://openlibrary.org/books/OL44045521M/Seja_como_for",
+      "key": "/books/OL44045521M",
+      "title": "Seja como for",
+      "subtitle": "entrevistas, retratos e documentos",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL204202A/Roberto_Schwarz",
+          "name": "Roberto Schwarz"
+        }
+      ],
+      "number_of_pages": 447,
+      "pagination": "447 pages",
+      "by_statement": "Roberto Schwarz",
+      "identifiers": {
+        "isbn_10": [
+          "8573267496"
+        ],
+        "isbn_13": [
+          "9788573267495"
+        ],
+        "lccn": [
+          "2020342953"
+        ],
+        "oclc": [
+          "1140205525"
+        ],
+        "openlibrary": [
+          "OL44045521M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9509.5.S34 A5 2019",
+          "PQ9698.29.C44 A6 2019"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Livraria Duas Cidades"
+        },
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2019",
+      "subjects": [
+        {
+          "name": "Interviews",
+          "url": "https://openlibrary.org/subjects/interviews"
+        },
+        {
+          "name": "Criticism",
+          "url": "https://openlibrary.org/subjects/criticism"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "Politics and culture",
+          "url": "https://openlibrary.org/subjects/politics_and_culture"
+        },
+        {
+          "name": "Critique",
+          "url": "https://openlibrary.org/subjects/critique"
+        },
+        {
+          "name": "Littérature brésilienne",
+          "url": "https://openlibrary.org/subjects/littérature_brésilienne"
+        },
+        {
+          "name": "Histoire et critique",
+          "url": "https://openlibrary.org/subjects/histoire_et_critique"
+        },
+        {
+          "name": "Politique et culture",
+          "url": "https://openlibrary.org/subjects/politique_et_culture"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        },
+        {
+          "name": "Brésil",
+          "url": "https://openlibrary.org/subjects/place:brésil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Roberto Schwarz",
+          "url": "https://openlibrary.org/subjects/person:roberto_schwarz"
+        }
+      ],
+      "notes": "Mostly interviews held between 1978 and 2018.\n\nIncludes bibliographical references.",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13469399-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13469399-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13469399-L.jpg"
+      }
+    },
+    "ISBN:9786555250046": {
+      "url": "http://openlibrary.org/books/OL44023053M/Quanto_custa_um_elefante",
+      "key": "/books/OL44023053M",
+      "title": "Quanto custa um elefante?",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL5630109A/Marcelo_Mirisola",
+          "name": "Marcelo Mirisola"
+        }
+      ],
+      "number_of_pages": 125,
+      "pagination": "125 pages",
+      "by_statement": "Marcelo Mirisola",
+      "identifiers": {
+        "isbn_10": [
+          "6555250046"
+        ],
+        "isbn_13": [
+          "9786555250046"
+        ],
+        "lccn": [
+          "2021327184"
+        ],
+        "oclc": [
+          "1224119480"
+        ],
+        "openlibrary": [
+          "OL44023053M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9698.23.I794 Q36 2020"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2020",
+      "subjects": [
+        {
+          "name": "Brazilian fiction",
+          "url": "https://openlibrary.org/subjects/brazilian_fiction"
+        },
+        {
+          "name": "Romance fiction",
+          "url": "https://openlibrary.org/subjects/romance_fiction"
+        }
+      ]
+    }
+  }
+}

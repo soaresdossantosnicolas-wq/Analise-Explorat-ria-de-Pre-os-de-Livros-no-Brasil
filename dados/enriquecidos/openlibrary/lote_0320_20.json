@@ -1,0 +1,434 @@
+{
+  "consultado_em": "2026-11-19T22:38:13.686596+00:00",
+  "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788573265774%2CISBN%3A9788573265798%2CISBN%3A9788573265859%2CISBN%3A9788573265835%2CISBN%3A9788573265811%2CISBN%3A9788573265804%2CISBN%3A9788573265873%2CISBN%3A9788573265842%2CISBN%3A9788573265880%2CISBN%3A9788573265927%2CISBN%3A9788573265897%2CISBN%3A9788573265910%2CISBN%3A9788573265934%2CISBN%3A9788573265996%2CISBN%3A9788573265903%2CISBN%3A9788573265989%2CISBN%3A9788573265941%2CISBN%3A9788573265972%2CISBN%3A9788573265828%2CISBN%3A9788573266023&format=json&jscmd=data",
+  "resposta": {
+    "ISBN:9788573265774": {
+      "url": "http://openlibrary.org/books/OL61457592M/Ensaio_fragmento",
+      "key": "/books/OL61457592M",
+      "title": "Ensaio, fragmento",
+      "subtitle": "205 apontamentos de um ano",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL8820949A/Tales_A._M._Ab'Sáber",
+          "name": "Tales A. M. Ab'Sáber"
+        }
+      ],
+      "number_of_pages": 143,
+      "pagination": "143 pages",
+      "by_statement": "Tales Ab'Sáber",
+      "identifiers": {
+        "isbn_10": [
+          "8573265779"
+        ],
+        "isbn_13": [
+          "9788573265774"
+        ],
+        "oclc": [
+          "954199874"
+        ],
+        "openlibrary": [
+          "OL61457592M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ7889.3.A27 A6 2014",
+          "PQ9698.41.B73 A6 2014"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2014",
+      "subjects": [
+        {
+          "name": "Thought and thinking",
+          "url": "https://openlibrary.org/subjects/thought_and_thinking"
+        },
+        {
+          "name": "Thought and thinking in literature",
+          "url": "https://openlibrary.org/subjects/thought_and_thinking_in_literature"
+        },
+        {
+          "name": "Association of ideas",
+          "url": "https://openlibrary.org/subjects/association_of_ideas"
+        },
+        {
+          "name": "Brazilian literature",
+          "url": "https://openlibrary.org/subjects/brazilian_literature"
+        },
+        {
+          "name": "Philosophy",
+          "url": "https://openlibrary.org/subjects/philosophy"
+        },
+        {
+          "name": "Culture",
+          "url": "https://openlibrary.org/subjects/culture"
+        },
+        {
+          "name": "Brazilian essays",
+          "url": "https://openlibrary.org/subjects/brazilian_essays"
+        },
+        {
+          "name": "Specimens",
+          "url": "https://openlibrary.org/subjects/specimens"
+        },
+        {
+          "name": "Intellectual life",
+          "url": "https://openlibrary.org/subjects/intellectual_life"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "21st century",
+          "url": "https://openlibrary.org/subjects/time:21st_century"
+        }
+      ]
+    },
+    "ISBN:9788573265873": {
+      "url": "http://openlibrary.org/books/OL60965382M/Música_popular",
+      "key": "/books/OL60965382M",
+      "title": "Música popular",
+      "subtitle": "do gramofone ao rádio e TV",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL11686355A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 272,
+      "pagination": "272 pages",
+      "by_statement": "José Ramos Tinhorão",
+      "identifiers": {
+        "isbn_10": [
+          "8573265876"
+        ],
+        "isbn_13": [
+          "9788573265873"
+        ],
+        "oclc": [
+          "910104965"
+        ],
+        "openlibrary": [
+          "OL60965382M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML3487.B7 T5 2014"
+        ],
+        "dewey_decimal_class": [
+          "780/.42/0981"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Ed. 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2014",
+      "subjects": [
+        {
+          "name": "Música popular,",
+          "url": "https://openlibrary.org/subjects/música_popular,"
+        },
+        {
+          "name": "História,",
+          "url": "https://openlibrary.org/subjects/história,"
+        },
+        {
+          "name": "Rádio,",
+          "url": "https://openlibrary.org/subjects/rádio,"
+        },
+        {
+          "name": "Televisão,",
+          "url": "https://openlibrary.org/subjects/televisão,"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brasil",
+          "url": "https://openlibrary.org/subjects/place:brasil"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 263-270)."
+    },
+    "ISBN:9788573265897": {
+      "url": "http://openlibrary.org/books/OL59575601M/Dois_letrados_e_o_Brasil_nação",
+      "key": "/books/OL59575601M",
+      "title": "Dois letrados e o Brasil nação",
+      "subtitle": "a obra crítica de Oliveira Lima e Sérgio Buarque de Holanda",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1220643A/Antonio_Arnoni_Prado",
+          "name": "Antonio Arnoni Prado"
+        }
+      ],
+      "number_of_pages": 375,
+      "pagination": "375 pages",
+      "by_statement": "Antonio Arnoni Prado",
+      "identifiers": {
+        "isbn_10": [
+          "8573265892"
+        ],
+        "isbn_13": [
+          "9788573265897"
+        ],
+        "lccn": [
+          "2015340338"
+        ],
+        "oclc": [
+          "908952978"
+        ],
+        "openlibrary": [
+          "OL59575601M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PN99.B7 P73 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2015",
+      "subjects": [
+        {
+          "name": "Criticism",
+          "url": "https://openlibrary.org/subjects/criticism"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Brazilian National characteristics",
+          "url": "https://openlibrary.org/subjects/brazilian_national_characteristics"
+        },
+        {
+          "name": "Civilization",
+          "url": "https://openlibrary.org/subjects/civilization"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Oliveira Lima (1867-1928)",
+          "url": "https://openlibrary.org/subjects/person:oliveira_lima_(1867-1928)"
+        },
+        {
+          "name": "Sérgio Buarque de Holanda (1902-1982)",
+          "url": "https://openlibrary.org/subjects/person:sérgio_buarque_de_holanda_(1902-1982)"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 361-373)."
+    },
+    "ISBN:9788573265934": {
+      "url": "http://openlibrary.org/books/OL44543975M/Jóquei",
+      "key": "/books/OL44543975M",
+      "title": "Jóquei",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL8707673A/Matilde_Campilho",
+          "name": "Matilde Campilho"
+        }
+      ],
+      "number_of_pages": 152,
+      "pagination": "152 pages",
+      "by_statement": "Matilde Campilho",
+      "identifiers": {
+        "isbn_10": [
+          "8573265930"
+        ],
+        "isbn_13": [
+          "9788573265934"
+        ],
+        "oclc": [
+          "936546904"
+        ],
+        "openlibrary": [
+          "OL44543975M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PQ9261.C2384 J67 2014",
+          "PQ9261.C2384 J67 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2015",
+      "notes": "Poems.\n\nOriginally published: Edições Tinta-da-China : Lisboa, 2014."
+    },
+    "ISBN:9788573265989": {
+      "url": "http://openlibrary.org/books/OL60154558M/O_samba_agora_vai_...",
+      "key": "/books/OL60154558M",
+      "title": "O samba agora vai ...",
+      "subtitle": "a farsa da música popular no exterior",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL93507A/José_Ramos_Tinhorão",
+          "name": "José Ramos Tinhorão"
+        }
+      ],
+      "number_of_pages": 207,
+      "pagination": "207 pages",
+      "by_statement": "José Ramos Tinhorão",
+      "identifiers": {
+        "isbn_10": [
+          "8573265981"
+        ],
+        "isbn_13": [
+          "9788573265989"
+        ],
+        "lccn": [
+          "2015340816"
+        ],
+        "oclc": [
+          "971896113"
+        ],
+        "openlibrary": [
+          "OL60154558M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "ML2817.B7 T53 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo, SP, Brasil"
+        }
+      ],
+      "publish_date": "2015",
+      "subjects": [
+        {
+          "name": "Popular music",
+          "url": "https://openlibrary.org/subjects/popular_music"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 201-207)."
+    },
+    "ISBN:9788573265972": {
+      "url": "http://openlibrary.org/books/OL62275703M/Mulher_casa_e_cidade",
+      "key": "/books/OL62275703M",
+      "title": "Mulher, casa e cidade",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL4494580A/Antonio_Risério",
+          "name": "Antonio Risério"
+        },
+        {
+          "url": "http://openlibrary.org/authors/OL564717A/Heloísa_Buarque_de_Hollanda",
+          "name": "Heloísa Buarque de Hollanda"
+        }
+      ],
+      "number_of_pages": 422,
+      "pagination": "422 pages",
+      "by_statement": "Antonio Risério ; apresentação, Heloísa Buarque de Holanda",
+      "identifiers": {
+        "isbn_10": [
+          "8573265973"
+        ],
+        "isbn_13": [
+          "9788573265972"
+        ],
+        "oclc": [
+          "936037179"
+        ],
+        "openlibrary": [
+          "OL62275703M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "NA1997 .R57 2015"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Editora 34"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "São Paulo"
+        }
+      ],
+      "publish_date": "2015",
+      "subjects": [
+        {
+          "name": "Women architects",
+          "url": "https://openlibrary.org/subjects/women_architects"
+        },
+        {
+          "name": "Women city planners",
+          "url": "https://openlibrary.org/subjects/women_city_planners"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Brazil",
+          "url": "https://openlibrary.org/subjects/place:brazil"
+        }
+      ],
+      "notes": "Includes bibliographical references (pages 417-422)."
+    }
+  }
+}
